@@ -1,0 +1,126 @@
+{
+  "display_texts": [
+    "2026년 6월 10일 오전 9시 05분, 연구원 21명은 20시간 동안 72번 출격한 기록을 검토했습니다. 오후 12시 30분에는 4명이 3개 팀으로 나뉘어 2시간 15분 동안 다시 확인했습니다.",
+    "72번 버스를 타고 9번 출구로 나온 조사관은 제72번 문항을 확인했습니다. 현장에서는 경보가 72번 울렸고, 007번 요원은 3번째 문과 20번째 사물함을 차례로 열었습니다.",
+    "1972년 10월 6일, 항공기는 1,250km를 날아 173942회 신호 중 0.5퍼센트만 놓쳤습니다. 바깥 기온은 -12.5°C에서 +3°C로 올랐고, 연료 3.14퍼센트와 물 1/3을 남겼습니다.",
+    "NASA 소속 연구원과 FBI 요원은 CIA 보고서를 들고 USA 대표, USS 함장과 만났습니다. 뉴욕 SOHO의 SWATCH 매장에서 F-16과 F-24, K2와 K-2, K-ART 계획을 비교했습니다.",
+    "A320과 SR-71, B-2의 자료는 H3 영상과 RWS 이미지로 정리했습니다. AI가 TTS와 ASR을 돌려 FHD, 4K, 1080p 결과를 확인했고, GPT-5는 RTX 4090 그래픽카드와 USB-C 케이블, Wi-Fi 설정을 읽었습니다.",
+    "1살 아이와 2명의 구조대원, 3마리 구조견이 4대 차량에 나눠 탔습니다. 이들은 20개 상자, 21병의 물, 55장의 지도, 99건의 신고를 챙기고 100번 넘게 무전을 확인했습니다.",
+    "오전 9시 03분에 3분이 도착했고, 회의는 3분간 이어졌습니다. 담당자는 010-1234-5678로 전화해 09:05 기록과 23:15 기록, 6개월 일정과 10월 보고서를 다시 확인했습니다."
+  ],
+  "spoken_texts": [
+    "이천이십육년 유월 십일 오전 아홉 시 오 분, 연구원 스물한 명은 스무 시간 동안 일흔두 번 출격한 기록을 검토했습니다. 오후 열두 시 삼십 분에는 네 명이 세 개 팀으로 나뉘어 두 시간 십오 분 동안 다시 확인했습니다.",
+    "칠십이 번 버스를 타고 구 번 출구로 나온 조사관은 제칠십이 번 문항을 확인했습니다. 현장에서는 경보가 일흔두 번 울렸고, 공 공 칠 번 요원은 세 번째 문과 스무 번째 사물함을 차례로 열었습니다.",
+    "천구백칠십이년 시월 육일, 항공기는 천이백오십 킬로미터를 날아 십칠만삼천구백사십이회 신호 중 영 점 오 퍼센트만 놓쳤습니다. 바깥 기온은 영하 십이 점 오 도씨에서 영상 삼 도씨로 올랐고, 연료 삼 점 일사 퍼센트와 물 삼분의 일을 남겼습니다.",
+    "나사 소속 연구원과 에프비아이 요원은 씨아이에이 보고서를 들고 유에스에이 대표, 유에스에스 함장과 만났습니다. 뉴욕 소호의 스와치 매장에서 에프 십육과 에프 이십사, 케이 투와 케이 투, 케이 아트 계획을 비교했습니다.",
+    "에이 삼이공과 에스알 칠십일, 비 투의 자료는 에이치 쓰리 영상과 알더블유에스 이미지로 정리했습니다. 에이아이가 티티에스와 에이에스알을 돌려 에프에이치디, 포케이, 천팔십 피 결과를 확인했고, 지피티 파이브는 알티엑스 사공구공 그래픽카드와 유에스비 씨 케이블, 와이파이 설정을 읽었습니다.",
+    "한 살 아이와 두 명의 구조대원, 세 마리 구조견이 네 대 차량에 나눠 탔습니다. 이들은 스무 개 상자, 스물한 병의 물, 쉰다섯 장의 지도, 아흔아홉 건의 신고를 챙기고 백 번 넘게 무전을 확인했습니다.",
+    "오전 아홉 시 삼 분에 세 분이 도착했고, 회의는 삼 분간 이어졌습니다. 담당자는 공 일 공, 일 이 삼 사, 오 육 칠 팔로 전화해 아홉 시 오 분 기록과 이십삼 시 십오 분 기록, 여섯 개월 일정과 시월 보고서를 다시 확인했습니다."
+  ],
+  "rows": [
+    {
+      "expected": "이천이십육년 유월 십일 오전 아홉 시 오 분, 연구원 스물한 명은 스무 시간 동안 일흔두 번 출격한 기록을 검토했습니다. 오후 열두 시 삼십 분에는 네 명이 세 개 팀으로 나뉘어 두 시간 십오 분 동안 다시 확인했습니다.",
+      "recognized": "2026년 6월 10일 오전 9시 5분, 연구원 21명은 20시간 동안 72번 출격한 기록을 검토했습니다. 오후 12시 30분에는 4명이 3개 팀으로 나뉘어 2시간 15분 동안 다시 확인했습니다.",
+      "similarity": 1.0,
+      "coverage": 1.0,
+      "length_ratio": 1.0,
+      "critical_terms_checked": 14,
+      "missing_critical_terms": [],
+      "passed": true,
+      "audio": "C:\\Users\\KoreanTarotKing\\Documents\\로컬영상생성기\\tts_pronunciation_stress_v2\\mastered\\01_calendar_clock_counters_mastered.wav",
+      "asr": "C:\\Users\\KoreanTarotKing\\Documents\\로컬영상생성기\\tts_pronunciation_stress_v2\\asr\\01_calendar_clock_counters_mastered.json",
+      "boundary_padding": "passed"
+    },
+    {
+      "expected": "칠십이 번 버스를 타고 구 번 출구로 나온 조사관은 제칠십이 번 문항을 확인했습니다. 현장에서는 경보가 일흔두 번 울렸고, 공 공 칠 번 요원은 세 번째 문과 스무 번째 사물함을 차례로 열었습니다.",
+      "recognized": "72번 버스를 타고 9번 출구로 나온 조사관은 제72번 문항을 확인했습니다. 현장에서는 경보가 72번 울렸고 007번 요원은 세 번째 문과 스무 번째 사물함을 차례로 열었습니다.",
+      "similarity": 1.0,
+      "coverage": 1.0,
+      "length_ratio": 1.0,
+      "critical_terms_checked": 7,
+      "missing_critical_terms": [],
+      "passed": true,
+      "audio": "C:\\Users\\KoreanTarotKing\\Documents\\로컬영상생성기\\tts_pronunciation_stress_v2\\mastered\\02_repetition_vs_identifiers_mastered.wav",
+      "asr": "C:\\Users\\KoreanTarotKing\\Documents\\로컬영상생성기\\tts_pronunciation_stress_v2\\asr\\02_repetition_vs_identifiers_mastered.json",
+      "boundary_padding": "passed"
+    },
+    {
+      "expected": "천구백칠십이년 시월 육일, 항공기는 천이백오십 킬로미터를 날아 십칠만삼천구백사십이회 신호 중 영 점 오 퍼센트만 놓쳤습니다. 바깥 기온은 영하 십이 점 오 도씨에서 영상 삼 도씨로 올랐고, 연료 삼 점 일사 퍼센트와 물 삼분의 일을 남겼습니다.",
+      "recognized": "1972년 10월 6일 항공기는 1250km를 날아 173942회 신호 중 0.5%만 놓쳤습니다. 바깥 기온은 영하 12.5도씨에서 영상 3도씨로 올랐고 연료 3.14%와 물 3분의 1을 남겼습니다.",
+      "similarity": 1.0,
+      "coverage": 1.0,
+      "length_ratio": 1.0,
+      "critical_terms_checked": 10,
+      "missing_critical_terms": [],
+      "passed": true,
+      "audio": "C:\\Users\\KoreanTarotKing\\Documents\\로컬영상생성기\\tts_pronunciation_stress_v2\\mastered\\03_measurements_temperature_fraction_mastered.wav",
+      "asr": "C:\\Users\\KoreanTarotKing\\Documents\\로컬영상생성기\\tts_pronunciation_stress_v2\\asr\\03_measurements_temperature_fraction_mastered.json",
+      "boundary_padding": "passed"
+    },
+    {
+      "expected": "나사 소속 연구원과 에프비아이 요원은 씨아이에이 보고서를 들고 유에스에이 대표, 유에스에스 함장과 만났습니다. 뉴욕 소호의 스와치 매장에서 에프 십육과 에프 이십사, 케이 투와 케이 투, 케이 아트 계획을 비교했습니다.",
+      "recognized": "나사 소속 연구원과 FBI 요원은 CIA 보고서를 들고 USA 대표, USS 함장과 만났습니다. 뉴욕 소호의 스와치 매장에서 F16과 F24, K2와 K2, KART 계획을 비교했습니다.",
+      "similarity": 1.0,
+      "coverage": 1.0,
+      "length_ratio": 1.0,
+      "critical_terms_checked": 11,
+      "missing_critical_terms": [],
+      "passed": true,
+      "audio": "C:\\Users\\KoreanTarotKing\\Documents\\로컬영상생성기\\tts_pronunciation_stress_v2\\mastered\\04_acronyms_models_mastered.wav",
+      "asr": "C:\\Users\\KoreanTarotKing\\Documents\\로컬영상생성기\\tts_pronunciation_stress_v2\\asr\\04_acronyms_models_mastered.json",
+      "boundary_padding": "passed"
+    },
+    {
+      "expected": "에이 삼이공과 에스알 칠십일, 비 투의 자료는 에이치 쓰리 영상과 알더블유에스 이미지로 정리했습니다. 에이아이가 티티에스와 에이에스알을 돌려 에프에이치디, 포케이, 천팔십 피 결과를 확인했고, 지피티 파이브는 알티엑스 사공구공 그래픽카드와 유에스비 씨 케이블, 와이파이 설정을 읽었습니다.",
+      "recognized": "A320과 SR71, B2의 자료는 H3 영상과 RWS 이미지로 정리했습니다. AI가 TTS와 AESR을 돌려 FHD, 4K, 1080p 결과를 확인했고 GPT-5는 RTX 4090 그래픽카드와 USB-C 케이블, 와이파이 설정을 읽었습니다.",
+      "similarity": 1.0,
+      "coverage": 1.0,
+      "length_ratio": 1.0,
+      "critical_terms_checked": 15,
+      "missing_critical_terms": [],
+      "passed": true,
+      "audio": "C:\\Users\\KoreanTarotKing\\Documents\\로컬영상생성기\\tts_pronunciation_stress_v2\\mastered\\05_tech_codes_mastered.wav",
+      "asr": "C:\\Users\\KoreanTarotKing\\Documents\\로컬영상생성기\\tts_pronunciation_stress_v2\\asr\\05_tech_codes_mastered.json",
+      "boundary_padding": "passed"
+    },
+    {
+      "expected": "한 살 아이와 두 명의 구조대원, 세 마리 구조견이 네 대 차량에 나눠 탔습니다. 이들은 스무 개 상자, 스물한 병의 물, 쉰다섯 장의 지도, 아흔아홉 건의 신고를 챙기고 백 번 넘게 무전을 확인했습니다.",
+      "recognized": "1살 아이와 2명의 구조대원 3마리 구조견이 4대 차량에 나눠 탔습니다. 이들은 20개 상자 21병의 물 55장의 지도 99건의 신고를 챙기고 100번 넘게 무전을 확인했습니다.",
+      "similarity": 1.0,
+      "coverage": 1.0,
+      "length_ratio": 1.0,
+      "critical_terms_checked": 9,
+      "missing_critical_terms": [],
+      "passed": true,
+      "audio": "C:\\Users\\KoreanTarotKing\\Documents\\로컬영상생성기\\tts_pronunciation_stress_v2\\mastered\\06_native_counters_mastered.wav",
+      "asr": "C:\\Users\\KoreanTarotKing\\Documents\\로컬영상생성기\\tts_pronunciation_stress_v2\\asr\\06_native_counters_mastered.json",
+      "boundary_padding": "passed"
+    },
+    {
+      "expected": "오전 아홉 시 삼 분에 세 분이 도착했고, 회의는 삼 분간 이어졌습니다. 담당자는 공 일 공, 일 이 삼 사, 오 육 칠 팔로 전화해 아홉 시 오 분 기록과 이십삼 시 십오 분 기록, 여섯 개월 일정과 시월 보고서를 다시 확인했습니다.",
+      "recognized": "오전 9시 3분에 3분이 도착했고 회의는 3분간 이어졌습니다. 담당자는 010-12345678로 전화해 9시 5분 기록과 23시 15분 기록, 6개월 일정과 10월 보고서를 다시 확인했습니다.",
+      "similarity": 1.0,
+      "coverage": 1.0,
+      "length_ratio": 1.0,
+      "critical_terms_checked": 8,
+      "missing_critical_terms": [],
+      "passed": true,
+      "audio": "C:\\Users\\KoreanTarotKing\\Documents\\로컬영상생성기\\tts_pronunciation_stress_v2\\mastered\\07_phone_people_minutes_mastered.wav",
+      "asr": "C:\\Users\\KoreanTarotKing\\Documents\\로컬영상생성기\\tts_pronunciation_stress_v2\\asr\\07_phone_people_minutes_mastered.json",
+      "boundary_padding": "passed"
+    }
+  ],
+  "concat": {
+    "expected": "이천이십육년 유월 십일 오전 아홉 시 오 분, 연구원 스물한 명은 스무 시간 동안 일흔두 번 출격한 기록을 검토했습니다. 오후 열두 시 삼십 분에는 네 명이 세 개 팀으로 나뉘어 두 시간 십오 분 동안 다시 확인했습니다. 칠십이 번 버스를 타고 구 번 출구로 나온 조사관은 제칠십이 번 문항을 확인했습니다. 현장에서는 경보가 일흔두 번 울렸고, 공 공 칠 번 요원은 세 번째 문과 스무 번째 사물함을 차례로 열었습니다. 천구백칠십이년 시월 육일, 항공기는 천이백오십 킬로미터를 날아 십칠만삼천구백사십이회 신호 중 영 점 오 퍼센트만 놓쳤습니다. 바깥 기온은 영하 십이 점 오 도씨에서 영상 삼 도씨로 올랐고, 연료 삼 점 일사 퍼센트와 물 삼분의 일을 남겼습니다. 나사 소속 연구원과 에프비아이 요원은 씨아이에이 보고서를 들고 유에스에이 대표, 유에스에스 함장과 만났습니다. 뉴욕 소호의 스와치 매장에서 에프 십육과 에프 이십사, 케이 투와 케이 투, 케이 아트 계획을 비교했습니다. 에이 삼이공과 에스알 칠십일, 비 투의 자료는 에이치 쓰리 영상과 알더블유에스 이미지로 정리했습니다. 에이아이가 티티에스와 에이에스알을 돌려 에프에이치디, 포케이, 천팔십 피 결과를 확인했고, 지피티 파이브는 알티엑스 사공구공 그래픽카드와 유에스비 씨 케이블, 와이파이 설정을 읽었습니다. 한 살 아이와 두 명의 구조대원, 세 마리 구조견이 네 대 차량에 나눠 탔습니다. 이들은 스무 개 상자, 스물한 병의 물, 쉰다섯 장의 지도, 아흔아홉 건의 신고를 챙기고 백 번 넘게 무전을 확인했습니다. 오전 아홉 시 삼 분에 세 분이 도착했고, 회의는 삼 분간 이어졌습니다. 담당자는 공 일 공, 일 이 삼 사, 오 육 칠 팔로 전화해 아홉 시 오 분 기록과 이십삼 시 십오 분 기록, 여섯 개월 일정과 시월 보고서를 다시 확인했습니다.",
+    "recognized": "2026년 6월 10일 오전 9시 5분, 연구원 21명은 20시간 동안 72번 출격한 기록을 검토했습니다. 오후 12시 30분에는 4명이 3개 팀으로 나뉘어 2시간 15분 동안 다시 확인했습니다. 72번 버스를 타고 9번 출구로 나온 조사관은 제72번 문항을 확인했습니다. 현장에서는 경보가 72번 울렸고 007번 요원은 3번째 문과 20번째 사물함을 차례로 열었습니다. 1972년 10월 6일 항공기는 1250km를 날아 17만 3942회 신호 중 0.5%만 놓쳤습니다 바깥 기온은 영하 12.5도씨에서 영상 3도씨로 올랐고 연료 3.14%와 물 3분의 1을 남겼습니다 나사 소속 연구원과 FBI 요원은 CIA 보고서를 들고 USA 대표 USS 함장과 만났습니다 뉴욕 소호의 스와치 매장에서 F-16과 F-24, K2와 K2, K아트 계획을 비교했습니다 A320과 SR71, B2의 자료는 H3 영상과 RWS 이미지로 정리했습니다 AI가 TTS와 ASR을 돌려 FHD 4K 1080p 결과를 확인했고 GPT-5는 RTX 4090 그래픽카드와 USB-C, 케이블, 와이파이 설정을 읽었습니다 한 살 아이와 두 명의 구조대원, 세 마리 구조견이 4대 차량에 나눠 탔습니다 이들은 20개 상자, 21병의 물, 55장의 지도, 99건의 신고를 챙기고 100번 넘게 무전을 확인했습니다 오전 9시 3분에 3분이 도착했고 회의는 3분간 이어졌습니다. 담당자는 010-1234-5678로 전화해 9시 5분 기록과 23시 15분 기록 6개월 일정과 10월 보고서를 다시 확인했습니다.",
+    "similarity": 1.0,
+    "coverage": 1.0,
+    "length_ratio": 1.0,
+    "critical_terms_checked": 71,
+    "missing_critical_terms": [],
+    "passed": true,
+    "asr": "C:\\Users\\KoreanTarotKing\\Documents\\로컬영상생성기\\tts_pronunciation_stress_v2\\asr\\korean_pronunciation_stress_v2.json"
+  },
+  "failures": [],
+  "passed": true
+}
