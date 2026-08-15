@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <title>한국어 나레이션 발음 테스트 v1</title>
+  <style>
+    :root { color-scheme: dark; font-family: system-ui,-apple-system,"Noto Sans KR",sans-serif; }
+    body { margin: 0; background: #0d0f14; color: #f6f7fb; }
+    main { width: min(760px,calc(100% - 32px)); margin: 0 auto; padding: 32px 0 56px; }
+    h1 { font-size: clamp(24px,6vw,38px); margin: 0 0 10px; }
+    .meta { color: #aeb7c7; line-height: 1.55; margin-bottom: 24px; }
+    audio { width: 100%; display: block; margin: 18px 0; }
+    a { color: #79b8ff; }
+    details { margin-top: 24px; border: 1px solid #2d3442; border-radius: 14px; padding: 16px; background: #161a22; }
+    summary { cursor: pointer; font-weight: 750; }
+    ol { padding-left: 22px; }
+    li { margin: 14px 0; line-height: 1.6; }
+    code { white-space: normal; color: #f7d774; font-family: inherit; }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>한국어 나레이션 발음 테스트 v1</h1>
+    <p class="meta">화면 표기는 숫자·영문 그대로 유지하고, 음성 입력만 한국어 발음으로 변환했습니다. 원속도, 앞 120ms·뒤 220ms 보호 여백, 무배경음악.</p>
+    <audio controls playsinline preload="metadata" src="korean_pronunciation_test_v1.mp3"></audio>
+    <p><a href="korean_pronunciation_test_v1.mp3" download>MP3 직접 받기</a></p>
+    <details>
+      <summary>테스트 문장과 실제 TTS 입력 보기</summary>
+      <ol>
+        <li><b>표시:</b> 1937년, 1738년, 2001년, 1972년, 1830년, 1729년, 1932년입니다.<br><code>천구백삼십칠년, 천칠백삼십팔년, 이천일년, 천구백칠십이년, 천팔백삼십년, 천칠백이십구년, 천구백삼십이년입니다.</code></li>
+        <li><b>표시:</b> 173942회 기록했고, 72번 확인했습니다. 007번과 3.14퍼센트도 읽어봅니다.<br><code>십칠만삼천구백사십이회 기록했고, 칠십이번 확인했습니다. 공 공 칠번과 삼 점 일사퍼센트도 읽어봅니다.</code></li>
+        <li><b>표시:</b> FBI 요원과 NASA 연구원이 USA 대표와 USS 함장을 만났습니다. SOHO 거리의 SWATCH 매장입니다.<br><code>에프비아이 요원과 나사 연구원이 유에스에이 대표와 유에스에스 함장을 만났습니다. 소호 거리의 스와치 매장입니다.</code></li>
+        <li><b>표시:</b> F-16 전투기와 F-24 전투기, K2 전차와 K-2 표기, K-ART 프로젝트입니다.<br><code>에프 십육 전투기와 에프 이십사 전투기, 케이 투 전차와 케이 투 표기, 케이 아트 프로젝트입니다.</code></li>
+        <li><b>표시:</b> A320, SR-71, B-2, H3, RWS, AI, TTS, ASR, FHD를 읽습니다.<br><code>에이 삼이공, 에스알 칠십일, 비 투, 에이치 쓰리, 알더블유에스, 에이아이, 티티에스, 에이에스알, 에프에이치디를 읽습니다.</code></li>
+        <li><b>표시:</b> NASA의 F-16은 1972년에 72번 출격했고, USS 함정은 173942회 신호를 기록했습니다.<br><code>나사의 에프 십육은 천구백칠십이년에 칠십이번 출격했고, 유에스에스 함정은 십칠만삼천구백사십이회 신호를 기록했습니다.</code></li>
+        <li><b>표시:</b> 2026년 8월 15일 오전 9시 30분, 1,250km와 0.5퍼센트를 기록했습니다.<br><code>이천이십육년 팔월 십오일 오전 구시 삼십분, 천이백오십 킬로미터와 영 점 오퍼센트를 기록했습니다.</code></li>
+      </ol>
+    </details>
+  </main>
+</body>
+</html>
