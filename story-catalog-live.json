@@ -1,0 +1,50 @@
+{
+  "updated_at": "2026-08-21T21:36:50+0900",
+  "stories": [
+    {
+      "id": "STORY-227",
+      "number": 35,
+      "batch": "new",
+      "title": "이걸붙이네 ㄷㄷ",
+      "titleTop": "발바닥이 없이",
+      "titleBottom": "160km를 걸어간 남자",
+      "type": "verified",
+      "synopsis": "발바닥의 두꺼운 피부층까지 벗겨진 더글러스 모슨이 피부를 다시 붙이고, 밧줄 사다리와 임시 아이젠까지 직접 만들어 남극을 홀로 돌아온 실화를 각색했습니다.",
+      "commentPrompt": "모슨을 살린 건 의지였을까요, 매 순간 만든 생존 도구였을까요?",
+      "youtubeTitle": "이걸붙이네 ㄷㄷ",
+      "youtubeDescription": "발바닥 피부가 통째로 벗겨졌는데, 다시 붙이고 남극을 걸어간 남자가 있습니다.\n\n1912년 세 명이 떠난 남극 탐사에서 동료와 식량 대부분을 잃은 더글러스 모슨. 온몸의 피부가 벗겨지고 발바닥의 두꺼운 피부층까지 떨어졌지만, 피부를 다시 제자리에 묶고 양말 여섯 켤레와 모피 장화를 신었습니다. 깊은 얼음 틈에서는 밧줄 매듭을 붙잡고 기어올랐고, 이후 밧줄 사다리와 임시 아이젠까지 직접 만들어 홀로 귀환했습니다.\n\n※ 호주 남극 프로그램과 모슨의 기록을 바탕으로 표현과 장면을 각색했습니다. 마지막 사진은 1914년 더글러스 모슨의 퍼블릭 도메인 사진입니다.\n자료: https://www.antarctica.gov.au/about-antarctica/history/exploration-and-expeditions/australasian-antarctic-expedition/home-of-the-blizzard-book/chapter13/\n사진: https://commons.wikimedia.org/wiki/File:Mawson1914.jpg\n\n#세상별일 #더글러스모슨 #남극생존 #실화 #쇼츠",
+      "youtubePinnedComment": "발바닥은 붙이고, 신발은 만들고, 빠지면 다시 기어 올라온 모슨.\n그를 살린 결정적인 한 가지는 무엇이었다고 보시나요? 👇",
+      "uploadFilename": "이걸붙이네 ㄷㄷ_STORY-227_1080x1920.mp4",
+      "ready": true,
+      "video": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/STORY-227.mp4?v=1787315810",
+      "poster": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/STORY-227.jpg?v=1787315810",
+      "sources": [
+        {
+          "name": "Douglas Mawson — The Home of the Blizzard, Chapter 13",
+          "url": "https://www.antarctica.gov.au/about-antarctica/history/exploration-and-expeditions/australasian-antarctic-expedition/home-of-the-blizzard-book/chapter13/",
+          "primary": true
+        },
+        {
+          "name": "Australian Antarctic Program",
+          "url": "https://www.antarctica.gov.au/magazine/issue-22-2012/exploration/life-and-death-in-the-home-of-the-blizzard/",
+          "primary": false
+        }
+      ],
+      "claims": [
+        {
+          "text": "모슨의 탐사 기록과 호주 남극 프로그램 자료를 바탕으로 재구성한 실화이며 영상 표현과 장면은 각색했다.",
+          "certainty": "verified"
+        }
+      ],
+      "photo": {
+        "badge": "실제 사진",
+        "title": "1914년 더글러스 모슨",
+        "date": "1914",
+        "credit": "Unknown author, from Home of the Blizzard (1915), Public Domain",
+        "license": "Public Domain / PDM 1.0",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Mawson1914.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mawson1914.jpg"
+      }
+    }
+  ]
+}
