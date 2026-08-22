@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T06:57:06+0900",
+  "updated_at": "2026-08-23T07:04:27+0900",
   "stories": [
     {
       "id": "STORY-227",
@@ -16,8 +16,8 @@
       "youtubePinnedComment": "발바닥은 붙이고, 신발은 만들고, 빠지면 다시 기어 올라온 모슨.\n그를 살린 결정적인 한 가지는 무엇이었다고 보시나요? 👇",
       "uploadFilename": "이걸붙이네 ㄷㄷ_STORY-227_1080x1920.mp4",
       "ready": true,
-      "video": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/STORY-227.mp4?v=1787435797",
-      "poster": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/STORY-227.jpg?v=1787435797",
+      "video": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/STORY-227.mp4?v=1787436267-084c65f9f78e",
+      "poster": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/STORY-227.jpg?v=1787436267-084c65f9f78e",
       "sources": [
         {
           "name": "Douglas Mawson — The Home of the Blizzard, Chapter 13",
@@ -44,7 +44,10 @@
         "license": "Public Domain / PDM 1.0",
         "licenseUrl": "https://commons.wikimedia.org/wiki/File:Mawson1914.jpg",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mawson1914.jpg"
-      }
+      },
+      "deployment_id": "1787436267-084c65f9f78e",
+      "video_bytes": 92706351,
+      "video_sha256": "084c65f9f78e43bd9ff9af49c3387d15e9a5bd26fae1ac00db4c63abf817b4e2"
     },
     {
       "id": "STORY-228",
