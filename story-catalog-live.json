@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T07:04:27+0900",
+  "updated_at": "2026-08-23T07:06:44+0900",
   "stories": [
     {
       "id": "STORY-227",
@@ -64,8 +64,8 @@
       "youtubePinnedComment": "한시가 급할 때 사람을 살린 건 제대로 된 삽질이었습니다.\n여러분이라면 눈동굴, 뜨거운 물병, 구조 요청 중 무엇부터 했을까요? 👇",
       "uploadFilename": "삽질하네 ㄷㄷ_STORY-228_1080x1920.mp4",
       "ready": true,
-      "video": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/STORY-228.mp4?v=1787435826",
-      "poster": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/STORY-228.jpg?v=1787435826",
+      "video": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/STORY-228.mp4?v=1787436404-d88852139867",
+      "poster": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/STORY-228.jpg?v=1787436404-d88852139867",
       "sources": [
         {
           "name": "U.S. National Park Service — Fatal Climbing Fall on Mt. Johnson",
@@ -87,7 +87,10 @@
         "license": "U.S. National Park Service source image",
         "licenseUrl": "https://www.nps.gov/dena/learn/news/fatal-climbing-fall-on-mt-johnson.htm",
         "sourceUrl": "https://www.nps.gov/dena/learn/news/images/Mt_24.jpg"
-      }
+      },
+      "deployment_id": "1787436404-d88852139867",
+      "video_bytes": 74823277,
+      "video_sha256": "d88852139867e71beb93303876c0c7aae8aafaa07ab485f424b434ab385300ec"
     }
   ]
 }
