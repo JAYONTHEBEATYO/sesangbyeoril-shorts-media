@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T07:06:44+0900",
+  "updated_at": "2026-08-23T17:58:58+0900",
   "stories": [
     {
       "id": "STORY-227",
@@ -91,6 +91,59 @@
       "deployment_id": "1787436404-d88852139867",
       "video_bytes": 74823277,
       "video_sha256": "d88852139867e71beb93303876c0c7aae8aafaa07ab485f424b434ab385300ec"
+    },
+    {
+      "id": "STORY-226",
+      "number": 36,
+      "batch": "new",
+      "title": "이걸혼자끄네 ㄷㄷ",
+      "titleTop": "엔진이 없어?",
+      "titleBottom": "응~ 엔진할게",
+      "type": "verified",
+      "synopsis": "1942년 과달카날 해전에서 미군 고속수송함 그레고리가 침몰한 뒤, 취사병 찰스 잭슨 프렌치가 부상한 동료 열다섯 명의 뗏목을 허리에 묶고 밤바다를 헤엄쳐 적 해안에서 빼낸 실화를 각색했습니다.",
+      "commentPrompt": "여러분이라면 상어와 적 해안 중 무엇이 더 무서웠을까요?",
+      "youtubeTitle": "이걸혼자끄네 ㄷㄷ",
+      "youtubeDescription": "열다섯 명이 탄 뗏목을 움직인 엔진은 기계가 아니라 물속의 취사병 한 명이었습니다.\n\n1942년 과달카날 해전. 미군 고속수송함 그레고리가 침몰하자, 찰스 잭슨 프렌치는 다친 동료들을 뗏목에 올리고 밧줄을 허리에 묶었습니다. 적 해안으로 떠밀리는 뗏목을 끌며 상어가 있는 캄캄한 바다를 밤새 헤엄쳤고, 날이 밝은 뒤 모두 구조됐습니다.\n\n※ 미 해군과 해군역사유산사령부 공식 기록을 바탕으로 표현과 장면을 각색했습니다. 공식 현대 기록은 6시간 이상으로 설명하며, 영상의 8시간 표현은 여러 통용 서술을 반영한 각색입니다. 마지막은 구조 당시 사진이 아닌 미 해군 공식 헌정 이미지입니다.\n자료: https://www.navy.mil/Press-Office/News-Stories/Article/2941136/navy-dedicates-rescue-swimmer-pool-in-honor-of-sailor-wwii-hero/\n자료: https://www.history.navy.mil/content/dam/nhhc/about-us/leadership/hgram_pdfs/H-Gram_081.pdf\n\n#세상별일 #찰스잭슨프렌치 #과달카날 #생존 #실화 #쇼츠",
+      "youtubePinnedComment": "그날 뗏목에는 엔진이 없었지만, 열다섯 명을 살린 인간 예인선 한 명은 있었습니다.\n프렌치를 살린 건 체력, 책임감, 운 중 무엇이었다고 보시나요? 👇",
+      "uploadFilename": "이걸혼자끄네 ㄷㄷ_STORY-226_1080x1920.mp4",
+      "ready": true,
+      "video": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/STORY-226.mp4?v=1787475538-5563267377b7",
+      "poster": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/STORY-226.jpg?v=1787475538-5563267377b7",
+      "sources": [
+        {
+          "name": "U.S. Navy — Charles Jackson French rescue swimmer pool",
+          "url": "https://www.navy.mil/Press-Office/News-Stories/Article/2941136/navy-dedicates-rescue-swimmer-pool-in-honor-of-sailor-wwii-hero/",
+          "primary": true
+        },
+        {
+          "name": "Naval History and Heritage Command — H-Gram 081",
+          "url": "https://www.history.navy.mil/content/dam/nhhc/about-us/leadership/hgram_pdfs/H-Gram_081.pdf",
+          "primary": true
+        },
+        {
+          "name": "NHHC — USS Gregory (APD-3)",
+          "url": "https://www.history.navy.mil/our-collections/photography/us-navy-ships/alphabetical-listing/g/uss-gregory--apd-3-0.html",
+          "primary": true
+        }
+      ],
+      "claims": [
+        {
+          "text": "미 해군·해군역사유산사령부 자료를 바탕으로 재구성했으며 대본의 8시간과 수 킬로미터 표현 및 일부 영상 장면은 각색했다.",
+          "certainty": "adapted"
+        }
+      ],
+      "photo": {
+        "badge": "공식 헌정 이미지",
+        "title": "찰스 잭슨 프렌치 미 해군 공식 헌정 이미지",
+        "date": "2022",
+        "credit": "Willie Kendrick / U.S. Navy",
+        "license": "Public Domain · cleared for release",
+        "licenseUrl": "https://www.usff.navy.mil/Press-Room/Photo-Gallery/igphoto/2003003292/",
+        "sourceUrl": "https://www.usff.navy.mil/Press-Room/Photo-Gallery/igphoto/2003003292/"
+      },
+      "deployment_id": "1787475538-5563267377b7",
+      "video_bytes": 60495135,
+      "video_sha256": "5563267377b799862be360db3cc9f6cc7ec8f72f023a41a177e871705b0e00a9"
     }
   ]
 }
