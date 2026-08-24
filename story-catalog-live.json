@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T17:58:58+0900",
+  "updated_at": "2026-08-24T14:18:25+0900",
   "stories": [
     {
       "id": "STORY-227",
@@ -144,6 +144,56 @@
       "deployment_id": "1787475538-5563267377b7",
       "video_bytes": 60495135,
       "video_sha256": "5563267377b799862be360db3cc9f6cc7ec8f72f023a41a177e871705b0e00a9"
+    },
+    {
+      "id": "STORY-222",
+      "number": 37,
+      "batch": "new",
+      "title": "484일을버티네 ㄷㄷ",
+      "titleTop": "일년넘게 바다위에서",
+      "titleBottom": "존버하는 방법 ㄷㄷ",
+      "type": "verified",
+      "synopsis": "1813년 폭풍으로 돛대와 방향조정 키를 잃은 일본 화물선 도쿠조마루에서 선원들이 바닷물 증류기를 만들고 배의 나무판까지 뜯어 태우며 약 484일을 버틴 생존기를 각색했습니다.",
+      "commentPrompt": "식량, 생명수, 땔감 중 이 배에서 가장 먼저 끝났다면 치명적이었을 것은 무엇일까요?",
+      "youtubeTitle": "484일을버티네 ㄷㄷ",
+      "youtubeDescription": "배 한 척이 태평양에서 사라졌습니다. 그리고 약 484일 뒤, 열네 명 중 딱 세 명만 살아서 나타났습니다.\n\n1813년 일본 화물선 도쿠조마루. 폭풍으로 돛대와 방향조정 키를 잃고 표류하자 선원들은 솥과 쌀통, 찬 바닷물 대야를 이어 증류기를 만들었습니다. 장작이 떨어진 뒤에는 식수를 만들려고 자신들이 탄 배의 나무판까지 뜯어 불태웠습니다. 콩은 식량으로, 바닷물은 생명수로, 배는 땔감으로 바뀌었고 세 사람은 끝내 구조됐습니다.\n\n※ 일본·미국의 역사 기록을 바탕으로 표현과 시간 구간을 쇼츠용으로 압축 각색했습니다. 1813년 사건의 권리 확인된 실제 사진은 존재하지 않아 생성 장면으로 마무리합니다.\n자료: https://www.city.nishio.aichi.jp/_res/projects/default_project/_page_/001/003/583/04.pdf\n자료: https://www.wul.waseda.ac.jp/kotenseki/html/ru04/ru04_04084/index.html\n자료: https://www.sbhistorical.org/japanese-castaways-of-1815/\n\n#세상별일 #도쿠조마루 #표류생존 #실화 #쇼츠",
+      "youtubePinnedComment": "콩은 식량으로, 바닷물은 생명수로, 배는 땔감으로.\n484일을 버티게 한 결정적인 선택은 무엇이었다고 보시나요? 👇",
+      "uploadFilename": "484일을버티네 ㄷㄷ_STORY-222_1080x1920.mp4",
+      "ready": true,
+      "video": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/STORY-222.mp4?v=1787548705-974d9e03946b",
+      "poster": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/STORY-222.jpg?v=1787548705-974d9e03946b",
+      "sources": [
+        {
+          "name": "니시오시 역사자료",
+          "url": "https://www.city.nishio.aichi.jp/_res/projects/default_project/_page_/001/003/583/04.pdf",
+          "primary": true
+        },
+        {
+          "name": "와세다대학교 고전적 종합 데이터베이스",
+          "url": "https://www.wul.waseda.ac.jp/kotenseki/html/ru04/ru04_04084/index.html",
+          "primary": true
+        },
+        {
+          "name": "Santa Barbara Historical Museum",
+          "url": "https://www.sbhistorical.org/japanese-castaways-of-1815/",
+          "primary": false
+        },
+        {
+          "name": "Guinness World Records",
+          "url": "https://www.guinnessworldrecords.com/world-records/675871-longest-drift-by-a-ship",
+          "primary": false
+        }
+      ],
+      "claims": [
+        {
+          "text": "역사 기록의 사건 순서와 생존 장치를 바탕으로 재구성했으며 일부 시간 구간과 영상 장면은 쇼츠용 각색이다.",
+          "certainty": "adapted"
+        }
+      ],
+      "photo": null,
+      "deployment_id": "1787548705-974d9e03946b",
+      "video_bytes": 86400949,
+      "video_sha256": "974d9e03946b70d30b5e3800d3aca674d30cdaba9321ae4c5018347436abdf05"
     }
   ]
 }
