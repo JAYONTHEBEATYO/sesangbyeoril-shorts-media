@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T23:20:58+0900",
+  "updated_at": "2026-08-25T08:16:39+0900",
   "stories": [
     {
       "id": "STORY-227",
@@ -210,8 +210,8 @@
       "youtubePinnedComment": "특정 게임 실험에서 남성 참가자의 보상회로 반응이 더 강했지만, 이것만으로 모든 남성이 게임에 더 쉽게 중독된다고 일반화할 수는 없습니다.\n\n그래도 여러분 눈엔 옛날 가챠와 요즘 가챠 중 어느 쪽이 더 박진감 있어 보이나요? 👇",
       "uploadFilename": "남자가 게임에 환장하는 진짜 이유 ㄷㄷ_SCIENCE-001_1080x1920.mp4",
       "ready": true,
-      "video": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/SCIENCE-001.mp4?v=21b4605ddf99be99ba3d",
-      "poster": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/SCIENCE-001.jpg?v=21b4605ddf99be99ba3d",
+      "video": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/SCIENCE-001.mp4?v=09d691ccc2abf71d317d",
+      "poster": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/SCIENCE-001.jpg?v=09d691ccc2abf71d317d",
       "sources": [
         {
           "name": "Hoeft et al. — Gender differences in the mesocorticolimbic system during computer game-play",
@@ -234,9 +234,9 @@
         }
       ],
       "photo": null,
-      "deployment_id": "21b4605ddf99be99ba3d",
-      "video_bytes": 62448437,
-      "video_sha256": "0c27861877aeda56a5a91ab9810f27fba1987cc94df6f63764989b17555a4312"
+      "deployment_id": "09d691ccc2abf71d317d",
+      "video_bytes": 95967185,
+      "video_sha256": "6fedc56075ca8a6263e37387c1ffb475b618d5251769bde0483c29a8a47f1c8c"
     }
   ]
 }
