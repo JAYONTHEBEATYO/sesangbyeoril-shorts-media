@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T14:18:25+0900",
+  "updated_at": "2026-08-24T23:20:58+0900",
   "stories": [
     {
       "id": "STORY-227",
@@ -194,6 +194,49 @@
       "deployment_id": "1787548705-974d9e03946b",
       "video_bytes": 86400949,
       "video_sha256": "974d9e03946b70d30b5e3800d3aca674d30cdaba9321ae4c5018347436abdf05"
+    },
+    {
+      "id": "SCIENCE-001",
+      "number": 38,
+      "batch": "new",
+      "title": "남자가 게임에 환장하는 진짜 이유 ㄷㄷ",
+      "titleTop": "남자는 원시시대부터",
+      "titleBottom": "확률형에 미쳤다",
+      "type": "adapted",
+      "synopsis": "낮은 성공 확률의 사냥을 반복하던 수렵채집인의 보상 기대와 현대 게임의 반복 보상 구조를, 지구력 사냥과 측좌핵 연구를 엮어 위트 있게 각색했습니다.",
+      "commentPrompt": "여러분은 옛날 가챠인 사냥과 요즘 게임 중 어느 쪽이 더 박진감 있다고 보시나요?",
+      "youtubeTitle": "남자가 게임에 환장하는 진짜 이유 ㄷㄷ",
+      "youtubeDescription": "남자들은 원시시대부터 확률형 뽑기에 환장했습니다. 가챠 비용은 목숨, 전설 아이템은 사냥감이었죠.\n\n낮은 성공 확률에도 흔적을 좇아 달리던 수렵채집인의 사냥과, 같은 레이드를 반복하는 현대 게임의 보상 기대를 지구력 사냥과 측좌핵 연구를 엮어 각색했습니다.\n\n※ 영상 속 3.4%는 특정 Hadza 사냥 자료의 hunter-day 계산이며 모든 시대와 집단에 일반화할 수 없습니다. 또한 특정 영토획득 게임에서 남성 참가자의 보상회로 반응이 더 컸다는 연구는 남성의 측좌핵이 보편적으로 더 발달했다거나 모든 남성이 게임에 더 쉽게 중독된다는 뜻이 아닙니다. 재미를 위한 표현과 장면 각색이 포함돼 있습니다.\n연구: https://pubmed.ncbi.nlm.nih.gov/18194807/\n\n#세상별일 #게임 #뇌과학 #수렵채집 #측좌핵 #쇼츠",
+      "youtubePinnedComment": "특정 게임 실험에서 남성 참가자의 보상회로 반응이 더 강했지만, 이것만으로 모든 남성이 게임에 더 쉽게 중독된다고 일반화할 수는 없습니다.\n\n그래도 여러분 눈엔 옛날 가챠와 요즘 가챠 중 어느 쪽이 더 박진감 있어 보이나요? 👇",
+      "uploadFilename": "남자가 게임에 환장하는 진짜 이유 ㄷㄷ_SCIENCE-001_1080x1920.mp4",
+      "ready": true,
+      "video": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/SCIENCE-001.mp4?v=21b4605ddf99be99ba3d",
+      "poster": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/SCIENCE-001.jpg?v=21b4605ddf99be99ba3d",
+      "sources": [
+        {
+          "name": "Hoeft et al. — Gender differences in the mesocorticolimbic system during computer game-play",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/18194807/",
+          "primary": true
+        }
+      ],
+      "claims": [
+        {
+          "text": "특정 영토획득 게임 실험에서 남성 참가자의 중뇌-피질-변연계 반응과 연결성이 더 크게 관찰됐다.",
+          "certainty": "verified-narrow"
+        },
+        {
+          "text": "남성의 측좌핵이 보편적으로 더 발달했거나 모든 남성이 여성보다 게임에 쉽게 중독된다는 결론은 해당 연구가 증명하지 않는다.",
+          "certainty": "limitation"
+        },
+        {
+          "text": "수렵 성공확률, 가챠 비유, 성별 역할과 심리 연결에는 쇼츠용 표현과 각색이 포함돼 있다.",
+          "certainty": "adapted"
+        }
+      ],
+      "photo": null,
+      "deployment_id": "21b4605ddf99be99ba3d",
+      "video_bytes": 62448437,
+      "video_sha256": "0c27861877aeda56a5a91ab9810f27fba1987cc94df6f63764989b17555a4312"
     }
   ]
 }
