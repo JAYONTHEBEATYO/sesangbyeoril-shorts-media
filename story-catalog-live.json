@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T20:03:39+0900",
+  "updated_at": "2026-08-27T01:08:21+0900",
   "stories": [
     {
       "id": "STORY-227",
@@ -253,8 +253,8 @@
       "youtubePinnedComment": "여러분이라면 메가테리움, 스텝매머드, 팔라이올록소돈 중 무엇과 딱 10초 동안 마주치시겠습니까? 살아남을 방법도 함께 알려주세요 👇",
       "uploadFilename": "인간과 함께살던 실존괴물 탑10 ㄷㄷ_PREHISTORIC-001_1920x1080.mp4",
       "ready": true,
-      "video": "https://shorts-media.bgmfree.com/videos/PREHISTORIC-001/b60f3050caba165c2c77.mp4",
-      "poster": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/PREHISTORIC-001.jpg?v=b60f3050caba165c2c77",
+      "video": "https://shorts-media.bgmfree.com/videos/PREHISTORIC-001/8b8ddc2e299a43a41ef6.mp4",
+      "poster": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/PREHISTORIC-001.jpg?v=8b8ddc2e299a43a41ef6",
       "sources": [],
       "claims": [
         {
@@ -263,9 +263,9 @@
         }
       ],
       "photo": null,
-      "deployment_id": "b60f3050caba165c2c77",
-      "video_bytes": 273157613,
-      "video_sha256": "a96f2d10e989be9bbec6831460a429cfdb4f143968b9efe3f50416a8b9722783"
+      "deployment_id": "8b8ddc2e299a43a41ef6",
+      "video_bytes": 276288198,
+      "video_sha256": "a54706a9604d0ac08718fad68bc7215eeda23d54917770351033efe2eba6ba2b"
     }
   ]
 }
