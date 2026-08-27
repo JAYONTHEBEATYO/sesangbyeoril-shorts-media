@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-27T15:50:57+09:00",
+  "updated_at": "2026-08-27T16:19:58+09:00",
   "stories": [
     {
       "id": "STORY-227",
@@ -308,15 +308,15 @@
       "titleTop": "고릴라쌉바르는",
       "titleBottom": "300킬로짜리 원숭이",
       "type": "verified-adapted",
-      "synopsis": "기간토피테쿠스 챕터를 완성 롱폼만으로 리폼한 후킹재배치 버전입니다. 롱폼 안의 강한 문장을 콜드오픈으로 당겨 재배치한 버전입니다.",
+      "synopsis": "기간토피테쿠스 챕터를 완성 롱폼만으로 리폼한 후킹재배치 버전입니다. 롱폼 안의 강한 문장을 나레이션 무음 경계에 맞춰 정밀하게 콜드오픈으로 옮긴 버전입니다.",
       "commentPrompt": "",
       "youtubeTitle": "고릴라 쌉바르는 300킬로짜리 원숭이 ㄷㄷ",
       "youtubeDescription": "인간과 같은 시대를 살았던 기간토피테쿠스 이야기. 완성 롱폼에서 재구성한 리폼쇼츠입니다.\n\n#세상별일 #선사시대 #고생물 #리폼쇼츠",
       "youtubePinnedComment": "",
-      "uploadFilename": "PREHISTORIC001_R10_GIGANTOPITHECUS_B_hook_recut.mp4",
+      "uploadFilename": "PREHISTORIC001_R10_GIGANTOPITHECUS_B_hook_recut_precision_v2.mp4",
       "ready": true,
-      "video": "https://shorts-media.bgmfree.com/videos/PREHISTORIC-001-R10-B/1f0c7645297a7fcb99ff.mp4",
-      "poster": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/PREHISTORIC-001-R10-B.jpg?v=1f0c7645297a7fcb99ff",
+      "video": "https://shorts-media.bgmfree.com/videos/PREHISTORIC-001-R10-B/e41c1c74e4ad1294a66f.mp4",
+      "poster": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/PREHISTORIC-001-R10-B.jpg?v=e41c1c74e4ad1294a66f",
       "sources": [],
       "claims": [
         {
@@ -325,9 +325,9 @@
         }
       ],
       "photo": null,
-      "deployment_id": "1f0c7645297a7fcb99ff",
-      "video_bytes": 59256224,
-      "video_sha256": "bb4aef4f515d58dab793baf1d976c89448a69734d2101df1035e8fd6436c26fc"
+      "deployment_id": "e41c1c74e4ad1294a66f",
+      "video_bytes": 59262490,
+      "video_sha256": "f274f91ff90ad98deb1b0b8ef9e281506be512a443bafc329a822adc7a967420"
     },
     {
       "id": "PREHISTORIC-001-R09-A",
@@ -370,15 +370,15 @@
       "titleTop": "지바겐보다 큰",
       "titleBottom": "도마뱀 ㄷㄷ",
       "type": "verified-adapted",
-      "synopsis": "메갈라니아 챕터를 완성 롱폼만으로 리폼한 후킹재배치 버전입니다. 롱폼 안의 강한 문장을 콜드오픈으로 당겨 재배치한 버전입니다.",
+      "synopsis": "메갈라니아 챕터를 완성 롱폼만으로 리폼한 후킹재배치 버전입니다. 롱폼 안의 강한 문장을 나레이션 무음 경계에 맞춰 정밀하게 콜드오픈으로 옮긴 버전입니다.",
       "commentPrompt": "",
       "youtubeTitle": "지바겐보다 큰 도마뱀 ㄷㄷ",
       "youtubeDescription": "인간과 같은 시대를 살았던 메갈라니아 이야기. 완성 롱폼에서 재구성한 리폼쇼츠입니다.\n\n#세상별일 #선사시대 #고생물 #리폼쇼츠",
       "youtubePinnedComment": "",
-      "uploadFilename": "PREHISTORIC001_R09_MEGALANIA_B_hook_recut.mp4",
+      "uploadFilename": "PREHISTORIC001_R09_MEGALANIA_B_hook_recut_precision_v2.mp4",
       "ready": true,
-      "video": "https://shorts-media.bgmfree.com/videos/PREHISTORIC-001-R09-B/365a4bdc42b978929ea9.mp4",
-      "poster": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/PREHISTORIC-001-R09-B.jpg?v=365a4bdc42b978929ea9",
+      "video": "https://shorts-media.bgmfree.com/videos/PREHISTORIC-001-R09-B/0af960ccbb6f7b5c0fa0.mp4",
+      "poster": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/PREHISTORIC-001-R09-B.jpg?v=0af960ccbb6f7b5c0fa0",
       "sources": [],
       "claims": [
         {
@@ -387,9 +387,9 @@
         }
       ],
       "photo": null,
-      "deployment_id": "365a4bdc42b978929ea9",
-      "video_bytes": 42537735,
-      "video_sha256": "33a01b7950084e860e37ff21ac00e1c8fedf73665919eca985f9a31bdcf397c8"
+      "deployment_id": "0af960ccbb6f7b5c0fa0",
+      "video_bytes": 42584568,
+      "video_sha256": "890a554dc23bfb8ae6a8efd8c6b7c5a4d65d5be3b83e72d8a27b36c588b585e3"
     },
     {
       "id": "PREHISTORIC-001-R08-A",
@@ -432,15 +432,15 @@
       "titleTop": "제네시스만한",
       "titleBottom": "아르마딜로",
       "type": "verified-adapted",
-      "synopsis": "글립토돈 챕터를 완성 롱폼만으로 리폼한 후킹재배치 버전입니다. 롱폼 안의 강한 문장을 콜드오픈으로 당겨 재배치한 버전입니다.",
+      "synopsis": "글립토돈 챕터를 완성 롱폼만으로 리폼한 후킹재배치 버전입니다. 롱폼 안의 강한 문장을 나레이션 무음 경계에 맞춰 정밀하게 콜드오픈으로 옮긴 버전입니다.",
       "commentPrompt": "",
       "youtubeTitle": "제네시스만 한 아르마딜로 ㄷㄷ",
       "youtubeDescription": "인간과 같은 시대를 살았던 글립토돈 이야기. 완성 롱폼에서 재구성한 리폼쇼츠입니다.\n\n#세상별일 #선사시대 #고생물 #리폼쇼츠",
       "youtubePinnedComment": "",
-      "uploadFilename": "PREHISTORIC001_R08_GLYPTODON_B_hook_recut.mp4",
+      "uploadFilename": "PREHISTORIC001_R08_GLYPTODON_B_hook_recut_precision_v2.mp4",
       "ready": true,
-      "video": "https://shorts-media.bgmfree.com/videos/PREHISTORIC-001-R08-B/f597d218d01493202586.mp4",
-      "poster": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/PREHISTORIC-001-R08-B.jpg?v=f597d218d01493202586",
+      "video": "https://shorts-media.bgmfree.com/videos/PREHISTORIC-001-R08-B/a4fd146e2979307745c1.mp4",
+      "poster": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/PREHISTORIC-001-R08-B.jpg?v=a4fd146e2979307745c1",
       "sources": [],
       "claims": [
         {
@@ -449,9 +449,9 @@
         }
       ],
       "photo": null,
-      "deployment_id": "f597d218d01493202586",
-      "video_bytes": 61311072,
-      "video_sha256": "82f858ab49ad63d3dfbd6508ab8234ba4d43e1d9ec81df84b4d371f6c6e51c7c"
+      "deployment_id": "a4fd146e2979307745c1",
+      "video_bytes": 61584578,
+      "video_sha256": "7ace3bdebfd0840e77e04e3974fc0e528f5d9c334eac9ccdc41c533472fedffd"
     },
     {
       "id": "PREHISTORIC-001-R07-A",
@@ -494,15 +494,15 @@
       "titleTop": "농구골대 뜯어먹는",
       "titleBottom": "괴물곰",
       "type": "verified-adapted",
-      "synopsis": "아르크토두스 챕터를 완성 롱폼만으로 리폼한 후킹재배치 버전입니다. 롱폼 안의 강한 문장을 콜드오픈으로 당겨 재배치한 버전입니다.",
+      "synopsis": "아르크토두스 챕터를 완성 롱폼만으로 리폼한 후킹재배치 버전입니다. 롱폼 안의 강한 문장을 나레이션 무음 경계에 맞춰 정밀하게 콜드오픈으로 옮긴 버전입니다.",
       "commentPrompt": "",
       "youtubeTitle": "농구골대 뜯어먹는 괴물곰 ㄷㄷ",
       "youtubeDescription": "인간과 같은 시대를 살았던 아르크토두스 이야기. 완성 롱폼에서 재구성한 리폼쇼츠입니다.\n\n#세상별일 #선사시대 #고생물 #리폼쇼츠",
       "youtubePinnedComment": "",
-      "uploadFilename": "PREHISTORIC001_R07_ARCTODUS_B_hook_recut.mp4",
+      "uploadFilename": "PREHISTORIC001_R07_ARCTODUS_B_hook_recut_precision_v2.mp4",
       "ready": true,
-      "video": "https://shorts-media.bgmfree.com/videos/PREHISTORIC-001-R07-B/cf4f299028d6aa84a21c.mp4",
-      "poster": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/PREHISTORIC-001-R07-B.jpg?v=cf4f299028d6aa84a21c",
+      "video": "https://shorts-media.bgmfree.com/videos/PREHISTORIC-001-R07-B/e7255be3d2bf90a52bc8.mp4",
+      "poster": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/PREHISTORIC-001-R07-B.jpg?v=e7255be3d2bf90a52bc8",
       "sources": [],
       "claims": [
         {
@@ -511,9 +511,9 @@
         }
       ],
       "photo": null,
-      "deployment_id": "cf4f299028d6aa84a21c",
-      "video_bytes": 59147580,
-      "video_sha256": "869578ec9a84d98a2d1e68ebc1a7cb802adc825b7b81aa3681617cc2d1352c5c"
+      "deployment_id": "e7255be3d2bf90a52bc8",
+      "video_bytes": 59261210,
+      "video_sha256": "9c88250e4c00bbff3342306ee50c02ce29a9cf88e6fdbfca1f36eff6830fe443"
     },
     {
       "id": "PREHISTORIC-001-R06-A",
@@ -556,15 +556,15 @@
       "titleTop": "유니콘?",
       "titleBottom": "응~ 받아버릴게",
       "type": "verified-adapted",
-      "synopsis": "엘라스모테리움 챕터를 완성 롱폼만으로 리폼한 후킹재배치 버전입니다. 롱폼 안의 강한 문장을 콜드오픈으로 당겨 재배치한 버전입니다.",
+      "synopsis": "엘라스모테리움 챕터를 완성 롱폼만으로 리폼한 후킹재배치 버전입니다. 롱폼 안의 강한 문장을 나레이션 무음 경계에 맞춰 정밀하게 콜드오픈으로 옮긴 버전입니다.",
       "commentPrompt": "",
       "youtubeTitle": "유니콘? 응~ 받아버릴게 ㄷㄷ",
       "youtubeDescription": "인간과 같은 시대를 살았던 엘라스모테리움 이야기. 완성 롱폼에서 재구성한 리폼쇼츠입니다.\n\n#세상별일 #선사시대 #고생물 #리폼쇼츠",
       "youtubePinnedComment": "",
-      "uploadFilename": "PREHISTORIC001_R06_ELASMOTHERIUM_B_hook_recut.mp4",
+      "uploadFilename": "PREHISTORIC001_R06_ELASMOTHERIUM_B_hook_recut_precision_v2.mp4",
       "ready": true,
-      "video": "https://shorts-media.bgmfree.com/videos/PREHISTORIC-001-R06-B/f80cddd8270da10db2c1.mp4",
-      "poster": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/PREHISTORIC-001-R06-B.jpg?v=f80cddd8270da10db2c1",
+      "video": "https://shorts-media.bgmfree.com/videos/PREHISTORIC-001-R06-B/0bc1e9b665676ea7b520.mp4",
+      "poster": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/PREHISTORIC-001-R06-B.jpg?v=0bc1e9b665676ea7b520",
       "sources": [],
       "claims": [
         {
@@ -573,9 +573,9 @@
         }
       ],
       "photo": null,
-      "deployment_id": "f80cddd8270da10db2c1",
-      "video_bytes": 59653892,
-      "video_sha256": "7925c4511f106390266dd3f01c54a2c49e16eb2f08ec6cc1d0ae85e3a0e153de"
+      "deployment_id": "0bc1e9b665676ea7b520",
+      "video_bytes": 59964150,
+      "video_sha256": "26981324f513277bb353396fc3feb24617a6975bdd681101879a74810fda754c"
     },
     {
       "id": "PREHISTORIC-001-R05-A",
@@ -618,15 +618,15 @@
       "titleTop": "귀여운웜뱃?",
       "titleBottom": "이건 좀 다른데 ㄷㄷ",
       "type": "verified-adapted",
-      "synopsis": "디프로토돈 챕터를 완성 롱폼만으로 리폼한 후킹재배치 버전입니다. 롱폼 안의 강한 문장을 콜드오픈으로 당겨 재배치한 버전입니다.",
+      "synopsis": "디프로토돈 챕터를 완성 롱폼만으로 리폼한 후킹재배치 버전입니다. 롱폼 안의 강한 문장을 나레이션 무음 경계에 맞춰 정밀하게 콜드오픈으로 옮긴 버전입니다.",
       "commentPrompt": "",
       "youtubeTitle": "귀여운 웜뱃? 이건 좀 다른데 ㄷㄷ",
       "youtubeDescription": "인간과 같은 시대를 살았던 디프로토돈 이야기. 완성 롱폼에서 재구성한 리폼쇼츠입니다.\n\n#세상별일 #선사시대 #고생물 #리폼쇼츠",
       "youtubePinnedComment": "",
-      "uploadFilename": "PREHISTORIC001_R05_DIPROTODON_B_hook_recut.mp4",
+      "uploadFilename": "PREHISTORIC001_R05_DIPROTODON_B_hook_recut_precision_v2.mp4",
       "ready": true,
-      "video": "https://shorts-media.bgmfree.com/videos/PREHISTORIC-001-R05-B/89fe8337b71183b9088a.mp4",
-      "poster": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/PREHISTORIC-001-R05-B.jpg?v=89fe8337b71183b9088a",
+      "video": "https://shorts-media.bgmfree.com/videos/PREHISTORIC-001-R05-B/29ea9e5b8b399cb29584.mp4",
+      "poster": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/PREHISTORIC-001-R05-B.jpg?v=29ea9e5b8b399cb29584",
       "sources": [],
       "claims": [
         {
@@ -635,9 +635,9 @@
         }
       ],
       "photo": null,
-      "deployment_id": "89fe8337b71183b9088a",
-      "video_bytes": 61969499,
-      "video_sha256": "cb761ca4165587d6c3fc92a047c1f90deedcc73dd3f543a27feb09d66e8d1828"
+      "deployment_id": "29ea9e5b8b399cb29584",
+      "video_bytes": 61890157,
+      "video_sha256": "df00314030a39bcce5e5573597b82431b82fabcba20449d2fa2ea212ca8ebf85"
     },
     {
       "id": "PREHISTORIC-001-R04-A",
@@ -680,15 +680,15 @@
       "titleTop": "나무 뿌러뜨리는",
       "titleBottom": "괴물나무늘보 ㄷㄷ",
       "type": "verified-adapted",
-      "synopsis": "메가테리움 챕터를 완성 롱폼만으로 리폼한 후킹재배치 버전입니다. 롱폼 안의 강한 문장을 콜드오픈으로 당겨 재배치한 버전입니다.",
+      "synopsis": "메가테리움 챕터를 완성 롱폼만으로 리폼한 후킹재배치 버전입니다. 롱폼 안의 강한 문장을 나레이션 무음 경계에 맞춰 정밀하게 콜드오픈으로 옮긴 버전입니다.",
       "commentPrompt": "",
       "youtubeTitle": "나무 뿌러뜨리는 괴물나무늘보 ㄷㄷ",
       "youtubeDescription": "인간과 같은 시대를 살았던 메가테리움 이야기. 완성 롱폼에서 재구성한 리폼쇼츠입니다.\n\n#세상별일 #선사시대 #고생물 #리폼쇼츠",
       "youtubePinnedComment": "",
-      "uploadFilename": "PREHISTORIC001_R04_MEGATHERIUM_B_hook_recut.mp4",
+      "uploadFilename": "PREHISTORIC001_R04_MEGATHERIUM_B_hook_recut_precision_v2.mp4",
       "ready": true,
-      "video": "https://shorts-media.bgmfree.com/videos/PREHISTORIC-001-R04-B/332fe51bf18706aa1fad.mp4",
-      "poster": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/PREHISTORIC-001-R04-B.jpg?v=332fe51bf18706aa1fad",
+      "video": "https://shorts-media.bgmfree.com/videos/PREHISTORIC-001-R04-B/28f0918d6c4452495e27.mp4",
+      "poster": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/PREHISTORIC-001-R04-B.jpg?v=28f0918d6c4452495e27",
       "sources": [],
       "claims": [
         {
@@ -697,9 +697,9 @@
         }
       ],
       "photo": null,
-      "deployment_id": "332fe51bf18706aa1fad",
-      "video_bytes": 66674437,
-      "video_sha256": "a21f426fb82297bc6216f6d3d3f822012267c1e5eba9c698be88623376eb381e"
+      "deployment_id": "28f0918d6c4452495e27",
+      "video_bytes": 67036653,
+      "video_sha256": "1b365d508d4f7a82229c69e71e1199b92a2acbf98bb5e9032d8bb5d044b988b2"
     },
     {
       "id": "PREHISTORIC-001-R03-A",
@@ -742,15 +742,15 @@
       "titleTop": "개꿀 보급상자",
       "titleBottom": "털매머드",
       "type": "verified-adapted",
-      "synopsis": "털매머드 챕터를 완성 롱폼만으로 리폼한 후킹재배치 버전입니다. 롱폼 안의 강한 문장을 콜드오픈으로 당겨 재배치한 버전입니다.",
+      "synopsis": "털매머드 챕터를 완성 롱폼만으로 리폼한 후킹재배치 버전입니다. 롱폼 안의 강한 문장을 나레이션 무음 경계에 맞춰 정밀하게 콜드오픈으로 옮긴 버전입니다.",
       "commentPrompt": "",
       "youtubeTitle": "개꿀 보급상자 털매머드 ㄷㄷ",
       "youtubeDescription": "인간과 같은 시대를 살았던 털매머드 이야기. 완성 롱폼에서 재구성한 리폼쇼츠입니다.\n\n#세상별일 #선사시대 #고생물 #리폼쇼츠",
       "youtubePinnedComment": "",
-      "uploadFilename": "PREHISTORIC001_R03_WOOLLY_MAMMOTH_B_hook_recut.mp4",
+      "uploadFilename": "PREHISTORIC001_R03_WOOLLY_MAMMOTH_B_hook_recut_precision_v2.mp4",
       "ready": true,
-      "video": "https://shorts-media.bgmfree.com/videos/PREHISTORIC-001-R03-B/c295d51745c17f3fa3dd.mp4",
-      "poster": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/PREHISTORIC-001-R03-B.jpg?v=c295d51745c17f3fa3dd",
+      "video": "https://shorts-media.bgmfree.com/videos/PREHISTORIC-001-R03-B/82b8d95f466a77633220.mp4",
+      "poster": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/PREHISTORIC-001-R03-B.jpg?v=82b8d95f466a77633220",
       "sources": [],
       "claims": [
         {
@@ -759,9 +759,9 @@
         }
       ],
       "photo": null,
-      "deployment_id": "c295d51745c17f3fa3dd",
-      "video_bytes": 59238046,
-      "video_sha256": "a50ac0ff913d9e26b3d8d891cca39d2a60c822969acf7acb45a45991c69d0b99"
+      "deployment_id": "82b8d95f466a77633220",
+      "video_bytes": 59344587,
+      "video_sha256": "1c576846c970652f3c7e42cebdc0b204680cc3604382ab22d2d23b0bfa939c75"
     },
     {
       "id": "PREHISTORIC-001-R02-A",
@@ -804,15 +804,15 @@
       "titleTop": "코끼리 1+1",
       "titleBottom": "스텝매머드",
       "type": "verified-adapted",
-      "synopsis": "스텝매머드 챕터를 완성 롱폼만으로 리폼한 후킹재배치 버전입니다. 롱폼 안의 강한 문장을 콜드오픈으로 당겨 재배치한 버전입니다.",
+      "synopsis": "스텝매머드 챕터를 완성 롱폼만으로 리폼한 후킹재배치 버전입니다. 롱폼 안의 강한 문장을 나레이션 무음 경계에 맞춰 정밀하게 콜드오픈으로 옮긴 버전입니다.",
       "commentPrompt": "",
       "youtubeTitle": "코끼리 1+1 스텝매머드 ㄷㄷ",
       "youtubeDescription": "인간과 같은 시대를 살았던 스텝매머드 이야기. 완성 롱폼에서 재구성한 리폼쇼츠입니다.\n\n#세상별일 #선사시대 #고생물 #리폼쇼츠",
       "youtubePinnedComment": "",
-      "uploadFilename": "PREHISTORIC001_R02_STEPPE_MAMMOTH_B_hook_recut.mp4",
+      "uploadFilename": "PREHISTORIC001_R02_STEPPE_MAMMOTH_B_hook_recut_precision_v2.mp4",
       "ready": true,
-      "video": "https://shorts-media.bgmfree.com/videos/PREHISTORIC-001-R02-B/934defb49f5e4f24e291.mp4",
-      "poster": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/PREHISTORIC-001-R02-B.jpg?v=934defb49f5e4f24e291",
+      "video": "https://shorts-media.bgmfree.com/videos/PREHISTORIC-001-R02-B/a1678616d651e696ce01.mp4",
+      "poster": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/PREHISTORIC-001-R02-B.jpg?v=a1678616d651e696ce01",
       "sources": [],
       "claims": [
         {
@@ -821,9 +821,9 @@
         }
       ],
       "photo": null,
-      "deployment_id": "934defb49f5e4f24e291",
-      "video_bytes": 59315411,
-      "video_sha256": "070ade188304c9094691ab46857a06c87ba725a416aaae24313a3bc0938bc98a"
+      "deployment_id": "a1678616d651e696ce01",
+      "video_bytes": 59174122,
+      "video_sha256": "2b16ae6faf35fdb782ba3d40fb1d6d884fd955312fa783d8f8703d793a1629f4"
     },
     {
       "id": "PREHISTORIC-001-R01-A",
@@ -866,15 +866,15 @@
       "titleTop": "핸들이고장난",
       "titleBottom": "18톤 트럭 ㄷㄷ",
       "type": "verified-adapted",
-      "synopsis": "팔라이올록소돈 나마디쿠스 챕터를 완성 롱폼만으로 리폼한 후킹재배치 버전입니다. 롱폼 안의 강한 문장을 콜드오픈으로 당겨 재배치한 버전입니다.",
+      "synopsis": "팔라이올록소돈 나마디쿠스 챕터를 완성 롱폼만으로 리폼한 후킹재배치 버전입니다. 롱폼 안의 강한 문장을 나레이션 무음 경계에 맞춰 정밀하게 콜드오픈으로 옮긴 버전입니다.",
       "commentPrompt": "",
       "youtubeTitle": "핸들이 고장난 18톤 트럭 ㄷㄷ",
       "youtubeDescription": "인간과 같은 시대를 살았던 팔라이올록소돈 나마디쿠스 이야기. 완성 롱폼에서 재구성한 리폼쇼츠입니다.\n\n#세상별일 #선사시대 #고생물 #리폼쇼츠",
       "youtubePinnedComment": "",
-      "uploadFilename": "PREHISTORIC001_R01_NAMADICUS_B_hook_recut.mp4",
+      "uploadFilename": "PREHISTORIC001_R01_NAMADICUS_B_hook_recut_precision_v2.mp4",
       "ready": true,
-      "video": "https://shorts-media.bgmfree.com/videos/PREHISTORIC-001-R01-B/576897cdc7a37f91a6f7.mp4",
-      "poster": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/PREHISTORIC-001-R01-B.jpg?v=576897cdc7a37f91a6f7",
+      "video": "https://shorts-media.bgmfree.com/videos/PREHISTORIC-001-R01-B/3fcd97ba305b3a252e55.mp4",
+      "poster": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/PREHISTORIC-001-R01-B.jpg?v=3fcd97ba305b3a252e55",
       "sources": [],
       "claims": [
         {
@@ -883,9 +883,9 @@
         }
       ],
       "photo": null,
-      "deployment_id": "576897cdc7a37f91a6f7",
-      "video_bytes": 71299712,
-      "video_sha256": "a86a1017767d99c8e50819aacc1ec630ba022c30799957caa45086aaa5203f6c"
+      "deployment_id": "3fcd97ba305b3a252e55",
+      "video_bytes": 71148909,
+      "video_sha256": "836bfea983c335aa81b94043fb5b09be2b3c54ac78f8a5277999e6824e794535"
     }
   ]
 }
