@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-27T16:19:58+09:00",
+  "updated_at": "2026-08-28T00:10:07+0900",
   "stories": [
     {
       "id": "STORY-227",
@@ -886,6 +886,59 @@
       "deployment_id": "3fcd97ba305b3a252e55",
       "video_bytes": 71148909,
       "video_sha256": "836bfea983c335aa81b94043fb5b09be2b3c54ac78f8a5277999e6824e794535"
+    },
+    {
+      "id": "SCIENCE-002",
+      "number": 40,
+      "batch": "new",
+      "title": "이걸안헹구네 ㄷㄷ",
+      "titleTop": "호주식 설거지",
+      "titleBottom": "세제 안 헹궈도 됨?",
+      "type": "verified-adapted",
+      "synopsis": "호주와 영국 일부 가정의 무헹굼 설거지 문화를 세제 희석농도, 잔여세제 노출 모델과 LAS 배출 연구로 설명한 과학 코미디 쇼츠입니다.",
+      "commentPrompt": "거품 묻은 접시를 헹구지 않고 행주로 닦아 넣는 설거지, 직접 해볼 수 있나요?",
+      "youtubeTitle": "이걸안헹구네 ㄷㄷ",
+      "youtubeDescription": "거품 묻은 접시를 헹구지 않고 행주로 닦아 찬장에 넣는 호주·영국식 설거지. 왜 매일 세제를 먹고도 멀쩡한 걸까요?\n\n영국 특정 지역의 손설거지 조사와 RIVM의 보수적 소비자 노출 모델, LAS 동물 독성동태 자료를 바탕으로 세제 농도와 잔여량을 설명했습니다. 영상 속 0.42밀리그램은 정해진 희석·무헹굼 조건을 적용한 보수적 모델 추정치이며 모든 세제 제형과 사람의 실제 섭취량을 뜻하지 않습니다.\n\n#세상별일 #호주 #영국 #설거지 #생활과학 #쇼츠",
+      "youtubePinnedComment": "거품 묻은 접시를 그냥 행주로 슥삭해서 넣는 설거지, 거의 문제가 없다고 해도 직접 할 수 있으신가요? 👇",
+      "uploadFilename": "이걸안헹구네 ㄷㄷ_SCIENCE-002_1080x1920.mp4",
+      "ready": true,
+      "video": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/SCIENCE-002.mp4?v=710058541bedc4e54b76",
+      "poster": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/SCIENCE-002.jpg?v=710058541bedc4e54b76",
+      "sources": [
+        {
+          "name": "RIVM — Cleaning Products Fact Sheet",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK561665/",
+          "primary": true
+        },
+        {
+          "name": "University of Manchester — Domestic dishwashing practices",
+          "url": "https://pure.manchester.ac.uk/ws/portalfiles/portal/38493062/FULL_TEXT.pdf",
+          "primary": true
+        },
+        {
+          "name": "LAS toxicokinetics study",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/100903/",
+          "primary": true
+        }
+      ],
+      "claims": [
+        {
+          "text": "64퍼센트는 영국 전체가 아니라 특정 지역 조사에서 싱크대 손설거지를 한 집단의 결과다.",
+          "certainty": "verified-with-scope"
+        },
+        {
+          "text": "하루 0.42밀리그램은 정해진 희석·무헹굼 조건을 적용한 보수적 노출 모델 추정치다.",
+          "certainty": "verified-model"
+        },
+        {
+          "text": "모든 식기세제와 모든 사람에게 절대적으로 무해하다는 뜻은 아니다.",
+          "certainty": "limitation"
+        }
+      ],
+      "photo": null,
+      "deployment_id": "710058541bedc4e54b76",
+      "video_bytes": 94421247,
+      "video_sha256": "80f5b8d51466d672f4d04b12549e9a755c355b6ae5e1dd077f2ab8bd98c711d3"
     }
   ]
 }
