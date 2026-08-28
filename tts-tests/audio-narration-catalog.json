@@ -1,6 +1,19 @@
 {
-  "updatedAt": "2026-08-28T01:46:23.137553Z",
+  "updatedAt": "2026-08-28T01:50:59.281370Z",
   "items": [
+    {
+      "storyCode": "STORY-336",
+      "version": "v2",
+      "title": "바다 한가운데 웬 강아지 한 마리?",
+      "youtubeTitle": "이걸건지네 ㄷㄷ",
+      "durationSeconds": 89.669,
+      "audioUrl": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/tts-tests/STORY-336_narration_approval_v2.mp3?v=1f7e52d687",
+      "downloadUrl": "https://raw.githubusercontent.com/JAYONTHEBEATYO/sesangbyeoril-shorts-media/gh-pages/tts-tests/STORY-336_narration_approval_v2.mp3?v=1f7e52d687",
+      "playerUrl": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/tts-tests/STORY-336_audio_review_v2.html?v=1f7e52d687",
+      "status": "승인 대기",
+      "updatedAt": "2026-08-28T01:50:59.281370Z",
+      "note": "강아지가·찹추 발음을 최소문장 재생성으로 교정한 버전"
+    },
     {
       "storyCode": "STORY-309",
       "version": "v2",
@@ -77,19 +90,6 @@
       "playerUrl": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/tts-tests/STORY-304_audio_review_v1.html?v=ad660fe3ca",
       "status": "승인 대기",
       "updatedAt": "2026-08-27T17:22:07Z",
-      "note": "확정 대본 기준 발음·문장 누락·끝음절 검수 완료"
-    },
-    {
-      "storyCode": "STORY-336",
-      "version": "v1",
-      "title": "바다 한가운데 웬 강아지 한 마리?",
-      "youtubeTitle": "이걸건지네 ㄷㄷ",
-      "durationSeconds": 90.107,
-      "audioUrl": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/tts-tests/STORY-336_narration_approval_v1.mp3?v=5f508b1a17",
-      "downloadUrl": "https://raw.githubusercontent.com/JAYONTHEBEATYO/sesangbyeoril-shorts-media/gh-pages/tts-tests/STORY-336_narration_approval_v1.mp3?v=5f508b1a17",
-      "playerUrl": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/tts-tests/STORY-336_audio_review_v1.html?v=5f508b1a17",
-      "status": "승인 대기",
-      "updatedAt": "2026-08-27T17:19:25Z",
       "note": "확정 대본 기준 발음·문장 누락·끝음절 검수 완료"
     }
   ]
