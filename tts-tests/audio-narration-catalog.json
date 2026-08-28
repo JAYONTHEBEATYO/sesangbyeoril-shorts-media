@@ -1,6 +1,19 @@
 {
-  "updatedAt": "2026-08-28T00:48:04.905642Z",
+  "updatedAt": "2026-08-28T00:48:30.738530Z",
   "items": [
+    {
+      "storyCode": "STORY-224",
+      "version": "v1",
+      "title": "아무것도 없는 바다에서 34일 버티는 법 ㄷㄷ",
+      "youtubeTitle": "이걸버티네 ㄷㄷ",
+      "durationSeconds": 131.374,
+      "audioUrl": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/tts-tests/STORY-224_narration_approval_v1.mp3?v=4b7067ab72",
+      "downloadUrl": "https://raw.githubusercontent.com/JAYONTHEBEATYO/sesangbyeoril-shorts-media/gh-pages/tts-tests/STORY-224_narration_approval_v1.mp3?v=4b7067ab72",
+      "playerUrl": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/tts-tests/STORY-224_audio_review_v1.html?v=4b7067ab72",
+      "status": "승인 대기",
+      "updatedAt": "2026-08-28T00:48:30.738530Z",
+      "note": "확정 대본 기준 발음·문장 누락·끝음절 검수 완료"
+    },
     {
       "storyCode": "STORY-136",
       "version": "v1",
