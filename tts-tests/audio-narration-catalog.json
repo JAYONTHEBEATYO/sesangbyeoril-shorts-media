@@ -1,6 +1,19 @@
 {
-  "updatedAt": "2026-08-28T00:46:46.044711Z",
+  "updatedAt": "2026-08-28T00:48:04.905642Z",
   "items": [
+    {
+      "storyCode": "STORY-136",
+      "version": "v1",
+      "title": "10년 바람핀 남친 6달러로 보내는법",
+      "youtubeTitle": "응 보냈죠? ㄷㄷ",
+      "durationSeconds": 60.079,
+      "audioUrl": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/tts-tests/STORY-136_narration_approval_v1.mp3?v=fa4b7794e8",
+      "downloadUrl": "https://raw.githubusercontent.com/JAYONTHEBEATYO/sesangbyeoril-shorts-media/gh-pages/tts-tests/STORY-136_narration_approval_v1.mp3?v=fa4b7794e8",
+      "playerUrl": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/tts-tests/STORY-136_audio_review_v1.html?v=fa4b7794e8",
+      "status": "승인 대기",
+      "updatedAt": "2026-08-28T00:48:04.905642Z",
+      "note": "확정 대본 기준 발음·문장 누락·끝음절 검수 완료"
+    },
     {
       "storyCode": "STORY-181",
       "version": "v1",
