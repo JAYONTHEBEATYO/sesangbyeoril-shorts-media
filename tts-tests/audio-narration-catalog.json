@@ -1,6 +1,19 @@
 {
-  "updatedAt": "2026-08-28T00:48:30.738530Z",
+  "updatedAt": "2026-08-28T01:44:08.073488Z",
   "items": [
+    {
+      "storyCode": "STORY-181",
+      "version": "v2",
+      "title": "왁싱 후 데오드란트 조심해야하는 이유",
+      "youtubeTitle": "이걸뿌리네 ㄷㄷ",
+      "durationSeconds": 67.783,
+      "audioUrl": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/tts-tests/STORY-181_narration_approval_v2.mp3?v=a619235681",
+      "downloadUrl": "https://raw.githubusercontent.com/JAYONTHEBEATYO/sesangbyeoril-shorts-media/gh-pages/tts-tests/STORY-181_narration_approval_v2.mp3?v=a619235681",
+      "playerUrl": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/tts-tests/STORY-181_audio_review_v2.html?v=a619235681",
+      "status": "승인 대기",
+      "updatedAt": "2026-08-28T01:44:08.073488Z",
+      "note": "오염된 참조음성 문구만 제거한 최소수정본"
+    },
     {
       "storyCode": "STORY-224",
       "version": "v1",
@@ -25,19 +38,6 @@
       "playerUrl": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/tts-tests/STORY-136_audio_review_v1.html?v=fa4b7794e8",
       "status": "승인 대기",
       "updatedAt": "2026-08-28T00:48:04.905642Z",
-      "note": "확정 대본 기준 발음·문장 누락·끝음절 검수 완료"
-    },
-    {
-      "storyCode": "STORY-181",
-      "version": "v1",
-      "title": "왁싱 후 데오드란트 조심해야하는 이유",
-      "youtubeTitle": "이걸뿌리네 ㄷㄷ",
-      "durationSeconds": 70.058,
-      "audioUrl": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/tts-tests/STORY-181_narration_approval_v1.mp3?v=0b3421b531",
-      "downloadUrl": "https://raw.githubusercontent.com/JAYONTHEBEATYO/sesangbyeoril-shorts-media/gh-pages/tts-tests/STORY-181_narration_approval_v1.mp3?v=0b3421b531",
-      "playerUrl": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/tts-tests/STORY-181_audio_review_v1.html?v=0b3421b531",
-      "status": "승인 대기",
-      "updatedAt": "2026-08-28T00:46:46.044711Z",
       "note": "확정 대본 기준 발음·문장 누락·끝음절 검수 완료"
     },
     {
