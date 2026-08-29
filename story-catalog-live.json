@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T19:31:54+0900",
+  "updated_at": "2026-08-30T08:54:13+0900",
   "stories": [
     {
       "id": "STORY-227",
@@ -1016,6 +1016,50 @@
       "deployment_id": "d76ffd8642742b664e96",
       "video_bytes": 184180687,
       "video_sha256": "3647356f428c12c599173155ea8f5b24df3c4a75ceaf609120c2b1b392584f78"
+    },
+    {
+      "id": "STORY-304",
+      "number": 41,
+      "batch": "new",
+      "title": "242명중 단 한명만 살았죠 ㄷㄷ",
+      "titleTop": "242명 중 단 한 명만",
+      "titleBottom": "생존해버림",
+      "type": "verified-preliminary-adapted",
+      "classification": "검증 실화 (원인 조사 중)",
+      "synopsis": "2025년 아메다바드에서 이륙 직후 추락한 에어인디아 171편에서 11A 좌석의 라메시가 안전벨트를 풀고 충돌로 생긴 작은 틈을 밀어 빠져나온 유일 생존 사례를 비그래픽 3D 재구성으로 각색했습니다.",
+      "commentPrompt": "라메시의 생존에서 가장 결정적이었던 것은 11A 좌석, 남은 탈출 틈, 의식과 행동력 중 무엇이었을까요?",
+      "youtubeTitle": "242명중 단 한명만 살았죠 ㄷㄷ",
+      "youtubeDescription": "242명이 탄 여객기가 이륙 직후 건물에 추락했습니다. 그런데 불길과 잔해 속에서 한 남자가 제 발로 걸어 나왔습니다.\n\n에어인디아 171편의 11A 좌석에 앉았던 라메시는 충돌 뒤 안전벨트를 풀고, 비상구 쪽에 우연히 남은 작은 틈을 밀어 기체 밖으로 빠져나왔습니다. 기체가 여러 구조물과 차례로 충돌하며 좌석별 변형 정도가 달랐고, 그의 앞에는 다른 좌석이 없는 비상구 공간이 있었습니다.\n\n※ 인도 항공기사고조사국의 예비보고서와 생존자 증언을 바탕으로 재구성했습니다. 연료 조절 스위치의 전환 경위와 사고의 최종 원인·책임은 조사 중이며, 영상 장면은 비그래픽 3D 각색입니다.\n\n#세상별일 #에어인디아171 #항공사고 #생존 #실화 #쇼츠",
+      "youtubePinnedComment": "242명 중 단 한 명.\n라메시를 살린 결정적 요인은 무엇이었다고 보시나요?\n① 11A 비상구 좌석  ② 우연히 남은 탈출 틈  ③ 의식을 잃지 않고 바로 움직인 행동력 👇",
+      "uploadFilename": "242명중 단 한명만 살았죠 ㄷㄷ_STORY-304_1080x1920.mp4",
+      "ready": true,
+      "video": "https://shorts-media.bgmfree.com/videos/STORY-304/3d28e377a0e3b09b2e01.mp4",
+      "poster": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/STORY-304.jpg?v=3d28e377a0e3b09b2e01",
+      "sources": [
+        {
+          "name": "Aircraft Accident Investigation Bureau, India — Preliminary Report VT-ANB",
+          "url": "https://aaib.gov.in/Reports/2025/Accident/Preliminary%20Report%20VT-ANB.pdf",
+          "primary": true
+        }
+      ],
+      "claims": [
+        {
+          "text": "AAIB 예비보고서와 유일 생존자 증언을 바탕으로 사건 순서와 11A 좌석 주변의 탈출 조건을 재구성했다.",
+          "certainty": "verified-preliminary"
+        },
+        {
+          "text": "연료 조절 스위치가 이륙 직후 RUN에서 CUTOFF로 전환된 사실은 예비보고서에 기록됐지만, 전환 경위와 사고의 최종 원인·책임은 아직 확정되지 않았다.",
+          "certainty": "investigation-ongoing"
+        },
+        {
+          "text": "충돌·화재·탈출 장면은 시신과 상처를 배제한 비그래픽 3D 재구성으로 각색했다.",
+          "certainty": "adapted"
+        }
+      ],
+      "photo": null,
+      "deployment_id": "3d28e377a0e3b09b2e01",
+      "video_bytes": 136943784,
+      "video_sha256": "3f507fb471b8ab874450372cd83e7709f0c35742a3802bbdf246b812c468fd71"
     }
   ]
 }
