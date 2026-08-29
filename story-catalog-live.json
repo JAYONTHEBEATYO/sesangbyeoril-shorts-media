@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-28T00:10:07+0900",
+  "updated_at": "2026-08-29T16:01:20+0900",
   "stories": [
     {
       "id": "STORY-227",
@@ -939,6 +939,42 @@
       "deployment_id": "710058541bedc4e54b76",
       "video_bytes": 94421247,
       "video_sha256": "80f5b8d51466d672f4d04b12549e9a755c355b6ae5e1dd077f2ab8bd98c711d3"
+    },
+    {
+      "id": "STORY-309",
+      "number": 44,
+      "batch": "new",
+      "title": "이걸막네 ㄷㄷ",
+      "titleTop": "앗 미안ㅋ",
+      "titleBottom": "입구인줄ㅎ",
+      "type": "community-unverified",
+      "classification": "익명 커뮤니티 사연·독립 검증 안 됨.",
+      "synopsis": "집 외벽의 말벌 출입구를 막은 익명 글쓴이가 다음 날 벽 속 둥지에서 실내 틈으로 빠져나온 말벌 수백 마리와 맞닥뜨린 커뮤니티 사연입니다.",
+      "commentPrompt": "벽 속 벌집의 바깥 출구를 막았다면 바로 다시 열어야 할까요, 전문가를 기다려야 할까요?",
+      "youtubeTitle": "이걸막네 ㄷㄷ",
+      "youtubeDescription": "집 밖의 말벌 구멍을 막았더니 다음 날 말벌 수백 마리가 집 안으로 쏟아졌습니다. 막은 것은 벌집이 아니라 바깥 출구뿐이었습니다.\n\n※ 익명 커뮤니티 사연으로 독립적으로 검증되지 않았으며 영상 장면은 각색했습니다.\n\n#세상별일 #말벌 #커뮤니티 #쇼츠",
+      "youtubePinnedComment": "바깥 출구가 막힌 말벌들이 집 안으로 나오기 시작했다면 여러분의 첫 행동은? 👇",
+      "uploadFilename": "이걸막네 ㄷㄷ_STORY-309_1080x1920.mp4",
+      "ready": true,
+      "video": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/STORY-309.mp4?v=db60fed3f67a12bf569b",
+      "poster": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/STORY-309.jpg?v=db60fed3f67a12bf569b",
+      "sources": [
+        {
+          "name": "Reddit r/tifu 원문",
+          "url": "https://www.reddit.com/r/tifu/comments/1vxnac7/tifu_by_blocking_a_hole_on_the_side_of_my_house/",
+          "primary": true
+        }
+      ],
+      "claims": [
+        {
+          "text": "말벌 수와 사건의 전말은 익명 원문 게시자의 주장으로 독립 검증되지 않았다.",
+          "certainty": "unverified-community-claim"
+        }
+      ],
+      "photo": null,
+      "deployment_id": "db60fed3f67a12bf569b",
+      "video_bytes": 56406964,
+      "video_sha256": "0204a6d8f27d651ec24258539280d10aaa9c7bbabccdcd0ea32af039f30718f5"
     }
   ]
 }
