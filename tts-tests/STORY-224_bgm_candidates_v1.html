@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <title>STORY-224 저작권 안전 BGM 후보</title>
+  <style>
+    :root { color-scheme: dark; font-family: system-ui,-apple-system,"Noto Sans KR",sans-serif; }
+    * { box-sizing: border-box; }
+    body { margin: 0; background: #0d0f14; color: #f6f7fb; }
+    main { width: min(760px,calc(100% - 28px)); margin: 0 auto; padding: 28px 0 52px; }
+    h1 { margin: 0 0 8px; font-size: clamp(25px,6vw,38px); line-height: 1.2; }
+    .lead { margin: 0 0 22px; color: #aeb7c7; line-height: 1.65; }
+    .card { margin: 14px 0; padding: 18px; border: 1px solid #2d3442; border-radius: 18px; background: #161a22; }
+    .pick { display: inline-block; margin-bottom: 8px; padding: 4px 9px; border-radius: 999px; color: #09110c; background: #82e6ad; font-size: 13px; font-weight: 850; }
+    h2 { margin: 0 0 5px; font-size: 21px; }
+    p { margin: 0; }
+    .desc { min-height: 44px; color: #bdc5d2; line-height: 1.55; }
+    audio { display: block; width: 100%; margin-top: 14px; }
+    .license { margin-top: 12px; color: #82e6ad; font-size: 13px; font-weight: 700; }
+    .note { margin-top: 24px; padding: 15px; border-radius: 14px; background: #10141b; color: #aeb7c7; line-height: 1.65; }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>이걸버티네 ㄷㄷ · BGM 후보</h1>
+    <p class="lead">세 후보 모두 같은 28초 나레이션 구간, 같은 음량·덕킹 조건입니다. 하나를 재생하면 다른 플레이어는 자동으로 멈춥니다.</p>
+
+    <section class="card">
+      <span class="pick">1순위 추천</span>
+      <h2>A. Ticklish — Quincas Moreira</h2>
+      <p class="desc">기존 곡의 빠르고 장난스러운 호기심을 가장 가깝게 이어가는 후보.</p>
+      <audio controls playsinline preload="metadata" src="STORY-224_bgm_candidate_A_ticklish.mp3"></audio>
+      <p class="license">YouTube Audio Library · 보관함 라이선스</p>
+    </section>
+
+    <section class="card">
+      <h2>B. The Trapezist — Quincas Moreira</h2>
+      <p class="desc">생존기의 위기와 황당함을 조금 더 극적이고 서커스처럼 밀어주는 후보.</p>
+      <audio controls playsinline preload="metadata" src="STORY-224_bgm_candidate_B_trapezist.mp3"></audio>
+      <p class="license">YouTube Audio Library · 보관함 라이선스</p>
+    </section>
+
+    <section class="card">
+      <h2>C. Strollin’ — TrackTribe</h2>
+      <p class="desc">조금 더 가볍고 세련된 재즈 계열. 나레이션을 가장 덜 방해하는 후보.</p>
+      <audio controls playsinline preload="metadata" src="STORY-224_bgm_candidate_C_strollin.mp3"></audio>
+      <p class="license">YouTube Audio Library · 보관함 라이선스</p>
+    </section>
+
+    <p class="note">고르면 H3·나레이션·자막은 그대로 두고 BGM만 전체 길이로 다시 믹스하면 됩니다. 답장은 A / B / C 한 글자면 충분합니다.</p>
+  </main>
+  <script>
+    const players = [...document.querySelectorAll('audio')];
+    for (const player of players) {
+      player.addEventListener('play', () => {
+        for (const other of players) if (other !== player) other.pause();
+      });
+    }
+  </script>
+</body>
+</html>
