@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T11:28:54+0900",
+  "updated_at": "2026-08-30T11:46:43+0900",
   "stories": [
     {
       "id": "STORY-227",
@@ -1096,6 +1096,51 @@
       "deployment_id": "00bb5e1c8049703ceb1b",
       "video_bytes": 98712152,
       "video_sha256": "eb949ef67b9ea8dd6eb16c1c1b1a5b5ec4143b6b96b392142b421e7a7ca921a8"
+    },
+    {
+      "id": "STORY-181",
+      "number": 45,
+      "batch": "new",
+      "title": "이걸뿌리네 ㄷㄷ",
+      "titleTop": "왁싱 후 데오드란트",
+      "titleBottom": "조심해야하는 이유",
+      "type": "community-unverified-science-supported",
+      "classification": "익명 커뮤니티 사연·독립 검증 안 됨. 과학 설명은 별도 의학 증례로 보강.",
+      "synopsis": "민감한 부위에 에어로졸 데오드란트를 뿌린 뒤 극심한 통증을 겪었다는 익명 사연을, 알코올·향료 자극과 추진제 기화에 따른 급격한 피부 냉각 가능성으로 설명합니다.",
+      "commentPrompt": "데오드란트 에어로졸의 가장 의외인 위험은 화학 자극일까요, 급격한 냉각일까요?",
+      "youtubeTitle": "이걸뿌리네 ㄷㄷ",
+      "youtubeDescription": "민감한 부위에 데오드란트를 아주 살짝 뿌린 순간 극심한 통증이 시작됐습니다. 알코올과 향료 자극, 에어로졸 추진제의 급격한 기화가 함께 작용했을 가능성을 살펴봅니다.\n\n※ 사건은 익명 커뮤니티 사연으로 독립 검증되지 않았고 실제 화상 진단도 확인되지 않았습니다. 과학 설명은 별도 의학 증례로 보강했습니다.\n\n#세상별일 #데오드란트 #생활과학 #쇼츠",
+      "youtubePinnedComment": "피부 가까이 에어로졸을 오래 분사하면 온도가 크게 떨어질 수 있다는 사실, 알고 계셨나요? 👇",
+      "uploadFilename": "이걸뿌리네 ㄷㄷ_STORY-181_1080x1920.mp4",
+      "ready": true,
+      "video": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/STORY-181.mp4?v=75a131a8cf8549aab1af",
+      "poster": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/STORY-181.jpg?v=75a131a8cf8549aab1af",
+      "sources": [
+        {
+          "name": "Reddit r/tifu 원문",
+          "url": "https://www.reddit.com/r/tifu/comments/1vpl8oh/tifu_by_spraying_deodorant_on_my_anus/",
+          "primary": true
+        },
+        {
+          "name": "에어로졸 데오드란트 냉화상 의학 증례",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/20679305/",
+          "primary": true
+        }
+      ],
+      "claims": [
+        {
+          "text": "당사자의 통증과 행동은 익명 커뮤니티 주장으로 독립 검증되지 않았다.",
+          "certainty": "unverified-community-claim"
+        },
+        {
+          "text": "피부 가까이 에어로졸을 지속 분사해 냉화상이 발생할 수 있다는 과학 설명은 별도 의학 증례로 보강했다.",
+          "certainty": "verified-science-context"
+        }
+      ],
+      "photo": null,
+      "deployment_id": "75a131a8cf8549aab1af",
+      "video_bytes": 52808607,
+      "video_sha256": "69966261bfde198624c468a3833f05180299bc63bed142f01a5e6175b1546e4e"
     }
   ]
 }
