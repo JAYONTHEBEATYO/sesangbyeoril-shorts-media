@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T15:16:48+0900",
+  "updated_at": "2026-08-31T01:11:58+0900",
   "stories": [
     {
       "id": "STORY-227",
@@ -988,12 +988,12 @@
       "synopsis": "1942년 태평양에 불시착한 미 해군 뇌격기 승무원 세 명이 작은 고무보트에서 빗물·물고기·새·상어·코코넛을 구하고 임시 닻까지 만들며 34일간 약 1,450킬로미터를 표류한 생존기입니다.",
       "commentPrompt": "세 사람을 살린 결정적인 생존 기술은 빗물 저장, 사냥, 임시 닻 중 무엇이었을까요?",
       "youtubeTitle": "이걸버티네 ㄷㄷ",
-      "youtubeDescription": "식량도 물도 지도도 없이 작은 고무보트에 남은 세 남자는 빗물을 모으고 물고기와 새, 상어를 잡고 임시 닻까지 만들며 34일을 버텼습니다.\n\n※ 미 해군 공식 기록과 1942년 생존자 증언으로 확인된 검증 실화를 바탕으로 영상 장면과 일부 표현을 각색했습니다.\n\n#세상별일 #태평양표류 #미해군 #생존 #실화 #쇼츠",
+      "youtubeDescription": "식량도 물도 지도도 없이 작은 고무보트에 남은 세 남자는 빗물을 모으고 물고기와 새, 상어를 잡고 임시 닻까지 만들며 34일을 버텼습니다.\n\n※ 미 해군 공식 기록과 1942년 생존자 증언으로 확인된 검증 실화를 바탕으로 영상 장면과 일부 표현을 각색했습니다.\n\n🎵 BGM: Thump — Audionautix\nAudionautix의 Thump에는 크리에이티브 커먼즈 저작자 표시 4.0 라이선스가 적용됩니다. https://creativecommons.org/licenses/by/4.0/\n아티스트: http://audionautix.com/\n\n#세상별일 #태평양표류 #미해군 #생존 #실화 #쇼츠",
       "youtubePinnedComment": "팬티로 빗물을 모으는 순간부터 상어 사냥과 임시 닻까지, 가장 놀라운 생존법은 무엇인가요? 👇",
       "uploadFilename": "이걸버티네 ㄷㄷ_STORY-224_1080x1920.mp4",
       "ready": true,
-      "video": "https://shorts-media.bgmfree.com/videos/STORY-224/d76ffd8642742b664e96.mp4",
-      "poster": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/STORY-224.jpg?v=d76ffd8642742b664e96",
+      "video": "https://shorts-media.bgmfree.com/videos/STORY-224/ee5d332d81c0572a8b42.mp4",
+      "poster": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/STORY-224.jpg?v=ee5d332d81c0572a8b42",
       "sources": [
         {
           "name": "U.S. Naval Aviation Museum — The Raft",
@@ -1013,9 +1013,9 @@
         }
       ],
       "photo": null,
-      "deployment_id": "d76ffd8642742b664e96",
-      "video_bytes": 184180687,
-      "video_sha256": "3647356f428c12c599173155ea8f5b24df3c4a75ceaf609120c2b1b392584f78"
+      "deployment_id": "ee5d332d81c0572a8b42",
+      "video_bytes": 184118805,
+      "video_sha256": "83de754fc0331d9c3d61320fefaed4c75c831b655deac918d1d927081ac686e2"
     },
     {
       "id": "STORY-304",
