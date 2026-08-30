@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T11:46:43+0900",
+  "updated_at": "2026-08-30T12:08:26+0900",
   "stories": [
     {
       "id": "STORY-227",
@@ -1141,6 +1141,55 @@
       "deployment_id": "75a131a8cf8549aab1af",
       "video_bytes": 52808607,
       "video_sha256": "69966261bfde198624c468a3833f05180299bc63bed142f01a5e6175b1546e4e"
+    },
+    {
+      "id": "STORY-336",
+      "number": 46,
+      "batch": "new",
+      "title": "이걸건지네 ㄷㄷ",
+      "titleTop": "바다 한가운데",
+      "titleBottom": "웬 강아지 한 마리?",
+      "type": "verified-adapted",
+      "classification": "보도·당사자 영상 기반, 유기·표류 원인 미확인",
+      "synopsis": "멕시코 세드로스섬 앞 약 1.6킬로미터 해상에서 홀로 헤엄치던 중형 믹스견 코디를 낚시꾼들이 구조했습니다. 코디가 바다에 들어가게 된 경위는 확인되지 않았습니다.",
+      "commentPrompt": "망망대해에서 코디를 발견한 순간, 여러분이라면 가장 먼저 무엇을 했을까요?",
+      "youtubeTitle": "이걸건지네 ㄷㄷ",
+      "youtubeDescription": "육지에서 약 1.6킬로미터 떨어진 태평양 한가운데, 낚시꾼들이 필사적으로 헤엄치던 강아지 한 마리를 발견했습니다. 코디는 구조 뒤 물과 음식, 부리토를 먹고 항구에서 주인과 재회했습니다.\n\n※ 공개 보도와 구조자 인터뷰를 바탕으로 재구성했습니다. 코디가 바다에 들어가게 된 경위와 표류 시간은 확인되지 않았습니다.\n\n#세상별일 #강아지구조 #실화 #쇼츠",
+      "youtubePinnedComment": "그날 낚시꾼들이 건진 최고의 대어는 물고기가 아니라 코디였네요. 🐶",
+      "uploadFilename": "이걸건지네 ㄷㄷ_STORY-336_1080x1920.mp4",
+      "ready": true,
+      "video": "https://shorts-media.bgmfree.com/videos/STORY-336/b46d5468526cf8ed8838.mp4",
+      "poster": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/STORY-336.jpg?v=b46d5468526cf8ed8838",
+      "sources": [
+        {
+          "name": "Wired2Fish 구조자 인터뷰",
+          "url": "https://www.wired2fish.com/news/after-rescuing-a-dog-lost-in-the-ocean-fishermen-declare-him-their-lucky-charm",
+          "primary": true
+        },
+        {
+          "name": "People/Yahoo 보도",
+          "url": "https://nz.news.yahoo.com/fishermen-spot-something-unexpected-ocean-203417429.html",
+          "primary": false
+        }
+      ],
+      "claims": [
+        {
+          "text": "구조 사실과 주인 재회는 보도·당사자 영상 기반이며 유기 여부, 입수 경위와 표류 시간은 확인되지 않았다.",
+          "certainty": "verified-with-unknown-origin"
+        }
+      ],
+      "photo": {
+        "badge": "실제 사진",
+        "title": "실제 구조된 코디",
+        "date": "2026년 8월",
+        "credit": "사용자 제공",
+        "license": "사용자 제공 자산",
+        "licenseUrl": "",
+        "sourceUrl": ""
+      },
+      "deployment_id": "b46d5468526cf8ed8838",
+      "video_bytes": 128707930,
+      "video_sha256": "240bfc2baa8f2c55c8aecacbb664e476dc9aa1de955837cb23a2f57c6f4a1076"
     }
   ]
 }
