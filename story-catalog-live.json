@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T12:50:26+0900",
+  "updated_at": "2026-08-30T15:16:48+0900",
   "stories": [
     {
       "id": "STORY-227",
@@ -956,8 +956,8 @@
       "youtubePinnedComment": "바깥 출구가 막힌 말벌들이 집 안으로 나오기 시작했다면 여러분의 첫 행동은? 👇",
       "uploadFilename": "이걸막네 ㄷㄷ_STORY-309_1080x1920.mp4",
       "ready": true,
-      "video": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/STORY-309.mp4?v=db60fed3f67a12bf569b",
-      "poster": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/STORY-309.jpg?v=db60fed3f67a12bf569b",
+      "video": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/STORY-309.mp4?v=e4b334a7a19d8a37672b",
+      "poster": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/STORY-309.jpg?v=e4b334a7a19d8a37672b",
       "sources": [
         {
           "name": "Reddit r/tifu 원문",
@@ -972,9 +972,9 @@
         }
       ],
       "photo": null,
-      "deployment_id": "db60fed3f67a12bf569b",
-      "video_bytes": 56406964,
-      "video_sha256": "0204a6d8f27d651ec24258539280d10aaa9c7bbabccdcd0ea32af039f30718f5"
+      "deployment_id": "e4b334a7a19d8a37672b",
+      "video_bytes": 75593697,
+      "video_sha256": "19893eeecd1a0c160c1a774d45bd1c44b000050306c7d731cca758b68a1a0f7a"
     },
     {
       "id": "STORY-224",
