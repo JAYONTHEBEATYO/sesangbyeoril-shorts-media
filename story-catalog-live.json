@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T12:08:26+0900",
+  "updated_at": "2026-08-30T12:50:26+0900",
   "stories": [
     {
       "id": "STORY-227",
@@ -1190,6 +1190,42 @@
       "deployment_id": "b46d5468526cf8ed8838",
       "video_bytes": 128707930,
       "video_sha256": "240bfc2baa8f2c55c8aecacbb664e476dc9aa1de955837cb23a2f57c6f4a1076"
+    },
+    {
+      "id": "STORY-136",
+      "number": 42,
+      "batch": "new",
+      "title": "응 보냈죠? ㄷㄷ",
+      "titleTop": "10년 바람핀 남친",
+      "titleBottom": "6달러로 보내는법",
+      "type": "community-unverified",
+      "classification": "익명 커뮤니티 주장·독립 검증 안 됨.",
+      "synopsis": "10년 넘게 만난 남자친구의 외도 사실을 알게 된 익명 글쓴이가 페이스북 폭로문의 조회수가 나오지 않자 6달러를 결제해 남자친구의 활동 지역에 스폰서 광고로 노출했다는 커뮤니티 사연입니다.",
+      "commentPrompt": "폭로 글이 묻히자 광고비까지 결제한 선택, 통쾌한가요 아니면 과한가요?",
+      "youtubeTitle": "응 보냈죠? ㄷㄷ",
+      "youtubeDescription": "남자친구의 외도를 폭로했는데 조회수가 나오지 않자, 글쓴이는 6달러를 결제해 게시물을 스폰서 광고로 만들어버렸습니다.\n\n※ 익명 커뮤니티 게시자의 주장으로 독립적으로 검증되지 않았으며 영상 장면은 각색했습니다.\n\n#세상별일 #커뮤니티 #복수 #쇼츠",
+      "youtubePinnedComment": "폭로문을 광고로 승격시킨 6달러, 최고의 마케팅 비용이었을까요? 👇",
+      "uploadFilename": "응 보냈죠 ㄷㄷ_STORY-136_1080x1920.mp4",
+      "ready": true,
+      "video": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/STORY-136.mp4?v=152ed36ed68672ec7d38",
+      "poster": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/STORY-136.jpg?v=152ed36ed68672ec7d38",
+      "sources": [
+        {
+          "name": "Reddit r/pettyrevenge 원문",
+          "url": "https://www.reddit.com/r/pettyrevenge/comments/1v13blu/he_didnt_believe_that_i_would_do_anything_when_i/",
+          "primary": true
+        }
+      ],
+      "claims": [
+        {
+          "text": "원문 게시자의 익명 주장으로, 상대방의 외도와 후속 행동은 독립적으로 사실 확인되지 않았다.",
+          "certainty": "unverified-community-claim"
+        }
+      ],
+      "photo": null,
+      "deployment_id": "152ed36ed68672ec7d38",
+      "video_bytes": 48142621,
+      "video_sha256": "a37a9ac5c940a167897381fb55d0cc788f0884c93774cb86db10265df052ac52"
     }
   ]
 }
