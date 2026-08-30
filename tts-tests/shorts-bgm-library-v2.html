@@ -1,0 +1,117 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#0a0d12">
+  <title>세상별일 쇼츠 BGM 후보 v2</title>
+  <style>
+    :root { color-scheme: dark; font-family: system-ui,-apple-system,"Noto Sans KR",sans-serif; }
+    * { box-sizing: border-box; }
+    body { margin: 0; background: #090c11; color: #f7f9fc; }
+    main { width: min(760px,calc(100% - 24px)); margin: auto; padding: 24px 0 64px; }
+    h1 { margin: 0; font-size: clamp(27px,7vw,42px); line-height: 1.15; letter-spacing: -.035em; }
+    .lead { margin: 9px 0 18px; color: #aeb8c8; font-size: 15px; line-height: 1.65; }
+    .notice { margin: 14px 0; padding: 14px; border: 1px solid #303947; border-radius: 15px; background: #121821; color: #c9d2df; font-size: 13px; line-height: 1.6; }
+    .notice strong { color: #fff; }
+    .filters { position: sticky; top: 0; z-index: 5; display: flex; gap: 8px; overflow-x: auto; margin: 0 -12px; padding: 12px; background: rgba(9,12,17,.94); backdrop-filter: blur(10px); scrollbar-width: none; }
+    .filters::-webkit-scrollbar { display: none; }
+    button { flex: 0 0 auto; padding: 9px 13px; border: 1px solid #354050; border-radius: 999px; background: #151b24; color: #d4dbe7; font-weight: 800; }
+    button.active { border-color: #c9ff38; background: #c9ff38; color: #111500; }
+    h2.section { margin: 23px 2px 10px; font-size: 18px; }
+    .section small { margin-left: 7px; color: #8f9bac; font-weight: 500; }
+    .card { margin: 10px 0; padding: 16px; border: 1px solid #293241; border-radius: 18px; background: linear-gradient(145deg,#171d26,#11161e); box-shadow: 0 8px 22px rgba(0,0,0,.18); }
+    .card.hidden { display: none; }
+    .top { display: flex; align-items: flex-start; gap: 12px; }
+    .rank { display: grid; place-items: center; flex: 0 0 38px; height: 38px; border-radius: 12px; background: #232c39; color: #c9ff38; font-weight: 950; }
+    .title { min-width: 0; flex: 1; }
+    .title h3 { margin: 0 0 3px; font-size: 19px; line-height: 1.25; }
+    .artist { color: #aeb8c8; font-size: 13px; }
+    .tags { display: flex; flex-wrap: wrap; gap: 5px; margin: 11px 0 8px; }
+    .tag { padding: 4px 8px; border-radius: 999px; background: #273140; color: #d9e2ef; font-size: 11px; font-weight: 800; }
+    .tag.pick { background: #c9ff38; color: #111500; }
+    .tag.signal { background: #3d2b68; color: #e8dcff; }
+    .desc { margin: 0; color: #c1cad7; font-size: 14px; line-height: 1.52; }
+    audio { display: block; width: 100%; height: 42px; margin-top: 13px; }
+    .meta { display: flex; justify-content: space-between; gap: 10px; margin-top: 9px; color: #8f9bac; font-size: 11px; }
+    .meta a { color: #9fd2ff; }
+    footer { margin-top: 26px; color: #929dad; font-size: 13px; line-height: 1.65; }
+    footer a { color: #9fd2ff; }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>쇼츠 BGM 후보 v2</h1>
+    <p class="lead">댄스·일렉트로닉·하우스 중심. 주인장 확정곡과 2025년 이후 유튜브 오디오 보관함 후보를 휴대폰에서 연속 비교하는 선곡 페이지입니다.</p>
+
+    <div class="notice"><strong>중요:</strong> 아래 Apple 30초 음원은 선곡 미리듣기 전용입니다. 실제 영상에는 미리듣기를 쓰지 않고, 승인한 곡을 유튜브 스튜디오 오디오 보관함에서 정식 다운로드해 투입합니다.</div>
+
+    <nav class="filters" aria-label="장르 필터">
+      <button class="active" data-filter="all">전체</button>
+      <button data-filter="picked">확정곡</button>
+      <button data-filter="house">하우스</button>
+      <button data-filter="comedy">유머·황당</button>
+      <button data-filter="mystery">미스터리</button>
+      <button data-filter="action">액션·클라이맥스</button>
+    </nav>
+
+    <h2 class="section">주인장 확정곡 <small>실제 제작 가능</small></h2>
+    <div id="picked"></div>
+
+    <h2 class="section">신규 선곡 후보 <small>공식 보관함 수록 확인</small></h2>
+    <div id="candidates"></div>
+
+    <footer>
+      Audionautix 확정곡은 <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> 저작자 표시 조건입니다. 신규 후보는 2026-08-31 유튜브 스튜디오 오디오 보관함에서 수록 및 라이선스 안내를 확인했습니다. ‘인기’는 공개 쇼츠 차트 순위가 아니라 청취 신호와 편집 적합성을 함께 본 큐레이션입니다. 한 곡을 재생하면 다른 플레이어는 자동으로 멈춥니다.
+    </footer>
+  </main>
+
+  <script>
+    const picked = [
+      {n:'P1', title:'Thump · 주인장 편집본', artist:'Audionautix', tags:['picked','house','comedy','action'], labels:['주인장 픽','펑키','생존·황당'], desc:'지저분한 도입음을 직접 정리한 producer-edit-v1. 생존기와 황당 실화의 기본 드라이브.', src:'shorts-bgm-library-v2/01_thump_producer_edit_v1.mp3', note:'CC BY 4.0 · 편집본 30초'},
+      {n:'P2', title:'The Big House', artist:'Audionautix', tags:['picked','house','comedy','action'], labels:['주인장 픽','개그 폭주','사건 확대'], desc:'황당 사건이 점점 커질 때 가장 잘 붙는 뻔뻔하고 빠른 추진력.', src:'shorts-bgm-library-v1/02_the_big_house.mp3', note:'CC BY 4.0 · 28초'},
+      {n:'P3', title:'Sk8board', artist:'Audionautix', tags:['picked','mystery','action'], labels:['주인장 픽','어두움','수색·의심'], desc:'어두운 전자 리듬. 수색, 의심, 기묘한 실화에 적합.', src:'shorts-bgm-library-v1/03_sk8board.mp3', note:'CC BY 4.0 · 28초'}
+    ];
+
+    const candidates = [
+      {n:1,title:'You Know Me',artist:'Jeremy Black',tags:['house','comedy'],labels:['하우스','밝은 전개','청취 신호'],signal:true,desc:'생활과학·커뮤니티·유머형의 범용 1순위. 말이 빠른 나레이션도 덜 가린다.',src:'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ea/53/f9/ea53f9fe-ad28-661f-8485-c422188e5f33/mzaf_4995674528006069607.plus.aac.p.m4a',url:'https://music.apple.com/us/album/you-know-me/1810624235?i=1810624249&uo=4'},
+      {n:2,title:'Sunset 52',artist:'Jeremy Black',tags:['house'],labels:['하우스','희망적','청취 신호'],signal:true,desc:'구조·회복·훈훈한 결말을 너무 감상적으로 만들지 않는 밝은 하우스.',src:'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2d/e2/b1/2de2b1c3-7e16-1958-a759-f83241b6d6ac/mzaf_7928589925854924821.plus.aac.p.m4a',url:'https://music.apple.com/us/album/sunset-52/1810624235?i=1810624248&uo=4'},
+      {n:3,title:'Berliner',artist:'Jeremy Black',tags:['house','comedy','action'],labels:['하우스','펑키','빠른 컷'],desc:'약 142 BPM의 빠른 펑키 하우스. 황당함이 연쇄적으로 폭주하는 영상용.',src:'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/27/c0/5a/27c05a0f-7365-3fec-dea6-286f3b9bd1c4/mzaf_7660662671660372945.plus.aac.p.m4a',url:'https://music.apple.com/us/album/berliner/1810624235?i=1810624240&uo=4'},
+      {n:4,title:'Bongo Rave',artist:'Jeremy Black',tags:['house','comedy','action'],labels:['일렉트로닉','박진감','추격'],desc:'장면 전환과 추격이 많은 이야기. 리듬이 강해 나레이션보다 충분히 낮게 깔아야 한다.',src:'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/bc/7f/8c/bc7f8ca8-6cca-604f-4aa1-0a60e1549658/mzaf_14873812138012983046.plus.aac.p.m4a',url:'https://music.apple.com/us/album/bongo-rave/1810610347?i=1810610350&uo=4'},
+      {n:5,title:'Y2K Heist',artist:'Rod Kim',tags:['house','comedy','action'],labels:['게임·밈','사건 전개','2025'],desc:'게임 UI 같은 장난기와 잠입극 무드. 복수·절도·허술한 범죄 이야기와 잘 맞는다.',src:'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/8b/1f/91/8b1f915c-5370-f39e-68a6-111c29fc198b/mzaf_6926114859333855648.plus.aac.p.m4a',url:'https://music.apple.com/us/album/y2k-heist/1823370789?i=1823370796&uo=4'},
+      {n:6,title:'I Might Be Late',artist:'Jeremy Black',tags:['house','mystery','action'],labels:['하우스','드라마틱','시간 압박'],desc:'마감·탈출·시간 제한처럼 점점 급해지는 사건의 긴장 곡선용.',src:'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9d/ce/1f/9dce1f60-b776-9068-9559-efd93c7b00dd/mzaf_2396620356067104753.plus.aac.p.m4a',url:'https://music.apple.com/us/album/i-might-be-late/1810624235?i=1810624246&uo=4'},
+      {n:7,title:'Window Shopping',artist:'Jeremy Black',tags:['house','comedy'],labels:['하우스','행복','생활·쇼핑'],desc:'일상 문화, 소비, 커뮤니티 사연처럼 가볍게 웃기는 주제용.',src:'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f5/88/f2/f588f2b1-b8d2-b607-baf4-71e74e3c14f4/mzaf_10822740568439807327.plus.aac.p.m4a',url:'https://music.apple.com/us/album/window-shopping/1810610347?i=1810610354&uo=4'},
+      {n:8,title:'Beautiful Mess',artist:'Jeremy Black',tags:['house','action'],labels:['일렉트로닉','상승감','회복'],desc:'실패 뒤 반전과 재기의 엔딩. 비극보다는 회복 서사가 있는 사건에 적합.',src:'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2e/7b/5a/2e7b5a92-27ba-8334-bb63-79bed086664f/mzaf_16633950416736690616.plus.aac.p.m4a',url:'https://music.apple.com/us/album/beautiful-mess/1810610347?i=1810610355&uo=4'},
+      {n:9,title:'Revive The Light',artist:'Ryan Stasik · Kanika Moore',tags:['house','action'],labels:['댄스','희망적','구조·생환'],desc:'구조와 생환의 후반부에 상승감을 주는 후보. 감동을 과도하게 밀지 않는 편.',src:'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ca/fe/4a/cafe4a2b-1f21-7633-cfd2-1b5780388c55/mzaf_547490270316589426.plus.aac.p.m4a',url:'https://music.apple.com/us/album/revive-the-light-feat-kanika-moore/1811280504?i=1811280513&uo=4'},
+      {n:10,title:'True Crime Documentary and Chill',artist:'Rod Kim',tags:['mystery','house'],labels:['미스터리','다큐 패러디','2025'],desc:'범죄·실종·수색 이야기를 진지하면서도 살짝 밈처럼 끌고 가는 후보.',src:'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fc/04/08/fc0408f4-fd9d-e35d-00d9-f192a15cab8d/mzaf_7288187876317769392.plus.aac.p.m4a',url:'https://music.apple.com/us/album/true-crime-documentary-and-chill/1823370789?i=1823370792&uo=4'},
+      {n:11,title:'Conspiracy Theory',artist:'Rod Kim',tags:['mystery'],labels:['의심','기묘함','2025'],desc:'뭔가 이상한데 원인을 아직 모르는 초반부. 과학 미스터리와 음모론 패러디용.',src:'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1a/cd/a8/1acda8ed-d318-4bf0-6926-b0666b13ab75/mzaf_13441465833089227182.plus.aac.p.m4a',url:'https://music.apple.com/us/album/conspiracy-theory/1823370789?i=1823370791&uo=4'},
+      {n:12,title:'Hot Drop Bus',artist:'Rod Kim',tags:['comedy','action'],labels:['게임·밈','빠른 도입','2025'],desc:'첫 3초부터 사건으로 뛰어드는 게임형 쇼츠. 구조·추격·대참사 직전의 훅에 적합.',src:'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c2/d5/a7/c2d5a7b2-f58c-ebdf-ec07-3086e27dc780/mzaf_12992893289271163133.plus.aac.p.m4a',url:'https://music.apple.com/us/album/hot-drop-bus/1823370789?i=1823370798&uo=4'},
+      {n:13,title:'Final Boss Battle',artist:'Rod Kim',tags:['action'],labels:['게임·밈','클라이맥스','2025'],desc:'마지막 대결·탈출·결정적 순간 전용. 전체 베드보다 짧은 클라이맥스 구간에 알맞다.',src:'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c2/db/82/c2db8285-3c91-a0cb-ff67-6c466d8fb179/mzaf_11355926793506784999.plus.aac.p.m4a',url:'https://music.apple.com/us/album/final-boss-battle/1823370789?i=1823370793&uo=4'},
+      {n:14,title:'uWu Victory Replay',artist:'Rod Kim',tags:['comedy'],labels:['귀여움','허무 엔딩','2025'],desc:'동물 구조, 귀여운 반전, 허무하게 성공한 결말의 짧은 보상 구간용.',src:'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5c/12/cd/5c12cde9-99b5-8811-18a6-c82c85e2b3ac/mzaf_7027255539954656031.plus.aac.p.m4a',url:'https://music.apple.com/us/album/uwu-victory-replay/1823370789?i=1823370799&uo=4'}
+    ];
+
+    function makeCard(t) {
+      const article = document.createElement('article');
+      article.className = 'card';
+      article.dataset.tags = t.tags.join(' ');
+      const labels = t.labels.map((x,i) => `<span class="tag ${t.tags.includes('picked') && i===0 ? 'pick' : t.signal && x==='청취 신호' ? 'signal' : ''}">${x}</span>`).join('');
+      article.innerHTML = `<div class="top"><div class="rank">${t.n}</div><div class="title"><h3>${t.title}</h3><div class="artist">${t.artist}</div></div></div><div class="tags">${labels}</div><p class="desc">${t.desc}</p><audio controls playsinline preload="none" src="${t.src}"></audio><div class="meta"><span>${t.note || 'Apple 30초 선곡 미리듣기'}</span>${t.url ? `<a href="${t.url}" target="_blank" rel="noopener">곡 정보</a>` : '<span>제작 마스터 보유</span>'}</div>`;
+      return article;
+    }
+
+    const pickedBox = document.querySelector('#picked');
+    const candidateBox = document.querySelector('#candidates');
+    picked.forEach(t => pickedBox.append(makeCard(t)));
+    candidates.forEach(t => candidateBox.append(makeCard(t)));
+
+    const players = [...document.querySelectorAll('audio')];
+    players.forEach(player => player.addEventListener('play', () => players.forEach(other => { if (other !== player) other.pause(); })));
+
+    document.querySelectorAll('button[data-filter]').forEach(button => button.addEventListener('click', () => {
+      document.querySelectorAll('button[data-filter]').forEach(b => b.classList.toggle('active', b === button));
+      const filter = button.dataset.filter;
+      document.querySelectorAll('.card').forEach(card => card.classList.toggle('hidden', filter !== 'all' && !card.dataset.tags.split(' ').includes(filter)));
+    }));
+  </script>
+</body>
+</html>
