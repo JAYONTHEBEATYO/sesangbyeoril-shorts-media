@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T08:50:04+0900",
+  "updated_at": "2026-08-31T09:27:56+0900",
   "stories": [
     {
       "id": "STORY-227",
@@ -1203,12 +1203,12 @@
       "synopsis": "10년 넘게 만난 남자친구의 외도 사실을 알게 된 익명 글쓴이가 페이스북 폭로문의 조회수가 나오지 않자 6달러를 결제해 남자친구의 활동 지역에 스폰서 광고로 노출했다는 커뮤니티 사연입니다.",
       "commentPrompt": "폭로 글이 묻히자 광고비까지 결제한 선택, 통쾌한가요 아니면 과한가요?",
       "youtubeTitle": "응 보냈죠? ㄷㄷ",
-      "youtubeDescription": "남자친구의 외도를 폭로했는데 조회수가 나오지 않자, 글쓴이는 6달러를 결제해 게시물을 스폰서 광고로 만들어버렸습니다.\n\n※ 익명 커뮤니티 게시자의 주장으로 독립적으로 검증되지 않았으며 영상 장면은 각색했습니다.\n\n#세상별일 #커뮤니티 #복수 #쇼츠",
+      "youtubeDescription": "남자친구의 외도를 폭로했는데 조회수가 나오지 않자, 글쓴이는 6달러를 결제해 게시물을 스폰서 광고로 만들어버렸습니다.\n\n※ 익명 커뮤니티 게시자의 주장으로 독립적으로 검증되지 않았으며 영상 장면은 각색했습니다.\n\n🎵 BGM: The Big House — Audionautix\nAudionautix의 The Big House에는 크리에이티브 커먼즈 저작자 표시 4.0 라이선스가 적용됩니다. https://creativecommons.org/licenses/by/4.0/\n아티스트: http://audionautix.com/\n\n#세상별일 #커뮤니티 #복수 #쇼츠",
       "youtubePinnedComment": "폭로문을 광고로 승격시킨 6달러, 최고의 마케팅 비용이었을까요? 👇",
       "uploadFilename": "응 보냈죠 ㄷㄷ_STORY-136_1080x1920.mp4",
       "ready": true,
-      "video": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/STORY-136.mp4?v=152ed36ed68672ec7d38",
-      "poster": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/STORY-136.jpg?v=152ed36ed68672ec7d38",
+      "video": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/STORY-136.mp4?v=ff6de98c6bf43bfc0941",
+      "poster": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/STORY-136.jpg?v=ff6de98c6bf43bfc0941",
       "sources": [
         {
           "name": "Reddit r/pettyrevenge 원문",
@@ -1223,9 +1223,9 @@
         }
       ],
       "photo": null,
-      "deployment_id": "152ed36ed68672ec7d38",
-      "video_bytes": 48142621,
-      "video_sha256": "a37a9ac5c940a167897381fb55d0cc788f0884c93774cb86db10265df052ac52"
+      "deployment_id": "ff6de98c6bf43bfc0941",
+      "video_bytes": 54436400,
+      "video_sha256": "ef39fa8499a70c911d61a886f95b72d4e5e5208a92c45ab2d7f1d3ee97ad01be"
     }
   ]
 }
