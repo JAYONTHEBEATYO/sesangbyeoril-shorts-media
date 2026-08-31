@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T16:21:51+0900",
+  "updated_at": "2026-08-31T22:30:02+0900",
   "stories": [
     {
       "id": "STORY-227",
@@ -1077,8 +1077,8 @@
       "youtubePinnedComment": "이제 장거리 산행에서 휴대전화 전원은 개인 선택일까요, 필수 안전장치일까요? 👇",
       "uploadFilename": "멀쩡히나오네 ㄷㄷ_STORY-311_1080x1920.mp4",
       "ready": true,
-      "video": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/STORY-311.mp4?v=52070b38eec7709719b1",
-      "poster": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/STORY-311.jpg?v=52070b38eec7709719b1",
+      "video": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/STORY-311.mp4?v=6e1bc98bdce68001bb4f",
+      "poster": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/STORY-311.jpg?v=6e1bc98bdce68001bb4f",
       "sources": [
         {
           "name": "Chelan County 수색·구조 보도",
@@ -1093,9 +1093,9 @@
         }
       ],
       "photo": null,
-      "deployment_id": "52070b38eec7709719b1",
-      "video_bytes": 96081822,
-      "video_sha256": "22952a431c197d635ac8b56e9aae6c4b07f3c570f604b5eec8e41681f75ef69b"
+      "deployment_id": "6e1bc98bdce68001bb4f",
+      "video_bytes": 96066953,
+      "video_sha256": "a70a62350c431f2f7f36dbd894b0022d175953983cf768baf6237c513d44a63a"
     },
     {
       "id": "STORY-181",
