@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T16:07:25+0900",
+  "updated_at": "2026-08-31T16:21:51+0900",
   "stories": [
     {
       "id": "STORY-227",
@@ -1109,12 +1109,12 @@
       "synopsis": "민감한 부위에 에어로졸 데오드란트를 뿌린 뒤 극심한 통증을 겪었다는 익명 사연을, 알코올·향료 자극과 추진제 기화에 따른 급격한 피부 냉각 가능성으로 설명합니다.",
       "commentPrompt": "데오드란트 에어로졸의 가장 의외인 위험은 화학 자극일까요, 급격한 냉각일까요?",
       "youtubeTitle": "이걸뿌리네 ㄷㄷ",
-      "youtubeDescription": "민감한 부위에 데오드란트를 아주 살짝 뿌린 순간 극심한 통증이 시작됐습니다. 알코올과 향료 자극, 에어로졸 추진제의 급격한 기화가 함께 작용했을 가능성을 살펴봅니다.\n\n※ 사건은 익명 커뮤니티 사연으로 독립 검증되지 않았고 실제 화상 진단도 확인되지 않았습니다. 과학 설명은 별도 의학 증례로 보강했습니다.\n\n#세상별일 #데오드란트 #생활과학 #쇼츠",
+      "youtubeDescription": "민감한 부위에 데오드란트를 아주 살짝 뿌린 순간 극심한 통증이 시작됐습니다. 알코올과 향료 자극, 에어로졸 추진제의 급격한 기화가 함께 작용했을 가능성을 살펴봅니다.\n\n※ 사건은 익명 커뮤니티 사연으로 독립 검증되지 않았고 실제 화상 진단도 확인되지 않았습니다. 과학 설명은 별도 의학 증례로 보강했습니다.\n\n🎵 BGM: The Big House — Audionautix\nAudionautix의 The Big House에는 크리에이티브 커먼즈 저작자 표시 4.0 라이선스가 적용됩니다. https://creativecommons.org/licenses/by/4.0/\n아티스트: http://audionautix.com/\n\n#세상별일 #데오드란트 #생활과학 #쇼츠",
       "youtubePinnedComment": "피부 가까이 에어로졸을 오래 분사하면 온도가 크게 떨어질 수 있다는 사실, 알고 계셨나요? 👇",
       "uploadFilename": "이걸뿌리네 ㄷㄷ_STORY-181_1080x1920.mp4",
       "ready": true,
-      "video": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/STORY-181.mp4?v=75a131a8cf8549aab1af",
-      "poster": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/STORY-181.jpg?v=75a131a8cf8549aab1af",
+      "video": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/STORY-181.mp4?v=d9c7ef07099811544f41",
+      "poster": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/STORY-181.jpg?v=d9c7ef07099811544f41",
       "sources": [
         {
           "name": "Reddit r/tifu 원문",
@@ -1138,9 +1138,9 @@
         }
       ],
       "photo": null,
-      "deployment_id": "75a131a8cf8549aab1af",
-      "video_bytes": 52808607,
-      "video_sha256": "69966261bfde198624c468a3833f05180299bc63bed142f01a5e6175b1546e4e"
+      "deployment_id": "d9c7ef07099811544f41",
+      "video_bytes": 73862130,
+      "video_sha256": "6aee49f7f51bb269285f27f412e8397d179823bf6e8a1e4a6453ae2585be6279"
     },
     {
       "id": "STORY-336",
