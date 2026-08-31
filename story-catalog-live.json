@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T09:27:56+0900",
+  "updated_at": "2026-08-31T16:07:25+0900",
   "stories": [
     {
       "id": "STORY-227",
@@ -1073,12 +1073,12 @@
       "synopsis": "약 70명의 구조 인력과 헬기·드론·수색견이 찾던 채드 피에트록을 열흘째 지나가던 등산객이 발견했습니다. 그는 부상 없이 산행을 계속하고 있었고 휴대전화는 꺼져 있었습니다.",
       "commentPrompt": "채드를 실종자로 만든 결정적인 문제는 험한 길이었을까요, 꺼진 휴대전화였을까요?",
       "youtubeTitle": "멀쩡히나오네 ㄷㄷ",
-      "youtubeDescription": "헬기와 드론, 수색견과 약 70명이 찾던 실종자를 지나가던 등산객 한 명이 발견했습니다. 그런데 채드는 다친 곳 없이 그저 산행을 계속하고 있었습니다.\n\n※ 보안관 발표 기반 보도를 바탕으로 각색했으며 식량·식수·야영 방식 등 생존 세부는 공개되지 않았습니다.\n\n#세상별일 #등산 #수색구조 #실화 #쇼츠",
+      "youtubeDescription": "헬기와 드론, 수색견과 약 70명이 찾던 실종자를 지나가던 등산객 한 명이 발견했습니다. 그런데 채드는 다친 곳 없이 그저 산행을 계속하고 있었습니다.\n\n※ 보안관 발표 기반 보도를 바탕으로 각색했으며 식량·식수·야영 방식 등 생존 세부는 공개되지 않았습니다.\n\n🎵 BGM: Sk8board — Audionautix\nAudionautix의 Sk8board에는 크리에이티브 커먼즈 저작자 표시 4.0 라이선스가 적용됩니다. https://creativecommons.org/licenses/by/4.0/\n아티스트: http://audionautix.com/\n\n#세상별일 #등산 #수색구조 #실화 #쇼츠",
       "youtubePinnedComment": "이제 장거리 산행에서 휴대전화 전원은 개인 선택일까요, 필수 안전장치일까요? 👇",
       "uploadFilename": "멀쩡히나오네 ㄷㄷ_STORY-311_1080x1920.mp4",
       "ready": true,
-      "video": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/STORY-311.mp4?v=00bb5e1c8049703ceb1b",
-      "poster": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/STORY-311.jpg?v=00bb5e1c8049703ceb1b",
+      "video": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/STORY-311.mp4?v=52070b38eec7709719b1",
+      "poster": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/STORY-311.jpg?v=52070b38eec7709719b1",
       "sources": [
         {
           "name": "Chelan County 수색·구조 보도",
@@ -1093,9 +1093,9 @@
         }
       ],
       "photo": null,
-      "deployment_id": "00bb5e1c8049703ceb1b",
-      "video_bytes": 98712152,
-      "video_sha256": "eb949ef67b9ea8dd6eb16c1c1b1a5b5ec4143b6b96b392142b421e7a7ca921a8"
+      "deployment_id": "52070b38eec7709719b1",
+      "video_bytes": 96081822,
+      "video_sha256": "22952a431c197d635ac8b56e9aae6c4b07f3c570f604b5eec8e41681f75ef69b"
     },
     {
       "id": "STORY-181",
