@@ -44,7 +44,7 @@
     <h1>쇼츠 BGM 후보 v2</h1>
     <p class="lead">댄스·일렉트로닉·하우스 중심. 주인장 확정곡과 2025년 이후 유튜브 오디오 보관함 후보를 휴대폰에서 연속 비교하는 선곡 페이지입니다.</p>
 
-    <div class="notice"><strong>중요:</strong> 아래 Apple 30초 음원은 선곡 미리듣기 전용입니다. 실제 영상에는 미리듣기를 쓰지 않고, 승인한 곡을 유튜브 스튜디오 오디오 보관함에서 정식 다운로드해 투입합니다.</div>
+    <div class="notice"><strong>전곡 수록:</strong> 카드에 표시된 19곡은 잘린 미리듣기가 아니라 처음부터 끝까지 재생되는 제작용 원곡입니다. Audionautix 3곡은 CC BY 4.0, 나머지는 유튜브 오디오 보관함 라이선스가 확인된 파일입니다.</div>
 
     <nav class="filters" aria-label="장르 필터">
       <button class="active" data-filter="all">전체</button>
@@ -68,9 +68,9 @@
 
   <script>
     const picked = [
-      {n:'P1', title:'Thump · 주인장 편집본', artist:'Audionautix', tags:['picked','house','comedy','action'], labels:['주인장 픽','펑키','생존·황당'], desc:'지저분한 도입음을 직접 정리한 producer-edit-v1. 생존기와 황당 실화의 기본 드라이브.', src:'shorts-bgm-library-v2/01_thump_producer_edit_v1.mp3', note:'CC BY 4.0 · 편집본 30초'},
-      {n:'P2', title:'The Big House', artist:'Audionautix', tags:['picked','house','comedy','action'], labels:['주인장 픽','개그 폭주','사건 확대'], desc:'황당 사건이 점점 커질 때 가장 잘 붙는 뻔뻔하고 빠른 추진력.', src:'shorts-bgm-library-v1/02_the_big_house.mp3', note:'CC BY 4.0 · 28초'},
-      {n:'P3', title:'Sk8board', artist:'Audionautix', tags:['picked','mystery','action'], labels:['주인장 픽','어두움','수색·의심'], desc:'어두운 전자 리듬. 수색, 의심, 기묘한 실화에 적합.', src:'shorts-bgm-library-v1/03_sk8board.mp3', note:'CC BY 4.0 · 28초'},
+      {n:'P1', title:'Thump · 주인장 편집본', artist:'Audionautix', tags:['picked','house','comedy','action'], labels:['주인장 픽','펑키','생존·황당'], desc:'지저분한 도입음을 직접 정리한 producer-edit-v1. 생존기와 황당 실화의 기본 드라이브.', src:'shorts-bgm-library-v2/full_thump_producer_edit_v1.mp3', note:'CC BY 4.0 · 전곡 1:54'},
+      {n:'P2', title:'The Big House', artist:'Audionautix', tags:['picked','house','comedy','action'], labels:['주인장 픽','개그 폭주','사건 확대'], desc:'황당 사건이 점점 커질 때 가장 잘 붙는 뻔뻔하고 빠른 추진력.', src:'shorts-bgm-library-v2/full_the_big_house.mp3', note:'CC BY 4.0 · 전곡 3:08'},
+      {n:'P3', title:'Sk8board', artist:'Audionautix', tags:['picked','mystery','action'], labels:['주인장 픽','어두움','수색·의심'], desc:'어두운 전자 리듬. 수색, 의심, 기묘한 실화에 적합.', src:'shorts-bgm-library-v2/full_sk8board.mp3', note:'CC BY 4.0 · 전곡 2:06'},
       {n:'P4', title:'Jammin Bread', artist:"Casa Rosa's Tulum Vibes", tags:['picked','house','comedy'], labels:['주인장 픽','펑키','황당·허무'], desc:'늘어지는 펑키 리듬이 어이없는 사건과 허무한 펀치라인을 살린다. STORY-311 지정곡.', src:'shorts-bgm-library-v2/02_jammin_bread.mp3', note:'YouTube 오디오 보관함 · 원본 2:30'},
       {n:'P5', title:'You Know Me', artist:'Jeremy Black', tags:['picked','house','comedy'], labels:['주인장 픽','행복','밝고 유쾌'], desc:'생활과학·커뮤니티·유머형의 범용 우선곡. 빠른 나레이션도 비교적 덜 가린다.', src:'shorts-bgm-library-v2/03_you_know_me.mp3', note:'YouTube 오디오 보관함 · 원본 3:25'},
       {n:'P6', title:'I Need You', artist:'Dyalla', tags:['picked','house','comedy'], labels:['주인장 픽','밝음','훈훈·가벼움'], desc:'밝은 사건 전개, 동물 구조, 훈훈한 반전에 우선 매칭한다.', src:'shorts-bgm-library-v2/04_i_need_you.mp3', note:'YouTube 오디오 보관함 · 원본 2:57'},
@@ -80,19 +80,16 @@
     ];
 
     const candidates = [
-      {n:2,title:'Sunset 52',artist:'Jeremy Black',tags:['house'],labels:['하우스','희망적','청취 신호'],signal:true,desc:'구조·회복·훈훈한 결말을 너무 감상적으로 만들지 않는 밝은 하우스.',src:'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2d/e2/b1/2de2b1c3-7e16-1958-a759-f83241b6d6ac/mzaf_7928589925854924821.plus.aac.p.m4a',url:'https://music.apple.com/us/album/sunset-52/1810624235?i=1810624248&uo=4'},
-      {n:3,title:'Berliner',artist:'Jeremy Black',tags:['house','comedy','action'],labels:['하우스','펑키','빠른 컷'],desc:'약 142 BPM의 빠른 펑키 하우스. 황당함이 연쇄적으로 폭주하는 영상용.',src:'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/27/c0/5a/27c05a0f-7365-3fec-dea6-286f3b9bd1c4/mzaf_7660662671660372945.plus.aac.p.m4a',url:'https://music.apple.com/us/album/berliner/1810624235?i=1810624240&uo=4'},
-      {n:4,title:'Bongo Rave',artist:'Jeremy Black',tags:['house','comedy','action'],labels:['일렉트로닉','박진감','추격'],desc:'장면 전환과 추격이 많은 이야기. 리듬이 강해 나레이션보다 충분히 낮게 깔아야 한다.',src:'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/bc/7f/8c/bc7f8ca8-6cca-604f-4aa1-0a60e1549658/mzaf_14873812138012983046.plus.aac.p.m4a',url:'https://music.apple.com/us/album/bongo-rave/1810610347?i=1810610350&uo=4'},
-      {n:5,title:'Y2K Heist',artist:'Rod Kim',tags:['house','comedy','action'],labels:['게임·밈','사건 전개','2025'],desc:'게임 UI 같은 장난기와 잠입극 무드. 복수·절도·허술한 범죄 이야기와 잘 맞는다.',src:'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/8b/1f/91/8b1f915c-5370-f39e-68a6-111c29fc198b/mzaf_6926114859333855648.plus.aac.p.m4a',url:'https://music.apple.com/us/album/y2k-heist/1823370789?i=1823370796&uo=4'},
-      {n:6,title:'I Might Be Late',artist:'Jeremy Black',tags:['house','mystery','action'],labels:['하우스','드라마틱','시간 압박'],desc:'마감·탈출·시간 제한처럼 점점 급해지는 사건의 긴장 곡선용.',src:'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9d/ce/1f/9dce1f60-b776-9068-9559-efd93c7b00dd/mzaf_2396620356067104753.plus.aac.p.m4a',url:'https://music.apple.com/us/album/i-might-be-late/1810624235?i=1810624246&uo=4'},
-      {n:7,title:'Window Shopping',artist:'Jeremy Black',tags:['house','comedy'],labels:['하우스','행복','생활·쇼핑'],desc:'일상 문화, 소비, 커뮤니티 사연처럼 가볍게 웃기는 주제용.',src:'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f5/88/f2/f588f2b1-b8d2-b607-baf4-71e74e3c14f4/mzaf_10822740568439807327.plus.aac.p.m4a',url:'https://music.apple.com/us/album/window-shopping/1810610347?i=1810610354&uo=4'},
-      {n:8,title:'Beautiful Mess',artist:'Jeremy Black',tags:['house','action'],labels:['일렉트로닉','상승감','회복'],desc:'실패 뒤 반전과 재기의 엔딩. 비극보다는 회복 서사가 있는 사건에 적합.',src:'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2e/7b/5a/2e7b5a92-27ba-8334-bb63-79bed086664f/mzaf_16633950416736690616.plus.aac.p.m4a',url:'https://music.apple.com/us/album/beautiful-mess/1810610347?i=1810610355&uo=4'},
-      {n:9,title:'Revive The Light',artist:'Ryan Stasik · Kanika Moore',tags:['house','action'],labels:['댄스','희망적','구조·생환'],desc:'구조와 생환의 후반부에 상승감을 주는 후보. 감동을 과도하게 밀지 않는 편.',src:'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ca/fe/4a/cafe4a2b-1f21-7633-cfd2-1b5780388c55/mzaf_547490270316589426.plus.aac.p.m4a',url:'https://music.apple.com/us/album/revive-the-light-feat-kanika-moore/1811280504?i=1811280513&uo=4'},
-      {n:10,title:'True Crime Documentary and Chill',artist:'Rod Kim',tags:['mystery','house'],labels:['미스터리','다큐 패러디','2025'],desc:'범죄·실종·수색 이야기를 진지하면서도 살짝 밈처럼 끌고 가는 후보.',src:'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fc/04/08/fc0408f4-fd9d-e35d-00d9-f192a15cab8d/mzaf_7288187876317769392.plus.aac.p.m4a',url:'https://music.apple.com/us/album/true-crime-documentary-and-chill/1823370789?i=1823370792&uo=4'},
-      {n:11,title:'Conspiracy Theory',artist:'Rod Kim',tags:['mystery'],labels:['의심','기묘함','2025'],desc:'뭔가 이상한데 원인을 아직 모르는 초반부. 과학 미스터리와 음모론 패러디용.',src:'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1a/cd/a8/1acda8ed-d318-4bf0-6926-b0666b13ab75/mzaf_13441465833089227182.plus.aac.p.m4a',url:'https://music.apple.com/us/album/conspiracy-theory/1823370789?i=1823370791&uo=4'},
-      {n:12,title:'Hot Drop Bus',artist:'Rod Kim',tags:['comedy','action'],labels:['게임·밈','빠른 도입','2025'],desc:'첫 3초부터 사건으로 뛰어드는 게임형 쇼츠. 구조·추격·대참사 직전의 훅에 적합.',src:'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c2/d5/a7/c2d5a7b2-f58c-ebdf-ec07-3086e27dc780/mzaf_12992893289271163133.plus.aac.p.m4a',url:'https://music.apple.com/us/album/hot-drop-bus/1823370789?i=1823370798&uo=4'},
-      {n:13,title:'Final Boss Battle',artist:'Rod Kim',tags:['action'],labels:['게임·밈','클라이맥스','2025'],desc:'마지막 대결·탈출·결정적 순간 전용. 전체 베드보다 짧은 클라이맥스 구간에 알맞다.',src:'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c2/db/82/c2db8285-3c91-a0cb-ff67-6c466d8fb179/mzaf_11355926793506784999.plus.aac.p.m4a',url:'https://music.apple.com/us/album/final-boss-battle/1823370789?i=1823370793&uo=4'},
-      {n:14,title:'uWu Victory Replay',artist:'Rod Kim',tags:['comedy'],labels:['귀여움','허무 엔딩','2025'],desc:'동물 구조, 귀여운 반전, 허무하게 성공한 결말의 짧은 보상 구간용.',src:'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5c/12/cd/5c12cde9-99b5-8811-18a6-c82c85e2b3ac/mzaf_7027255539954656031.plus.aac.p.m4a',url:'https://music.apple.com/us/album/uwu-victory-replay/1823370789?i=1823370799&uo=4'}
+      {n:1,title:'Sunset 52',artist:'Jeremy Black',tags:['house'],labels:['하우스','희망적','청취 신호'],signal:true,desc:'구조·회복·훈훈한 결말을 너무 감상적으로 만들지 않는 밝은 하우스.',src:'shorts-bgm-library-v2/full_sunset_52.mp3',note:'YouTube 오디오 보관함 · 전곡 2:39'},
+      {n:2,title:'Berliner',artist:'Jeremy Black',tags:['house','comedy','action'],labels:['하우스','펑키','빠른 컷'],desc:'약 142 BPM의 빠른 펑키 하우스. 황당함이 연쇄적으로 폭주하는 영상용.',src:'shorts-bgm-library-v2/full_berliner.mp3',note:'YouTube 오디오 보관함 · 전곡 4:27'},
+      {n:3,title:'Bongo Rave',artist:'Jeremy Black',tags:['house','comedy','action'],labels:['일렉트로닉','박진감','추격'],desc:'장면 전환과 추격이 많은 이야기. 리듬이 강해 나레이션보다 충분히 낮게 깔아야 한다.',src:'shorts-bgm-library-v2/full_bongo_rave.mp3',note:'YouTube 오디오 보관함 · 전곡 3:53'},
+      {n:4,title:'Y2K Heist',artist:'Rod Kim',tags:['house','comedy','action'],labels:['게임·밈','사건 전개','2025'],desc:'게임 UI 같은 장난기와 잠입극 무드. 복수·절도·허술한 범죄 이야기와 잘 맞는다.',src:'shorts-bgm-library-v2/full_y2k_heist.mp3',note:'YouTube 오디오 보관함 · 전곡 2:00'},
+      {n:5,title:'I Might Be Late',artist:'Jeremy Black',tags:['house','mystery','action'],labels:['하우스','드라마틱','시간 압박'],desc:'마감·탈출·시간 제한처럼 점점 급해지는 사건의 긴장 곡선용.',src:'shorts-bgm-library-v2/full_i_might_be_late.mp3',note:'YouTube 오디오 보관함 · 전곡 3:23'},
+      {n:6,title:'Window Shopping',artist:'Jeremy Black',tags:['house','comedy'],labels:['하우스','행복','생활·쇼핑'],desc:'일상 문화, 소비, 커뮤니티 사연처럼 가볍게 웃기는 주제용.',src:'shorts-bgm-library-v2/full_window_shopping.mp3',note:'YouTube 오디오 보관함 · 전곡 3:56'},
+      {n:7,title:'Revive The Light',artist:'Ryan Stasik · Kanika Moore',tags:['house','action'],labels:['댄스','희망적','구조·생환'],desc:'구조와 생환의 후반부에 상승감을 주는 후보. 감동을 과도하게 밀지 않는 편.',src:'shorts-bgm-library-v2/full_revive_the_light.mp3',note:'YouTube 오디오 보관함 · 전곡 2:11'},
+      {n:8,title:'True Crime Documentary and Chill',artist:'Rod Kim',tags:['mystery','house'],labels:['미스터리','다큐 패러디','2025'],desc:'범죄·실종·수색 이야기를 진지하면서도 살짝 밈처럼 끌고 가는 후보.',src:'shorts-bgm-library-v2/full_true_crime_documentary_and_chill.mp3',note:'YouTube 오디오 보관함 · 전곡 2:05'},
+      {n:9,title:'Conspiracy Theory',artist:'Rod Kim',tags:['mystery'],labels:['의심','기묘함','2025'],desc:'뭔가 이상한데 원인을 아직 모르는 초반부. 과학 미스터리와 음모론 패러디용.',src:'shorts-bgm-library-v2/full_conspiracy_theory.mp3',note:'YouTube 오디오 보관함 · 전곡 1:36'},
+      {n:10,title:'Hot Drop Bus',artist:'Rod Kim',tags:['comedy','action'],labels:['게임·밈','빠른 도입','2025'],desc:'첫 3초부터 사건으로 뛰어드는 게임형 쇼츠. 구조·추격·대참사 직전의 훅에 적합.',src:'shorts-bgm-library-v2/full_hot_drop_bus.mp3',note:'YouTube 오디오 보관함 · 전곡 1:56'}
     ];
 
     function makeCard(t) {
@@ -100,7 +97,7 @@
       article.className = 'card';
       article.dataset.tags = t.tags.join(' ');
       const labels = t.labels.map((x,i) => `<span class="tag ${t.tags.includes('picked') && i===0 ? 'pick' : t.signal && x==='청취 신호' ? 'signal' : ''}">${x}</span>`).join('');
-      article.innerHTML = `<div class="top"><div class="rank">${t.n}</div><div class="title"><h3>${t.title}</h3><div class="artist">${t.artist}</div></div></div><div class="tags">${labels}</div><p class="desc">${t.desc}</p><audio controls playsinline preload="none" src="${t.src}"></audio><div class="meta"><span>${t.note || 'Apple 30초 선곡 미리듣기'}</span>${t.url ? `<a href="${t.url}" target="_blank" rel="noopener">곡 정보</a>` : '<span>제작 마스터 보유</span>'}</div>`;
+      article.innerHTML = `<div class="top"><div class="rank">${t.n}</div><div class="title"><h3>${t.title}</h3><div class="artist">${t.artist}</div></div></div><div class="tags">${labels}</div><p class="desc">${t.desc}</p><audio controls playsinline preload="none" src="${t.src}"></audio><div class="meta"><span>${t.note || '전곡 재생'}</span>${t.url ? `<a href="${t.url}" target="_blank" rel="noopener">곡 정보</a>` : '<span>제작 마스터 보유</span>'}</div>`;
       return article;
     }
 
