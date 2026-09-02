@@ -1,6 +1,19 @@
 {
-  "updatedAt": "2026-09-02T03:48:38.692547Z",
+  "updatedAt": "2026-09-02T03:49:27.045015Z",
   "items": [
+    {
+      "storyCode": "STORY-392",
+      "version": "v1",
+      "title": "STORY-392 나레이션 음성 컨펌",
+      "youtubeTitle": "사무직인데 갑자기 바다에 뛰쳐나간 이유 ㄷㄷ",
+      "durationSeconds": 100.448,
+      "audioUrl": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/tts-tests/STORY-392_narration_approval_v1.mp3?v=8893bab6c8",
+      "downloadUrl": "https://raw.githubusercontent.com/JAYONTHEBEATYO/sesangbyeoril-shorts-media/gh-pages/tts-tests/STORY-392_narration_approval_v1.mp3?v=8893bab6c8",
+      "playerUrl": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/tts-tests/STORY-392_audio_review_v1.html?v=8893bab6c8",
+      "status": "승인 대기",
+      "updatedAt": "2026-09-02T03:49:27.045015Z",
+      "note": "확정 대본 기준 발음·문장 누락·끝음절 검수 완료"
+    },
     {
       "storyCode": "STORY-407",
       "version": "v1",
