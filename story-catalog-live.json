@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T22:30:02+0900",
+  "updated_at": "2026-09-03T06:27:56+0900",
   "stories": [
     {
       "id": "STORY-227",
@@ -1226,6 +1226,36 @@
       "deployment_id": "ff6de98c6bf43bfc0941",
       "video_bytes": 54436400,
       "video_sha256": "ef39fa8499a70c911d61a886f95b72d4e5e5208a92c45ab2d7f1d3ee97ad01be"
+    },
+    {
+      "id": "STORY-392",
+      "number": 55,
+      "batch": "new",
+      "title": "시민들이 돌고래 12마리를 살린 방법",
+      "titleTop": "돌고래 12마리",
+      "titleBottom": "시민들이 살렸죠",
+      "type": "verified-adapted",
+      "classification": "공개 구조 보도와 현장 자료를 바탕으로 재구성한 검증 실화.",
+      "synopsis": "아일랜드 케리주의 해변에 집단 좌초된 돌고래 가운데 살아 있던 12마리를 해양생물학자와 시민들이 응급조치하고 바다로 돌려보낸 이야기입니다.",
+      "commentPrompt": "전문 장비가 도착하기 전 시민들이 한 응급조치 중 가장 중요했던 것은 무엇이었을까요?",
+      "youtubeTitle": "시민들이 돌고래 12마리를 살린 방법",
+      "youtubeDescription": "해변에 집단 좌초된 돌고래 21마리. 시민들과 해양생물학자는 살아 있던 12마리를 바다로 돌려보내기 위해 움직였습니다.\n\n#세상별일 #돌고래구조 #동물구조 #실화 #쇼츠",
+      "youtubePinnedComment": "돌고래를 살리기 위해 시민들이 가장 먼저 해야 했던 행동은 무엇이었을까요?",
+      "uploadFilename": "시민들이 돌고래 12마리를 살린 방법_STORY-392_1080x1920.mp4",
+      "ready": true,
+      "video": "https://shorts-media.bgmfree.com/videos/STORY-392/862ffd0d8897f7c5c2e7.mp4",
+      "poster": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/STORY-392.jpg?v=862ffd0d8897f7c5c2e7",
+      "sources": [],
+      "claims": [
+        {
+          "text": "공개 구조 보도와 현장 자료를 바탕으로 영상 장면을 재구성했다.",
+          "certainty": "verified-adapted"
+        }
+      ],
+      "photo": null,
+      "deployment_id": "862ffd0d8897f7c5c2e7",
+      "video_bytes": 167183164,
+      "video_sha256": "11aa1c60e26441f7cbefd3a299ec2d217eef442c10cd3edebae898e2156d5d37"
     }
   ]
 }
