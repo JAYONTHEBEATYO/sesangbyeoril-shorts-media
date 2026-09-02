@@ -1,6 +1,19 @@
 {
-  "updatedAt": "2026-09-02T03:50:06.990180Z",
+  "updatedAt": "2026-09-02T14:52:56.119144Z",
   "items": [
+    {
+      "storyCode": "STORY-610",
+      "version": "v1",
+      "title": "STORY-610 고양이 샘 나레이션 음성 컨펌",
+      "youtubeTitle": "",
+      "durationSeconds": 81.595,
+      "audioUrl": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/tts-tests/STORY-610_narration_approval_v1.mp3?v=a125511be5",
+      "downloadUrl": "https://raw.githubusercontent.com/JAYONTHEBEATYO/sesangbyeoril-shorts-media/gh-pages/tts-tests/STORY-610_narration_approval_v1.mp3?v=a125511be5",
+      "playerUrl": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/tts-tests/STORY-610_audio_review_v1.html?v=a125511be5",
+      "status": "승인 대기",
+      "updatedAt": "2026-09-02T14:52:56.119144Z",
+      "note": "확정 대본 기준 발음·문장 누락·끝음절 검수 완료"
+    },
     {
       "storyCode": "STORY-283",
       "version": "v1",
