@@ -1,6 +1,19 @@
 {
-  "updatedAt": "2026-09-02T03:49:27.045015Z",
+  "updatedAt": "2026-09-02T03:50:06.990180Z",
   "items": [
+    {
+      "storyCode": "STORY-283",
+      "version": "v1",
+      "title": "STORY-283 나레이션 음성 컨펌",
+      "youtubeTitle": "치과예약이 사람을 살려버림 ㄷㄷ",
+      "durationSeconds": 144.486,
+      "audioUrl": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/tts-tests/STORY-283_narration_approval_v1.mp3?v=e802fe7e4e",
+      "downloadUrl": "https://raw.githubusercontent.com/JAYONTHEBEATYO/sesangbyeoril-shorts-media/gh-pages/tts-tests/STORY-283_narration_approval_v1.mp3?v=e802fe7e4e",
+      "playerUrl": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/tts-tests/STORY-283_audio_review_v1.html?v=e802fe7e4e",
+      "status": "승인 대기",
+      "updatedAt": "2026-09-02T03:50:06.990180Z",
+      "note": "확정 대본 기준 발음·문장 누락·끝음절 검수 완료"
+    },
     {
       "storyCode": "STORY-392",
       "version": "v1",
