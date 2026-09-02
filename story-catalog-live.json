@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T06:27:56+0900",
+  "updated_at": "2026-09-03T06:47:40+0900",
   "stories": [
     {
       "id": "STORY-227",
@@ -1256,6 +1256,36 @@
       "deployment_id": "862ffd0d8897f7c5c2e7",
       "video_bytes": 167183164,
       "video_sha256": "11aa1c60e26441f7cbefd3a299ec2d217eef442c10cd3edebae898e2156d5d37"
+    },
+    {
+      "id": "STORY-407",
+      "number": 54,
+      "batch": "new",
+      "title": "농약 드론이 사람을 구한 날",
+      "titleTop": "헬기 대신",
+      "titleBottom": "농약 드론이 떴다",
+      "type": "verified-adapted",
+      "classification": "공개 구조 보도를 바탕으로 재구성한 검증 실화.",
+      "synopsis": "중국 광시성 홍수 현장에서 농업·화물용 대형 드론이 물자 운송과 정찰을 넘어 고립된 사람을 직접 구조한 과정을 다룹니다.",
+      "commentPrompt": "홍수 구조에서 대형 드론이 헬기를 보완할 수 있다고 보시나요?",
+      "youtubeTitle": "농약 드론이 사람을 구한 날",
+      "youtubeDescription": "헬기가 들어가기 어려운 홍수 현장에 농약과 화물을 나르던 드론이 투입됐습니다.\n\n#세상별일 #드론구조 #홍수 #실화 #쇼츠",
+      "youtubePinnedComment": "사람을 매단 드론의 가장 큰 위험은 무게, 흔들림, 통신 중 무엇일까요?",
+      "uploadFilename": "농약 드론이 사람을 구한 날_STORY-407_1080x1920.mp4",
+      "ready": true,
+      "video": "https://shorts-media.bgmfree.com/videos/STORY-407/19067bb74f1edeaf35fb.mp4",
+      "poster": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/STORY-407.jpg?v=19067bb74f1edeaf35fb",
+      "sources": [],
+      "claims": [
+        {
+          "text": "공개 구조 보도를 바탕으로 영상 장면을 재구성했다.",
+          "certainty": "verified-adapted"
+        }
+      ],
+      "photo": null,
+      "deployment_id": "19067bb74f1edeaf35fb",
+      "video_bytes": 266062430,
+      "video_sha256": "2f35d3db36af9cb58958d5fe07ef86bb48219133b6a6d98b2679fbff20a16516"
     }
   ]
 }
