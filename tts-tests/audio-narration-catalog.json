@@ -1,6 +1,19 @@
 {
-  "updatedAt": "2026-08-28T01:50:59.281370Z",
+  "updatedAt": "2026-09-02T03:47:56.115641Z",
   "items": [
+    {
+      "storyCode": "STORY-585",
+      "version": "v1",
+      "title": "STORY-585 나레이션 음성 컨펌",
+      "youtubeTitle": "척수 완전손상 후 다시 삶을 움직인 남자 ㄷㄷ",
+      "durationSeconds": 132.94,
+      "audioUrl": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/tts-tests/STORY-585_narration_approval_v1.mp3?v=c4914975e8",
+      "downloadUrl": "https://raw.githubusercontent.com/JAYONTHEBEATYO/sesangbyeoril-shorts-media/gh-pages/tts-tests/STORY-585_narration_approval_v1.mp3?v=c4914975e8",
+      "playerUrl": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/tts-tests/STORY-585_audio_review_v1.html?v=c4914975e8",
+      "status": "승인 대기",
+      "updatedAt": "2026-09-02T03:47:56.115641Z",
+      "note": "확정 대본 기준 발음·문장 누락·끝음절 검수 완료"
+    },
     {
       "storyCode": "STORY-336",
       "version": "v2",
