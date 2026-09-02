@@ -1,6 +1,19 @@
 {
-  "updatedAt": "2026-09-02T03:47:56.115641Z",
+  "updatedAt": "2026-09-02T03:48:38.692547Z",
   "items": [
+    {
+      "storyCode": "STORY-407",
+      "version": "v1",
+      "title": "STORY-407 나레이션 음성 컨펌",
+      "youtubeTitle": "화물드론으로 사람을 구조해도 될까 ㄷㄷ",
+      "durationSeconds": 151.494,
+      "audioUrl": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/tts-tests/STORY-407_narration_approval_v1.mp3?v=94640cbab3",
+      "downloadUrl": "https://raw.githubusercontent.com/JAYONTHEBEATYO/sesangbyeoril-shorts-media/gh-pages/tts-tests/STORY-407_narration_approval_v1.mp3?v=94640cbab3",
+      "playerUrl": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/tts-tests/STORY-407_audio_review_v1.html?v=94640cbab3",
+      "status": "승인 대기",
+      "updatedAt": "2026-09-02T03:48:38.692547Z",
+      "note": "확정 대본 기준 발음·문장 누락·끝음절 검수 완료"
+    },
     {
       "storyCode": "STORY-585",
       "version": "v1",
