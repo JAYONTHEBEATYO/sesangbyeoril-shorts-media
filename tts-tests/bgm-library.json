@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-09-03T00:00:00+09:00",
+  "policy": {
+    "approvedOnly": true,
+    "weeklyRecommendationsAreProductionEligible": false,
+    "narrationFallbackTrackIds": ["thump", "jammin_bread", "you_know_me", "i_need_you"],
+    "note": "주간 추천곡은 웹 청취 후보일 뿐입니다. 주인장 승인 전에는 영상에 자동 매칭되지 않습니다."
+  },
+  "approvedTracks": [
+    {"id":"thump","title":"Thump · 주인장 편집본","artist":"Audionautix","useMode":"narration_present","mood":"펑키·생존·황당","status":"ready","audioUrl":"https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/tts-tests/bgm-library-v3/thump_producer_edit.mp3","license":"CC BY 4.0","sourceUrl":"https://audionautix.com/Music/Thump.mp3"},
+    {"id":"jammin_bread","title":"Jammin Bread","artist":"Casa Rosa's Tulum Vibes","useMode":"narration_present","mood":"황당·유머·허무반전","status":"ready","audioUrl":"https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/tts-tests/bgm-library-v3/jammin_bread.mp3","license":"YouTube Audio Library License","sourceUrl":"https://www.youtube.com/audiolibrary/music"},
+    {"id":"you_know_me","title":"You Know Me","artist":"Jeremy Black","useMode":"narration_present","mood":"밝음·생활과학·위트","status":"ready","audioUrl":"https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/tts-tests/bgm-library-v3/you_know_me.mp3","license":"YouTube Audio Library License","sourceUrl":"https://www.youtube.com/audiolibrary/music"},
+    {"id":"i_need_you","title":"I Need You","artist":"Dyalla","useMode":"narration_present","mood":"밝음·동물·훈훈함","status":"ready","audioUrl":"https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/tts-tests/bgm-library-v3/i_need_you.mp3","license":"YouTube Audio Library License","sourceUrl":"https://www.youtube.com/audiolibrary/music"},
+    {"id":"zoom","title":"Zoom","artist":"Vibe Tracks","useMode":"captions_only","mood":"차분함·설명","status":"ready","audioUrl":"https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/tts-tests/bgm-library-v3/zoom.mp3","license":"YouTube Audio Library License","sourceUrl":"https://www.youtube.com/audiolibrary/music"},
+    {"id":"in_it_to_win_it","title":"In it to Win it","artist":"Dan “Lebo” Lebowitz · Tone Seeker","useMode":"captions_only","mood":"극적·처절한 생존","status":"ready","audioUrl":"https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/tts-tests/bgm-library-v3/in_it_to_win_it.mp3","license":"YouTube Audio Library License","sourceUrl":"https://www.youtube.com/audiolibrary/music"},
+    {"id":"scope_360","title":"360 No Scope","artist":"The Soundlings","useMode":"captions_only","mood":"강한 사건·임팩트","status":"ready","audioUrl":"https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/tts-tests/bgm-library-v3/360_no_scope.mp3","license":"YouTube Audio Library License","sourceUrl":"https://www.youtube.com/audiolibrary/music"},
+    {"id":"sunset_52","title":"Sunset 52","artist":"Jeremy Black","useMode":"captions_only","mood":"희망적·하우스","status":"ready","audioUrl":"https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/tts-tests/bgm-library-v3/sunset_52.mp3","license":"YouTube Audio Library License","sourceUrl":"https://www.youtube.com/audiolibrary/music"},
+    {"id":"i_might_be_late","title":"I Might Be Late","artist":"Jeremy Black","useMode":"captions_only","mood":"시간압박·드라마틱","status":"ready","audioUrl":"https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/tts-tests/bgm-library-v3/i_might_be_late.mp3","license":"YouTube Audio Library License","sourceUrl":"https://www.youtube.com/audiolibrary/music"},
+    {"id":"true_crime_documentary_and_chill","title":"True Crime Documentary and Chill","artist":"Rod Kim","useMode":"captions_only","mood":"범죄·미스터리·다큐","status":"ready","audioUrl":"https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/tts-tests/bgm-library-v3/true_crime_documentary_and_chill.mp3","license":"YouTube Audio Library License","sourceUrl":"https://www.youtube.com/audiolibrary/music"},
+    {"id":"vaquero_perdido","title":"Vaquero Perdido","artist":"The Mini Vandals","useMode":"narration_present","mood":"감동·재회·낭만적","status":"awaiting_official_download","audioUrl":"","license":"YouTube Audio Library License","sourceUrl":"https://www.youtube.com/watch?v=fL3wi7SRpf4","assignment":"STORY-610"},
+    {"id":"unrequited","title":"Unrequited","artist":"Asher Fulero","useMode":"narration_present","mood":"로맨틱·낭만적","status":"awaiting_official_download","audioUrl":"","license":"YouTube Audio Library License","sourceUrl":"https://www.youtube.com/watch?v=KOcGdGW2tiQ"}
+  ],
+  "weeklyRecommendations": [
+    {"id":"weekly-2026w36-1","title":"Ego Chall","artist":"Blue Deer Studio","genre":"댄스/일렉트로닉","mood":"극적","reason":"강한 사건 훅과 빠른 장면 전환 후보","status":"candidate_only","sourceUrl":"https://www.youtube.com/audiolibrary/music"},
+    {"id":"weekly-2026w36-2","title":"Vibe Check","artist":"Blue Deer Studio","genre":"댄스/일렉트로닉","mood":"영감","reason":"훈훈한 동물 구조와 회복 결말 후보","status":"candidate_only","sourceUrl":"https://www.youtube.com/audiolibrary/music"},
+    {"id":"weekly-2026w36-3","title":"Survival Mode","artist":"Blue Deer Studio","genre":"댄스/일렉트로닉","mood":"영감","reason":"서바이벌 타임라인을 밀어주는 신규 후보","status":"candidate_only","sourceUrl":"https://www.youtube.com/audiolibrary/music"},
+    {"id":"weekly-2026w36-4","title":"Happy Tails","artist":"Blue Deer Studio","genre":"컨트리/포크","mood":"밝음","reason":"가벼운 동물 실화와 해피엔딩 후보","status":"candidate_only","sourceUrl":"https://www.youtube.com/audiolibrary/music"},
+    {"id":"weekly-2026w36-5","title":"Cutscene Crush","artist":"Blue Deer Studio","genre":"영화음악","mood":"영감","reason":"애니메이트형 AI 사건과 게임 UI 연출 후보","status":"candidate_only","sourceUrl":"https://www.youtube.com/audiolibrary/music"}
+  ],
+  "weekly": {"week":"2026-W36","nextRefresh":"2026-09-07T09:00:00+09:00","source":"YouTube Studio Audio Library","selection":"AI-curated candidate-only"}
+}

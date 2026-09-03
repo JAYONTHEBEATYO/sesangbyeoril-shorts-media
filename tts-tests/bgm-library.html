@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#081018">
+  <title>세상별일 BGM 라이브러리</title>
+  <style>
+    :root{color-scheme:dark;font-family:system-ui,-apple-system,"Noto Sans KR",sans-serif}*{box-sizing:border-box}body{margin:0;background:#081018;color:#f6fafc}main{width:min(780px,calc(100% - 24px));margin:auto;padding:28px 0 70px}h1{margin:0;font-size:clamp(30px,8vw,48px);letter-spacing:-.05em}.lead{color:#a9b7c4;line-height:1.65}.tabs{position:sticky;top:0;z-index:3;display:flex;gap:7px;overflow:auto;padding:12px 0;background:rgba(8,16,24,.94);backdrop-filter:blur(10px)}button{border:1px solid #33475a;border-radius:999px;padding:9px 13px;background:#14212c;color:#d8e3eb;font-weight:900;white-space:nowrap}button.active{background:#74f0d1;color:#06100d;border-color:#74f0d1}.notice{padding:13px 15px;border:1px solid #33475a;border-radius:14px;background:#101a24;color:#b9c6d0;font-size:13px;line-height:1.55}h2{margin:26px 0 10px;font-size:18px}.card{margin:10px 0;padding:17px;border:1px solid #2d4051;border-radius:18px;background:linear-gradient(145deg,#162431,#101923)}.card.hidden{display:none}.top{display:flex;align-items:flex-start;justify-content:space-between;gap:10px}.card h3{margin:0;font-size:19px}.artist{margin-top:4px;color:#9fb0bd;font-size:13px}.badge{padding:5px 8px;border-radius:999px;background:#263a49;color:#8ff4d9;font-size:10px;font-weight:950}.meta{margin:11px 0 0;color:#c2cdd5;font-size:13px}.card audio{width:100%;margin-top:13px}.links{display:flex;gap:8px;margin-top:12px}.links a{padding:9px 11px;border-radius:9px;background:#24384a;color:#e9f3f7;text-decoration:none;font-size:12px;font-weight:900}.pending{color:#ffcc80}.week{color:#74f0d1;font-weight:900}footer{margin-top:30px;color:#8697a5;font-size:12px;line-height:1.6}
+  </style>
+</head>
+<body><main>
+  <h1>BGM 라이브러리</h1>
+  <p class="lead">주인장 확정곡만 제작에 사용합니다. 나레이션용과 자막 전용을 분리했고, AI 추천 5곡은 승인 전까지 웹 후보로만 남습니다.</p>
+  <div class="notice" id="notice">목록을 불러오는 중입니다.</div>
+  <nav class="tabs"><button class="active" data-mode="all">전체</button><button data-mode="narration_present">나레이션용</button><button data-mode="captions_only">자막 전용</button><button data-mode="weekly">주간 AI 후보</button></nav>
+  <h2>주인장 확정곡</h2><section id="approved"></section>
+  <h2>이번 주 AI 추천 <span class="week" id="week"></span></h2><section id="weekly"></section>
+  <footer>후보곡은 자동 제작에 들어가지 않습니다. 다른 곡이 재생되면 기존 플레이어는 자동으로 멈춥니다.</footer>
+</main><script>
+const approved=document.querySelector('#approved'),weekly=document.querySelector('#weekly');
+function card(t,mode){const el=document.createElement('article');el.className='card';el.dataset.mode=mode;const state=t.status==='ready'?'재생 가능':t.status==='candidate_only'?'후보 전용':'원본 대기';el.innerHTML=`<div class="top"><div><h3>${t.title}</h3><div class="artist">${t.artist}</div></div><span class="badge">${state}</span></div><p class="meta">${t.mood||t.genre||''}${t.reason?` · ${t.reason}`:''}</p>${t.audioUrl?`<audio controls playsinline preload="none" src="${t.audioUrl}"></audio>`:`<p class="pending">공식 원본 파일을 내려받으면 이 자리에서 바로 재생됩니다.</p>`}<div class="links"><a href="${t.sourceUrl}" target="_blank" rel="noopener">공식 출처</a></div>`;return el}
+fetch(`bgm-library.json?v=${Date.now()}`,{cache:'no-store'}).then(r=>r.ok?r.json():Promise.reject()).then(data=>{document.querySelector('#notice').textContent=`확정 ${data.approvedTracks.length}곡 · 즉시 재생 ${data.approvedTracks.filter(t=>t.status==='ready').length}곡 · 주간 후보 ${data.weeklyRecommendations.length}곡`;document.querySelector('#week').textContent=data.weekly.week;data.approvedTracks.forEach(t=>approved.append(card(t,t.useMode)));data.weeklyRecommendations.forEach(t=>weekly.append(card(t,'weekly')));const players=[...document.querySelectorAll('audio')];players.forEach(p=>p.addEventListener('play',()=>players.forEach(o=>{if(o!==p)o.pause()})))}).catch(()=>document.querySelector('#notice').textContent='목록 연결이 끊겼습니다. 새로고침해 주세요.');
+document.querySelectorAll('button[data-mode]').forEach(b=>b.addEventListener('click',()=>{document.querySelectorAll('button[data-mode]').forEach(x=>x.classList.toggle('active',x===b));const mode=b.dataset.mode;document.querySelectorAll('.card').forEach(c=>c.classList.toggle('hidden',mode!=='all'&&c.dataset.mode!==mode))}));
+  </script></body></html>
