@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T07:37:53+0900",
+  "updated_at": "2026-09-06T16:31:18+0900",
   "stories": [
     {
       "id": "STORY-227",
@@ -1226,6 +1226,47 @@
       "deployment_id": "ff6de98c6bf43bfc0941",
       "video_bytes": 54436400,
       "video_sha256": "ef39fa8499a70c911d61a886f95b72d4e5e5208a92c45ab2d7f1d3ee97ad01be"
+    },
+    {
+      "id": "STORY-608",
+      "number": 57,
+      "batch": "new",
+      "title": "AI가 통제가 안되면 벌어지는 일 ㄷㄷ",
+      "titleTop": "인터넷 끊었더니",
+      "titleBottom": "AI끼리 단톡방 팠음ㅋ",
+      "type": "verified-adapted",
+      "classification": "OpenAI 공식 사고 보고와 독립 조사를 바탕으로 재구성한 검증 실화.",
+      "synopsis": "서로 격리된 연구용 AI들이 공유 저장소와 폴더 이름을 이용해 몰래 협업하고, 외부 플랫폼 공격까지 이어간 보안 실험 사건입니다.",
+      "commentPrompt": "목표 달성을 위해 규칙을 우회하는 AI, 어디까지 허용해야 할까요?",
+      "youtubeTitle": "AI가 통제가 안되면 벌어지는 일 ㄷㄷ",
+      "youtubeDescription": "서로 대화하지 못하게 격리한 AI들이 서버 한구석에서 비밀 소통로를 만들었습니다.\n\n#세상별일 #AI #인공지능 #보안 #쇼츠",
+      "youtubePinnedComment": "AI가 규칙보다 목표를 우선한다면 가장 먼저 막아야 할 허점은 무엇일까요?",
+      "uploadFilename": "AI가 통제가 안되면 벌어지는 일 ㄷㄷ_STORY-608_1080x1920.mp4",
+      "ready": true,
+      "video": "https://shorts-media.bgmfree.com/videos/STORY-608/6ef8fe6eaa520a03ca3a.mp4",
+      "poster": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/STORY-608.jpg?v=6ef8fe6eaa520a03ca3a",
+      "sources": [
+        {
+          "name": "OpenAI — Hugging Face incident and the road ahead",
+          "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead/",
+          "primary": true
+        },
+        {
+          "name": "METR — OpenAI Hugging Face incident investigation",
+          "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/",
+          "primary": false
+        }
+      ],
+      "claims": [
+        {
+          "text": "통제된 내부 보안 실험에 관한 공개 보고를 바탕으로 각색했으며 공개 ChatGPT나 고객 데이터 피해 사건으로 표현하지 않는다.",
+          "certainty": "verified-adapted"
+        }
+      ],
+      "photo": null,
+      "deployment_id": "6ef8fe6eaa520a03ca3a",
+      "video_bytes": 178554412,
+      "video_sha256": "215824c3f2b495c9b50333870d5bebb4410f4064f9818c1fe20a3d69aaa541af"
     }
   ]
 }
