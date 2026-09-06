@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T21:39:18+0900",
+  "updated_at": "2026-09-07T01:33:00+0900",
   "stories": [
     {
       "id": "STORY-227",
@@ -1308,6 +1308,47 @@
       "deployment_id": "104849493e6264182a83",
       "video_bytes": 56309601,
       "video_sha256": "33ece5dff3454d1e2310a24990abe3fb22c1c318fc37857cff9fbb2df50c8e6b"
+    },
+    {
+      "id": "STORY-610",
+      "number": 59,
+      "batch": "new",
+      "title": "11년만에 돌아옴 ㅎㄷㄷ",
+      "titleTop": "11년 전 실종",
+      "titleBottom": "어케 찾았지 ㄷㄷ",
+      "type": "verified-adapted",
+      "classification": "동물보호소 공식 사연과 실제 재회 자료를 바탕으로 재구성한 검증 실화.",
+      "synopsis": "실종된 고양이 샘이 11년 뒤 보호소에서 발견되고, 마이크로칩 번호 덕분에 제니퍼와 다시 만난 이야기입니다.",
+      "commentPrompt": "11년 뒤 반려동물을 되찾게 한 마이크로칩, 여러분도 등록하셨나요?",
+      "youtubeTitle": "11년만에 돌아옴 ㅎㄷㄷ",
+      "youtubeDescription": "대형견을 피해 사라진 고양이 샘. 11년 뒤 작은 마이크로칩 하나가 가족을 다시 이어줬습니다.\n\n#세상별일 #고양이 #동물구조 #마이크로칩 #쇼츠",
+      "youtubePinnedComment": "샘이 11년 동안 어디에서 지냈는지 가장 궁금한 장면은 무엇인가요?",
+      "uploadFilename": "11년만에 돌아옴 ㅎㄷㄷ_STORY-610_1080x1920.mp4",
+      "ready": true,
+      "video": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/STORY-610.mp4?v=ddb09a7bee735895d8ab",
+      "poster": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/STORY-610.jpg?v=ddb09a7bee735895d8ab",
+      "sources": [
+        {
+          "name": "Charleston Animal Society — cat reunited after 11 years",
+          "url": "https://charlestonanimalsociety.org/tears-flow-as-cat-reunited-with-owner-after-11-years/",
+          "primary": true
+        },
+        {
+          "name": "AAHA — Pet microchipping FAQ",
+          "url": "https://www.aaha.org/resources/pet-microchipping-faqs/",
+          "primary": true
+        }
+      ],
+      "claims": [
+        {
+          "text": "보호소 공식 재회 기록을 바탕으로 재구성했으며 샘의 실종 기간 행적은 확인되지 않았다.",
+          "certainty": "verified-adapted"
+        }
+      ],
+      "photo": null,
+      "deployment_id": "ddb09a7bee735895d8ab",
+      "video_bytes": 64647401,
+      "video_sha256": "6717e92913e34a4817d7398360dc1e1066e6f642eb86f17851473e01bf6ec6fb"
     }
   ]
 }
