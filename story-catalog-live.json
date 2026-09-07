@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T07:14:01+0900",
+  "updated_at": "2026-09-08T08:34:00+0900",
   "stories": [
     {
       "id": "STORY-227",
@@ -1409,6 +1409,36 @@
       "deployment_id": "79740721e63e7548d2f3",
       "video_bytes": 273207533,
       "video_sha256": "1b18e5384cb157a57b67c558f4a01e379e1778dea63a0fdc780e0336f6c42cc6"
+    },
+    {
+      "id": "STORY-392",
+      "number": 55,
+      "batch": "new",
+      "title": "시민들이 돌고래 12마리를 살린 방법",
+      "titleTop": "돌고래 12마리",
+      "titleBottom": "시민들이 살렸죠",
+      "type": "verified-adapted",
+      "classification": "공개 구조 보도와 현장 자료를 바탕으로 재구성한 검증 실화.",
+      "synopsis": "아일랜드 케리주의 해변에 집단 좌초된 돌고래 가운데 살아 있던 12마리를 해양생물학자와 시민들이 응급조치하고 바다로 돌려보낸 이야기입니다.",
+      "commentPrompt": "전문 장비가 도착하기 전 시민들이 한 응급조치 중 가장 중요했던 것은 무엇이었을까요?",
+      "youtubeTitle": "시민들이 돌고래 12마리를 살린 방법",
+      "youtubeDescription": "해변에 집단 좌초된 돌고래 21마리. 시민들과 해양생물학자는 살아 있던 12마리를 바다로 돌려보내기 위해 움직였습니다.\n\n#세상별일 #돌고래구조 #동물구조 #실화 #쇼츠\n\nBGM: Thump by Audionautix (Jason Shaw)\nAudionautix의 Thump에는 크리에이티브 커먼즈 저작자 표시 4.0 라이선스가 적용됩니다. https://creativecommons.org/licenses/by/4.0/\n아티스트: http://audionautix.com/\n원곡 출처: https://audionautix.com/Music/Thump.mp3\n사용 버전: 주인장 편집본 사용(인트로 편집), 영상에 맞춘 길이·음량 조정.",
+      "youtubePinnedComment": "2026년 8월 12일 아일랜드 케리주의 한 해변에 돌고래 21마리가 집단 좌초됐습니다. 9마리는 이미 숨졌지만 12마리는 살아 있었고, 바닷물 밖에서는 자기 체중 때문에 폐와 장기가 눌릴 위험이 커지고 있었습니다.\n\n현장에 먼저 도착한 해양생물학자 케빈 플래너리는 구경 인파와 떠돌이개를 물리고, 시민들에게 꼬리와 지느러미를 잡지 말라고 지시했습니다. 돌고래의 몸을 똑바로 세우고 계속 바닷물을 부은 뒤 안전하게 들어 옮겼고, 먼저 4마리, 뒤이어 전문 구조팀과 남은 8마리를 바다로 돌려보냈습니다.\n\n전문팀이 오기 전 시민들의 행동 중 생사를 가른 핵심은 무엇이었다고 보시나요? 👇",
+      "uploadFilename": "시민들이 돌고래 12마리를 살린 방법_STORY-392_1080x1920.mp4",
+      "ready": true,
+      "video": "https://shorts-media.bgmfree.com/videos/STORY-392/324bff441db37694493f.mp4",
+      "poster": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/STORY-392.jpg?v=324bff441db37694493f",
+      "sources": [],
+      "claims": [
+        {
+          "text": "공개 구조 보도와 현장 자료를 바탕으로 영상 장면을 재구성했다.",
+          "certainty": "verified-adapted"
+        }
+      ],
+      "photo": null,
+      "deployment_id": "324bff441db37694493f",
+      "video_bytes": 147245417,
+      "video_sha256": "6b0608afa5d95636bffd5ddefd7614faa6357b83465b3d1a820741cf716e35c0"
     }
   ]
 }
