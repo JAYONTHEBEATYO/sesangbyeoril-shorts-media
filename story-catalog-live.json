@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T01:33:00+0900",
+  "updated_at": "2026-09-08T07:06:20+0900",
   "stories": [
     {
       "id": "STORY-227",
@@ -1349,6 +1349,36 @@
       "deployment_id": "ddb09a7bee735895d8ab",
       "video_bytes": 64647401,
       "video_sha256": "6717e92913e34a4817d7398360dc1e1066e6f642eb86f17851473e01bf6ec6fb"
+    },
+    {
+      "id": "STORY-407",
+      "number": 54,
+      "batch": "new",
+      "title": "농약 드론이 사람을 구한 날",
+      "titleTop": "헬기 대신",
+      "titleBottom": "농약 드론이 떴다",
+      "type": "verified-adapted",
+      "classification": "공개 구조 보도를 바탕으로 재구성한 검증 실화.",
+      "synopsis": "중국 광시성 홍수 현장에서 농업·화물용 대형 드론이 물자 운송과 정찰을 넘어 고립된 사람을 직접 구조한 과정을 다룹니다.",
+      "commentPrompt": "홍수 구조에서 대형 드론이 헬기를 보완할 수 있다고 보시나요?",
+      "youtubeTitle": "농약 드론이 사람을 구한 날",
+      "youtubeDescription": "헬기가 들어가기 어려운 홍수 현장에 농약과 화물을 나르던 드론이 투입됐습니다.\n\n#세상별일 #드론구조 #홍수 #실화 #쇼츠\n\nBGM: Thump by Audionautix (Jason Shaw)\nAudionautix의 Thump에는 크리에이티브 커먼즈 저작자 표시 4.0 라이선스가 적용됩니다. https://creativecommons.org/licenses/by/4.0/\n아티스트: http://audionautix.com/\n원곡 출처: https://audionautix.com/Music/Thump.mp3\n사용 버전: 주인장 편집본 사용(인트로 편집), 영상에 맞춘 길이·음량 조정.",
+      "youtubePinnedComment": "2026년 7월 중국 광시성 헝저우 홍수 현장에는 400명 이상의 민간 조종사와 300대가 넘는 농업·화물용 드론이 모였습니다. 대부분은 물과 식량 운반, 침수지역 정찰에 투입됐지만 일부 구조에서는 산업용 FC100·FC200 드론이 사람까지 직접 옮겼습니다.\n\n사람을 매달면 줄 끝의 몸이 진자처럼 흔들리고, 자세를 보정하는 모터가 배터리를 빠르게 소모합니다. 그래서 구조대원을 먼저 보내 결속을 확인하고, 완충 배터리와 예비 드론까지 띄웠습니다. 약 1킬로미터 구조를 마친 뒤 남은 배터리는 23퍼센트였습니다.\n\n이런 대형 드론 구조에서 가장 먼저 표준화해야 할 안전장치는 무엇이라고 보시나요? 👇",
+      "uploadFilename": "농약 드론이 사람을 구한 날_STORY-407_1080x1920.mp4",
+      "ready": true,
+      "video": "https://shorts-media.bgmfree.com/videos/STORY-407/88d5a9a9a9f09cf70b42.mp4",
+      "poster": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/STORY-407.jpg?v=88d5a9a9a9f09cf70b42",
+      "sources": [],
+      "claims": [
+        {
+          "text": "공개 구조 보도를 바탕으로 영상 장면을 재구성했다.",
+          "certainty": "verified-adapted"
+        }
+      ],
+      "photo": null,
+      "deployment_id": "88d5a9a9a9f09cf70b42",
+      "video_bytes": 239896954,
+      "video_sha256": "46dd94ba18305a27029ff881549ca1237cec84afcc9c02bdb7efe0a4bab711a6"
     }
   ]
 }
