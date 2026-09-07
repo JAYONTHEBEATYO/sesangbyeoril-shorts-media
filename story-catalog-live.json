@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T07:06:20+0900",
+  "updated_at": "2026-09-08T07:14:01+0900",
   "stories": [
     {
       "id": "STORY-227",
@@ -1379,6 +1379,36 @@
       "deployment_id": "88d5a9a9a9f09cf70b42",
       "video_bytes": 239896954,
       "video_sha256": "46dd94ba18305a27029ff881549ca1237cec84afcc9c02bdb7efe0a4bab711a6"
+    },
+    {
+      "id": "STORY-283",
+      "number": 56,
+      "batch": "new",
+      "title": "치과 예약이 세 사람을 살렸다",
+      "titleTop": "치과 예약이",
+      "titleBottom": "3명을 살렸죠",
+      "type": "verified-adapted",
+      "classification": "공개 구조 보도를 바탕으로 재구성한 검증 실화.",
+      "synopsis": "미시간 머스키건강에서 튜브 사고 뒤 숲에 고립된 두 여성과 아이를, 놓친 치과 예약을 수상하게 여긴 가족의 신고와 수색대가 찾아낸 이야기입니다.",
+      "commentPrompt": "평범한 치과 예약이 사라진 세 사람을 찾게 될 단서가 될 거라고 상상하셨나요?",
+      "youtubeTitle": "치과 예약이 세 사람을 살렸다",
+      "youtubeDescription": "강에서 튜브가 터진 뒤 숲으로 들어간 세 사람. 이들을 살린 첫 단서는 뜻밖에도 놓친 치과 예약이었습니다.\n\n#세상별일 #조난 #생존 #구조 #실화 #쇼츠",
+      "youtubePinnedComment": "2026년 8월 4일 미국 미시간주 머스키건강에서 두 여성과 아홉 살 아이가 탄 튜브가 통나무에 부딪혀 터졌습니다. 휴대전화까지 망가진 세 사람은 도로를 찾으려 숲으로 들어갔다가 오히려 더 깊이 고립됐고, 물병 몇 모금이 떨어진 뒤 강물과 나무껍질, 꽃으로 사흘을 버텼습니다.\n\n이상함을 처음 알아챈 건 함께 치과 예약을 잡았던 가족들이었습니다. 신고를 받은 구조대는 강에서 발견한 튜브만 보고 물길을 수색하다가, 셋째 날 가장 멀리 떠밀렸을 지점부터 역추적했습니다. 출발지에서 11킬로미터 넘게 떨어진 숲에서 발자국과 눕혀진 풀을 찾았고 오후 4시 36분 아이의 응답을 들었습니다.\n\n여러분이라면 휴대전화가 망가진 조난 상황에서 강가에 남았을까요, 도로를 찾아 숲으로 들어갔을까요? 👇",
+      "uploadFilename": "치과 예약이 세 사람을 살렸다_STORY-283_1080x1920.mp4",
+      "ready": true,
+      "video": "https://shorts-media.bgmfree.com/videos/STORY-283/79740721e63e7548d2f3.mp4",
+      "poster": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/STORY-283.jpg?v=79740721e63e7548d2f3",
+      "sources": [],
+      "claims": [
+        {
+          "text": "공개 구조 보도를 바탕으로 영상 장면을 재구성했다.",
+          "certainty": "verified-adapted"
+        }
+      ],
+      "photo": null,
+      "deployment_id": "79740721e63e7548d2f3",
+      "video_bytes": 273207533,
+      "video_sha256": "1b18e5384cb157a57b67c558f4a01e379e1778dea63a0fdc780e0336f6c42cc6"
     }
   ]
 }
