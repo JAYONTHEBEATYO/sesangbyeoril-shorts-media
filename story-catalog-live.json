@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T19:35:31+0900",
+  "updated_at": "2026-09-08T19:57:31+0900",
   "stories": [
     {
       "id": "STORY-227",
@@ -1486,8 +1486,8 @@
       "youtubePinnedComment": "이번 경기는 미국 오클라호마주 폴스밸리의 지역 행사에 포함된 5km 반려견 달리기였습니다. 올림픽이나 일반 마라톤 우승 기록을 말하는 것은 아닙니다.\n\n엘리엇에게는 달리는 모습과 성격을 보호소 밖에서 보여줄 기회가 됐죠. 입양은 우승만으로 자동 결정된 것이 아니라, 가족이 직원과 상담하고 녀석을 알아본 뒤 선택한 결과였습니다.\n\n본문은 보호소 책임자 인터뷰가 담긴 공식 기록을 참고했고, 화면의 인물·장소·행동은 AI로 재연했습니다. 여러분이라면 보호소 개와 어떤 하루를 함께 보내보고 싶나요?",
       "uploadFilename": "입양 대신 우승해버림 ㄷㄷ_STORY-750_1080x1920.mp4",
       "ready": true,
-      "video": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/STORY-750.mp4?v=154d4a3fa2ce59ce42c9",
-      "poster": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/STORY-750.jpg?v=154d4a3fa2ce59ce42c9",
+      "video": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/STORY-750.mp4?v=e0217d5c200a90fff013",
+      "poster": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/STORY-750.jpg?v=e0217d5c200a90fff013",
       "sources": [
         {
           "name": "Best Friends Animal Society — Elliott / PAWS",
@@ -1502,9 +1502,9 @@
         }
       ],
       "photo": null,
-      "deployment_id": "154d4a3fa2ce59ce42c9",
-      "video_bytes": 49170533,
-      "video_sha256": "4048a48dd3a90ca2dc677b9ca55bc78f729c5cc9867b433c3e480f2ab94fdef9"
+      "deployment_id": "e0217d5c200a90fff013",
+      "video_bytes": 49000871,
+      "video_sha256": "f7c9411600cc53c6dfc3b835c3d919b54b8887a8497f23804690503090d393f1"
     }
   ]
 }
