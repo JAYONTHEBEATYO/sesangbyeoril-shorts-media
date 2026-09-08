@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-02T14:52:56.119144Z",
+  "updatedAt": "2026-09-08T09:12:29.130703Z",
   "items": [
+    {
+      "storyCode": "STORY-750",
+      "version": "delegated-v1",
+      "title": "엘리엇 · 위임 음성 자동검수",
+      "youtubeTitle": "",
+      "durationSeconds": 40.532,
+      "audioUrl": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/tts-tests/STORY-750_narration_approval_delegated-v1.mp3?v=87178d96d4",
+      "downloadUrl": "https://raw.githubusercontent.com/JAYONTHEBEATYO/sesangbyeoril-shorts-media/gh-pages/tts-tests/STORY-750_narration_approval_delegated-v1.mp3?v=87178d96d4",
+      "playerUrl": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/tts-tests/STORY-750_audio_review_delegated-v1.html?v=87178d96d4",
+      "status": "이번 편 위임 자동검수 완료 · 사용자 직접 청취 없음",
+      "updatedAt": "2026-09-08T09:12:29.130703Z",
+      "note": "파트·전체 ASR 및 실제 꼬리 여백 자동검사. 사용자 청취·전역 승인 정책 변경 없음.",
+      "reviewMode": "delegated_for_this_episode_only",
+      "humanListeningPerformed": false,
+      "scriptSha256": "7d23a4c6f69d0866cb43d0affe04cefef0c4730d1de294187c0fa77863d880d6",
+      "audioSha256": "87178d96d4d6d7e4cc1c9121f0fe67fb6dc3320ac7f3ca0b389bc55129c55092"
+    },
     {
       "storyCode": "STORY-610",
       "version": "v1",
