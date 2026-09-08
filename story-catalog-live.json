@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T08:34:00+0900",
+  "updated_at": "2026-09-08T10:27:15+0900",
   "stories": [
     {
       "id": "STORY-227",
@@ -1439,6 +1439,36 @@
       "deployment_id": "324bff441db37694493f",
       "video_bytes": 147245417,
       "video_sha256": "6b0608afa5d95636bffd5ddefd7614faa6357b83465b3d1a820741cf716e35c0"
+    },
+    {
+      "id": "STORY-585",
+      "number": 53,
+      "batch": "new",
+      "title": "다리 대신 바퀴로 인생을 되찾은 남자",
+      "titleTop": "하체불구 판정",
+      "titleBottom": "끝이 아닌 이유",
+      "type": "verified-adapted",
+      "classification": "공개 보도와 당사자 기록을 바탕으로 재구성한 검증 실화.",
+      "synopsis": "완전 척수손상 판정을 받은 페드루가 장기간 재활과 적응 훈련을 거쳐 오프로드 휠체어로 3.9킬로미터 트레킹에 도전한 이야기입니다.",
+      "commentPrompt": "걷지 못한다는 판정 뒤에도 삶을 다시 움직이게 한 결정적 힘은 무엇이었을까요?",
+      "youtubeTitle": "다리 대신 바퀴로 인생을 되찾은 남자",
+      "youtubeDescription": "완전 척수손상 판정 뒤, 페드루는 다리 대신 바퀴로 다시 삶을 움직이기 시작했습니다.\n\n#세상별일 #재활 #척수손상 #실화 #쇼츠",
+      "youtubePinnedComment": "2022년 8월 오토바이 사고를 당한 페드루는 T-10 높이의 완전 척수손상 진단을 받았습니다. 손상 아래쪽의 감각과 운동 기능이 남지 않은 가장 심한 분류였고, 사고 전의 다리로 다시 걷는 것을 목표로 삼기 어려운 상태였죠.\n\n거의 1년간 병원과 재활시설을 오가던 그는 먼저 휠체어 생활을 시작한 사람을 만난 뒤 목표를 바꿨습니다. 집라인·양궁·카약·여행을 익히고, 자신을 살린 응급헬기팀의 자원봉사와 휠체어 접근성 개선 활동에도 나섰습니다. 이 이야기는 '다시 걸은 기적'이 아니라 남은 몸으로 삶의 운전석을 되찾은 과정입니다.\n\n여러분이 보기에 페드루를 다시 움직이게 한 가장 결정적인 순간은 무엇이었나요? 👇",
+      "uploadFilename": "다리 대신 바퀴로 인생을 되찾은 남자_STORY-585_1080x1920.mp4",
+      "ready": true,
+      "video": "https://shorts-media.bgmfree.com/videos/STORY-585/ca6eb56c64174e0d2c68.mp4",
+      "poster": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/STORY-585.jpg?v=ca6eb56c64174e0d2c68",
+      "sources": [],
+      "claims": [
+        {
+          "text": "공개 보도와 당사자 기록을 바탕으로 영상 장면을 재구성했다.",
+          "certainty": "verified-adapted"
+        }
+      ],
+      "photo": null,
+      "deployment_id": "ca6eb56c64174e0d2c68",
+      "video_bytes": 211588739,
+      "video_sha256": "dbb8cbf9ac8a07db90c1bce5f6fc0f63ce600599410491ff248e0a1e13c98c44"
     }
   ]
 }
