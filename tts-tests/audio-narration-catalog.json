@@ -1,6 +1,19 @@
 {
-  "updatedAt": "2026-09-09T08:25:45.668796Z",
+  "updatedAt": "2026-09-09T08:30:30.527698Z",
   "items": [
+    {
+      "storyCode": "STORY-775",
+      "version": "experiment10-group-pause-v2",
+      "title": "벨로키랍토르가 서울에 온다면?｜카페 말고 끼니 찾는 중",
+      "youtubeTitle": "벨로키랍토르가 서울에 온다면?｜카페 말고 끼니 찾는 중",
+      "durationSeconds": 31.61,
+      "audioUrl": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/tts-tests/STORY-775_narration_approval_experiment10-group-pause-v2.mp3?v=eec70322d7",
+      "downloadUrl": "https://raw.githubusercontent.com/JAYONTHEBEATYO/sesangbyeoril-shorts-media/gh-pages/tts-tests/STORY-775_narration_approval_experiment10-group-pause-v2.mp3?v=eec70322d7",
+      "playerUrl": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/tts-tests/STORY-775_audio_review_experiment10-group-pause-v2.html?v=eec70322d7",
+      "status": "승인 대기",
+      "updatedAt": "2026-09-09T08:30:30.527698Z",
+      "note": "이번 10편 실험의 위임 자동 ASR·자연 무음 경계 검수"
+    },
     {
       "storyCode": "STORY-768",
       "version": "experiment10-group-pause-v2",
