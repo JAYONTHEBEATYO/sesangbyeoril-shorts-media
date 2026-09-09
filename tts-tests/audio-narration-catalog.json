@@ -1,6 +1,19 @@
 {
-  "updatedAt": "2026-09-09T09:16:37.554432Z",
+  "updatedAt": "2026-09-09T10:24:04.286615Z",
   "items": [
+    {
+      "storyCode": "STORY-772",
+      "version": "experiment10-group-pause-v3-comma",
+      "title": "NASA가 소행성을 진짜 밀어버림 ㄷㄷ",
+      "youtubeTitle": "NASA가 소행성을 진짜 밀어버림 ㄷㄷ",
+      "durationSeconds": 43.058,
+      "audioUrl": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/tts-tests/STORY-772_narration_approval_experiment10-group-pause-v3-comma.mp3?v=d0e4ec7f37",
+      "downloadUrl": "https://raw.githubusercontent.com/JAYONTHEBEATYO/sesangbyeoril-shorts-media/gh-pages/tts-tests/STORY-772_narration_approval_experiment10-group-pause-v3-comma.mp3?v=d0e4ec7f37",
+      "playerUrl": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/tts-tests/STORY-772_audio_review_experiment10-group-pause-v3-comma.html?v=d0e4ec7f37",
+      "status": "승인 대기",
+      "updatedAt": "2026-09-09T10:24:04.286615Z",
+      "note": "이번 10편 실험의 위임 자동 ASR·자연 무음 경계 검수"
+    },
     {
       "storyCode": "STORY-769",
       "version": "experiment10-group-pause-v2",
