@@ -1,6 +1,19 @@
 {
-  "updatedAt": "2026-09-09T13:40:27.871884Z",
+  "updatedAt": "2026-09-09T13:49:49.420104Z",
   "items": [
+    {
+      "storyCode": "STORY-776",
+      "version": "experiment10-group-pause-v4-terminal-pause",
+      "title": "길고양이가 전부 사자라면?｜출근 급한 쪽이 돌아감",
+      "youtubeTitle": "길고양이가 전부 사자라면?｜출근 급한 쪽이 돌아감",
+      "durationSeconds": 33.111,
+      "audioUrl": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/tts-tests/STORY-776_narration_approval_experiment10-group-pause-v4-terminal-pause.mp3?v=fdb0c9f1cd",
+      "downloadUrl": "https://raw.githubusercontent.com/JAYONTHEBEATYO/sesangbyeoril-shorts-media/gh-pages/tts-tests/STORY-776_narration_approval_experiment10-group-pause-v4-terminal-pause.mp3?v=fdb0c9f1cd",
+      "playerUrl": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/tts-tests/STORY-776_audio_review_experiment10-group-pause-v4-terminal-pause.html?v=fdb0c9f1cd",
+      "status": "승인 대기",
+      "updatedAt": "2026-09-09T13:49:49.420104Z",
+      "note": "이번 10편 실험의 위임 자동 ASR·자연 무음 경계 검수"
+    },
     {
       "storyCode": "STORY-770",
       "version": "experiment10-group-pause-v5-terminal-pause",
