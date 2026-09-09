@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T19:57:31+0900",
+  "updated_at": "2026-09-09T19:01:38+0900",
   "stories": [
     {
       "id": "STORY-227",
@@ -1505,6 +1505,52 @@
       "deployment_id": "e0217d5c200a90fff013",
       "video_bytes": 49000871,
       "video_sha256": "f7c9411600cc53c6dfc3b835c3d919b54b8887a8497f23804690503090d393f1"
+    },
+    {
+      "batch": "new",
+      "classification": "과학 참고 기반 가상 시나리오 / AI 생성 영상",
+      "id": "STORY-775",
+      "number": 775,
+      "photo": null,
+      "poster": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/STORY-775.jpg?v=74bbc4dab965cae9c23b",
+      "production_batch": "fullauto_experiment10_20260909",
+      "production_slot": 9,
+      "ready": true,
+      "sources": [
+        {
+          "name": "NHM Dinosaur Directory: Velociraptor",
+          "primary": true,
+          "url": "https://www.nhm.ac.uk/discover/dino-directory/velociraptor.html"
+        },
+        {
+          "name": "NHM: Vicious Velociraptor, tales of a turkey-sized dinosaur",
+          "primary": true,
+          "url": "https://www.nhm.ac.uk/discover/velociraptor-facts.html"
+        },
+        {
+          "name": "Turner, Makovicky & Norell 2007, Feather Quill Knobs in the Dinosaur Velociraptor",
+          "primary": true,
+          "url": "https://doi.org/10.1126/science.1145076"
+        },
+        {
+          "name": "Apple Support: iPhone 15 Tech Specs",
+          "primary": true,
+          "url": "https://support.apple.com/en-sg/111831"
+        }
+      ],
+      "synopsis": "영화보다 훨씬 작은 깃털 달린 벨로키랍토르가 성수동과 논두렁을 다니는 가상 일상.",
+      "title": "벨로키랍토르가 서울에 온다면?｜카페 말고 끼니 찾는 중",
+      "titleBottom": "영화 크기 아닙니다",
+      "titleTop": "서울에 온 벨로키랍토르",
+      "type": "fiction",
+      "uploadFilename": "벨로키랍토르가 서울에 온다면｜카페 말고 끼니 찾는 중_STORY-775_1080x1920.mp4",
+      "video": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/STORY-775.mp4?v=74bbc4dab965cae9c23b",
+      "youtubeDescription": "성수동까지 온 벨로키랍토르, 생각보다 작습니다. 긴 꼬리까지 합친 실제 추정 크기를 참고한 AI 가상 시뮬레이션입니다.\n\nBGM: You Know Me — Jeremy Black / YouTube Audio Library",
+      "youtubePinnedComment": "실제 벨로키랍토르는 영화 속의 사람만 한 랩터와 다릅니다. 박물관 자료는 전체 길이를 약 1.8미터로 소개하며, 대본의 약 2미터도 긴 꼬리까지 모두 포함한 길이입니다. 팔뼈에는 깃털 부착을 뒷받침하는 흔적이 알려져 있고, 두 번째 발가락의 굽은 발톱은 평소 땅에 끌지 않았던 것으로 해석됩니다.\n\n성수동에서 안성 논두렁으로 이동하는 과정은 가상 설정입니다. 작은 포식자가 현대 환경에서 먹이를 탐색한다는 상상이지 실제 이동 경로나 관찰 기록이 아닙니다. 몸집이 작다는 설정을 '안전하게 쓰다듬어도 된다'는 의미로 쓰지는 않았습니다.",
+      "youtubeTitle": "벨로키랍토르가 서울에 온다면?｜카페 말고 끼니 찾는 중",
+      "deployment_id": "74bbc4dab965cae9c23b",
+      "video_bytes": 56503147,
+      "video_sha256": "de545ed5aeda1ceb24277ffe2c2fcdeae2857e44221f9700ce1eb184ccb07b59"
     }
   ]
 }
