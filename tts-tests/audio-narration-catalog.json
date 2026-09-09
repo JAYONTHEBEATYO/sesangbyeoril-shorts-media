@@ -1,6 +1,19 @@
 {
-  "updatedAt": "2026-09-09T10:24:04.286615Z",
+  "updatedAt": "2026-09-09T11:49:28.541488Z",
   "items": [
+    {
+      "storyCode": "STORY-773",
+      "version": "experiment10-group-pause-v3-comma",
+      "title": "티라노가 서울에 온다면?｜뚝섬 혼밥 난이도",
+      "youtubeTitle": "티라노가 서울에 온다면?｜뚝섬 혼밥 난이도",
+      "durationSeconds": 28.621,
+      "audioUrl": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/tts-tests/STORY-773_narration_approval_experiment10-group-pause-v3-comma.mp3?v=90f35e58f8",
+      "downloadUrl": "https://raw.githubusercontent.com/JAYONTHEBEATYO/sesangbyeoril-shorts-media/gh-pages/tts-tests/STORY-773_narration_approval_experiment10-group-pause-v3-comma.mp3?v=90f35e58f8",
+      "playerUrl": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/tts-tests/STORY-773_audio_review_experiment10-group-pause-v3-comma.html?v=90f35e58f8",
+      "status": "승인 대기",
+      "updatedAt": "2026-09-09T11:49:28.541488Z",
+      "note": "이번 10편 실험의 위임 자동 ASR·자연 무음 경계 검수"
+    },
     {
       "storyCode": "STORY-772",
       "version": "experiment10-group-pause-v3-comma",
