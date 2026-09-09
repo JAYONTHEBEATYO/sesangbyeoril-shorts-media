@@ -1,6 +1,19 @@
 {
-  "updatedAt": "2026-09-09T09:06:57.046528Z",
+  "updatedAt": "2026-09-09T09:16:37.554432Z",
   "items": [
+    {
+      "storyCode": "STORY-769",
+      "version": "experiment10-group-pause-v2",
+      "title": "짝 대신 취업을 해버림 ㄷㄷ",
+      "youtubeTitle": "짝 대신 취업을 해버림 ㄷㄷ",
+      "durationSeconds": 41.967,
+      "audioUrl": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/tts-tests/STORY-769_narration_approval_experiment10-group-pause-v2.mp3?v=a82af27f92",
+      "downloadUrl": "https://raw.githubusercontent.com/JAYONTHEBEATYO/sesangbyeoril-shorts-media/gh-pages/tts-tests/STORY-769_narration_approval_experiment10-group-pause-v2.mp3?v=a82af27f92",
+      "playerUrl": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/tts-tests/STORY-769_audio_review_experiment10-group-pause-v2.html?v=a82af27f92",
+      "status": "승인 대기",
+      "updatedAt": "2026-09-09T09:16:37.554432Z",
+      "note": "이번 10편 실험의 위임 자동 ASR·자연 무음 경계 검수"
+    },
     {
       "storyCode": "STORY-771",
       "version": "experiment10-group-pause-v2",
