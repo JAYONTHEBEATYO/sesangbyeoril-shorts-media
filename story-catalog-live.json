@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T05:54:00+0900",
+  "updated_at": "2026-09-10T07:39:03+0900",
   "stories": [
     {
       "id": "STORY-227",
@@ -1629,6 +1629,39 @@
       "deployment_id": "774fe50934591fa6169c",
       "video_bytes": 27555312,
       "video_sha256": "f24d25e45e9d7fa2a3b4fa9d6cb34e1e13229d0b3fc0091306f4c2f10a3661d5"
+    },
+    {
+      "batch": "new",
+      "classification": "검증 실화",
+      "id": "STORY-768",
+      "number": 768,
+      "photo": null,
+      "poster": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/STORY-768.jpg?v=55e53ca145ea7244224b",
+      "production_batch": "fullauto_experiment10_20260909",
+      "production_slot": 1,
+      "ready": true,
+      "sources": [
+        {
+          "name": "Elmo W. Heter (1950) — Transplanting Beavers by Airplane and Parachute",
+          "primary": true,
+          "url": "https://www.jstor.org/stable/3796322"
+        }
+      ],
+      "synopsis": "낙하산으로 산속에 이사 간 비버들이 댐과 집을 지으며 정착한 이야기.",
+      "title": "비버를 하늘에서 배송해버림 ㄷㄷ",
+      "titleBottom": "낙하산으로 배송 ㄷㄷ",
+      "titleTop": "비버 이사시키는 법",
+      "type": "verified-adapted",
+      "uploadFilename": "비버를 하늘에서 배송해버림 ㄷㄷ_STORY-768_1080x1920.mp4",
+      "video": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/STORY-768.mp4?v=55e53ca145ea7244224b",
+      "youtubeDescription": "비버를 산속으로 옮기려다 낙하산까지 동원했습니다. 1948년 아이다호의 실제 이주 작업을 바탕으로 한 AI 재연입니다. 76마리 모두가 살아남은 것은 아니며, 기록상 75마리가 무사히 도착했습니다.\n\nAudionautix의 Thump에는 크리에이티브 커먼즈 저작자 표시 4.0 라이선스가 적용됩니다. https://creativecommons.org/licenses/by/4.0/\n아티스트: http://audionautix.com/\n원곡을 주인장이 편집했고, 영상 길이에 맞춘 절단·음량조절·끝 페이드아웃을 적용했습니다.",
+      "youtubePinnedComment": "도로 없는 지역까지 비버를 옮기는 일이 문제였습니다. 당시 보고서는 육로 운반 중 더위와 긴 이동이 동물에게 부담이 됐다고 설명합니다. 그래서 공중에서는 줄의 장력으로 닫히고, 땅에 닿아 장력이 풀리면 고무띠가 열어주는 상자를 시험했죠.\n\n시험에 쓰인 비버 제로니모는 이후 실제 방사에도 참여했습니다. 이듬해 조사에서는 옮겨진 비버들이 댐과 집을 만들고 겨울 먹이도 저장한 모습이 확인됐습니다. 다만 76마리 중 한 마리는 살아남지 못했으며, 영상은 당시 장면을 촬영한 자료가 아닌 재연입니다.",
+      "youtubeTitle": "비버를 하늘에서 배송해버림 ㄷㄷ",
+      "claims": [],
+      "commentPrompt": "",
+      "deployment_id": "55e53ca145ea7244224b",
+      "video_bytes": 63131444,
+      "video_sha256": "3ffe8a8b75a1f50a219cd25b6e9d2c0943ac8143d4f4f13f1587445fc74bf0bf"
     }
   ]
 }
