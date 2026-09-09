@@ -1,6 +1,19 @@
 {
-  "updatedAt": "2026-09-08T09:12:29.130703Z",
+  "updatedAt": "2026-09-09T08:25:45.668796Z",
   "items": [
+    {
+      "storyCode": "STORY-768",
+      "version": "experiment10-group-pause-v2",
+      "title": "비버를 하늘에서 배송해버림 ㄷㄷ",
+      "youtubeTitle": "비버를 하늘에서 배송해버림 ㄷㄷ",
+      "durationSeconds": 39.817,
+      "audioUrl": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/tts-tests/STORY-768_narration_approval_experiment10-group-pause-v2.mp3?v=9817df4775",
+      "downloadUrl": "https://raw.githubusercontent.com/JAYONTHEBEATYO/sesangbyeoril-shorts-media/gh-pages/tts-tests/STORY-768_narration_approval_experiment10-group-pause-v2.mp3?v=9817df4775",
+      "playerUrl": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/tts-tests/STORY-768_audio_review_experiment10-group-pause-v2.html?v=9817df4775",
+      "status": "승인 대기",
+      "updatedAt": "2026-09-09T08:25:45.668796Z",
+      "note": "이번 10편 실험의 위임 자동 ASR·자연 무음 경계 검수"
+    },
     {
       "storyCode": "STORY-750",
       "version": "delegated-v1",
