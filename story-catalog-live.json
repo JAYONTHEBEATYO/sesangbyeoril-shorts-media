@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T19:01:38+0900",
+  "updated_at": "2026-09-10T04:41:57+0900",
   "stories": [
     {
       "id": "STORY-227",
@@ -947,7 +947,7 @@
       "title": "이걸막네 ㄷㄷ",
       "titleTop": "앗 미안ㅋ",
       "titleBottom": "입구인줄ㅎ",
-      "type": "community-unverified",
+      "type": "community",
       "classification": "익명 커뮤니티 사연·독립 검증 안 됨.",
       "synopsis": "집 외벽의 말벌 출입구를 막은 익명 글쓴이가 다음 날 벽 속 둥지에서 실내 틈으로 빠져나온 말벌 수백 마리와 맞닥뜨린 커뮤니티 사연입니다.",
       "commentPrompt": "벽 속 벌집의 바깥 출구를 막았다면 바로 다시 열어야 할까요, 전문가를 기다려야 할까요?",
@@ -1024,7 +1024,7 @@
       "title": "242명중 단 한명만 살았죠 ㄷㄷ",
       "titleTop": "242명 중 단 한 명만",
       "titleBottom": "생존해버림",
-      "type": "verified-preliminary-adapted",
+      "type": "verified-adapted",
       "classification": "검증 실화 (원인 조사 중)",
       "synopsis": "2025년 아메다바드에서 이륙 직후 추락한 에어인디아 171편에서 11A 좌석의 라메시가 안전벨트를 풀고 충돌로 생긴 작은 틈을 밀어 빠져나온 유일 생존 사례를 비그래픽 3D 재구성으로 각색했습니다.",
       "commentPrompt": "라메시의 생존에서 가장 결정적이었던 것은 11A 좌석, 남은 탈출 틈, 의식과 행동력 중 무엇이었을까요?",
@@ -1104,7 +1104,7 @@
       "title": "이걸뿌리네 ㄷㄷ",
       "titleTop": "왁싱 후 데오드란트",
       "titleBottom": "조심해야하는 이유",
-      "type": "community-unverified-science-supported",
+      "type": "community",
       "classification": "익명 커뮤니티 사연·독립 검증 안 됨. 과학 설명은 별도 의학 증례로 보강.",
       "synopsis": "민감한 부위에 에어로졸 데오드란트를 뿌린 뒤 극심한 통증을 겪었다는 익명 사연을, 알코올·향료 자극과 추진제 기화에 따른 급격한 피부 냉각 가능성으로 설명합니다.",
       "commentPrompt": "데오드란트 에어로졸의 가장 의외인 위험은 화학 자극일까요, 급격한 냉각일까요?",
@@ -1198,7 +1198,7 @@
       "title": "응 보냈죠? ㄷㄷ",
       "titleTop": "10년 바람핀 남친",
       "titleBottom": "6달러로 보내는법",
-      "type": "community-unverified",
+      "type": "community",
       "classification": "익명 커뮤니티 주장·독립 검증 안 됨.",
       "synopsis": "10년 넘게 만난 남자친구의 외도 사실을 알게 된 익명 글쓴이가 페이스북 폭로문의 조회수가 나오지 않자 6달러를 결제해 남자친구의 활동 지역에 스폰서 광고로 노출했다는 커뮤니티 사연입니다.",
       "commentPrompt": "폭로 글이 묻히자 광고비까지 결제한 선택, 통쾌한가요 아니면 과한가요?",
@@ -1553,6 +1553,49 @@
       "deployment_id": "74bbc4dab965cae9c23b",
       "video_bytes": 56503147,
       "video_sha256": "de545ed5aeda1ceb24277ffe2c2fcdeae2857e44221f9700ce1eb184ccb07b59"
+    },
+    {
+      "batch": "new",
+      "classification": "검증 실화",
+      "id": "STORY-769",
+      "number": 769,
+      "photo": null,
+      "poster": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/STORY-769.jpg?v=34f5227bfe5941b331d5",
+      "production_batch": "fullauto_experiment10_20260909",
+      "production_slot": 2,
+      "ready": true,
+      "sources": [
+        {
+          "name": "DOC_SIROCCO",
+          "primary": true,
+          "url": "https://www.doc.govt.nz/nature/native-animals/birds/birds-a-z/kakapo/sirocco/"
+        },
+        {
+          "name": "DOC_BABY",
+          "primary": true,
+          "url": "https://blog.doc.govt.nz/2009/10/16/sirocco-the-kakapos-baby-snaps/"
+        },
+        {
+          "name": "DOC_APPOINTMENT",
+          "primary": true,
+          "url": "https://blog.doc.govt.nz/2010/01/29/pm-names-sirocco-the-kakapo-a-conservation-ambassador/"
+        }
+      ],
+      "synopsis": "사람 손에 구조·양육된 카카포 시로코가 보전 홍보대사가 된 이야기.",
+      "title": "짝 대신 취업을 해버림 ㄷㄷ",
+      "titleBottom": "결국 국가 홍보대사 됨",
+      "titleTop": "새보다 사람이 좋은 새",
+      "type": "verified-adapted",
+      "uploadFilename": "짝 대신 취업을 해버림 ㄷㄷ_STORY-769_1080x1920.mp4",
+      "video": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/STORY-769.mp4?v=34f5227bfe5941b331d5",
+      "youtubeDescription": "새보다 사람에게 관심이 많았던 시로코. 구조와 각인이 뜻밖의 홍보 활동으로 이어진 뉴질랜드 카카포의 실화입니다. 화면은 AI 재연입니다.\n\nBGM: I Need You — Dyalla / YouTube Audio Library\n\n시로코 실제 사진: Mike Bodie. Source: Department of Conservation (NZ). CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). 공식 출처: https://www.doc.govt.nz/nature/native-animals/birds/birds-a-z/kakapo/sirocco/ 촬영일은 공개되지 않았습니다. 다운로드한 공식 게시본은 변경하지 않았으며, 영상에는 전체 사진의 비율을 유지한 축소본을, 흐린 확대 배경 위에 배치했습니다.",
+      "youtubePinnedComment": "시로코는 1997년 태어난 지 약 3주 만에 호흡기 질환을 앓았습니다. 보호팀은 약을 미세한 안개처럼 전달하는 치료와 손수 먹이는 돌봄으로 살려냈죠. 하지만 어린 시절 사람에게 강하게 각인되면서 다른 카카포보다 사람을 따르는 성향이 생겼습니다.\n\n보호팀은 이 성격을 카카포 보전을 알리는 데 활용했습니다. 2010년에는 총리가 공식 보전 홍보대사로 임명했고, 여러 해의 투어에서 수천 명을 만났습니다. '사람을 좋아해서 번식이 불가능하다'고 단정하는 이야기는 아니며, 현재는 보호섬에서 지내는 새입니다.",
+      "youtubeTitle": "짝 대신 취업을 해버림 ㄷㄷ",
+      "claims": [],
+      "commentPrompt": "",
+      "deployment_id": "34f5227bfe5941b331d5",
+      "video_bytes": 36053681,
+      "video_sha256": "2a5837d4ca7de2118a03753cb3ad1a38c5c2f551010129660a2136bbff44b2d1"
     }
   ]
 }
