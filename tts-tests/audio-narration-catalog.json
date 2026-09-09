@@ -1,6 +1,19 @@
 {
-  "updatedAt": "2026-09-09T11:49:28.541488Z",
+  "updatedAt": "2026-09-09T13:40:27.871884Z",
   "items": [
+    {
+      "storyCode": "STORY-770",
+      "version": "experiment10-group-pause-v5-terminal-pause",
+      "title": "책상은 내가 샀는데 출근은 고양이가 함ㅋㅋ",
+      "youtubeTitle": "책상은 내가 샀는데 출근은 고양이가 함ㅋㅋ",
+      "durationSeconds": 38.721,
+      "audioUrl": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/tts-tests/STORY-770_narration_approval_experiment10-group-pause-v5-terminal-pause.mp3?v=d7a9b7b093",
+      "downloadUrl": "https://raw.githubusercontent.com/JAYONTHEBEATYO/sesangbyeoril-shorts-media/gh-pages/tts-tests/STORY-770_narration_approval_experiment10-group-pause-v5-terminal-pause.mp3?v=d7a9b7b093",
+      "playerUrl": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/tts-tests/STORY-770_audio_review_experiment10-group-pause-v5-terminal-pause.html?v=d7a9b7b093",
+      "status": "승인 대기",
+      "updatedAt": "2026-09-09T13:40:27.871884Z",
+      "note": "이번 10편 실험의 위임 자동 ASR·자연 무음 경계 검수"
+    },
     {
       "storyCode": "STORY-773",
       "version": "experiment10-group-pause-v3-comma",
