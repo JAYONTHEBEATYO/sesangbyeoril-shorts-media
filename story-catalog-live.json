@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T04:41:57+0900",
+  "updated_at": "2026-09-10T05:54:00+0900",
   "stories": [
     {
       "id": "STORY-227",
@@ -1596,6 +1596,39 @@
       "deployment_id": "34f5227bfe5941b331d5",
       "video_bytes": 36053681,
       "video_sha256": "2a5837d4ca7de2118a03753cb3ad1a38c5c2f551010129660a2136bbff44b2d1"
+    },
+    {
+      "batch": "new",
+      "classification": "창작 코미디·YouTube 공식 트렌드 착안",
+      "id": "STORY-770",
+      "number": 770,
+      "photo": null,
+      "poster": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/STORY-770.jpg?v=774fe50934591fa6169c",
+      "production_batch": "fullauto_experiment10_20260909",
+      "production_slot": 3,
+      "ready": true,
+      "sources": [
+        {
+          "name": "YT_DESK_TREND",
+          "primary": true,
+          "url": "https://blog.youtube/culture-and-trends/desk-setup-videos/"
+        }
+      ],
+      "synopsis": "집중력을 높이려 꾸민 책상을 고양이에게 빼앗기는 창작 코미디.",
+      "title": "책상은 내가 샀는데 출근은 고양이가 함ㅋㅋ",
+      "titleBottom": "상사가 고양이",
+      "titleTop": "책상 풀세팅했더니",
+      "type": "adapted",
+      "uploadFilename": "책상은 내가 샀는데 출근은 고양이가 함ㅋㅋ_STORY-770_1080x1920.mp4",
+      "video": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/STORY-770.mp4?v=774fe50934591fa6169c",
+      "youtubeDescription": "책상을 꾸민 건 사람인데, 가장 집중해서 쓰는 건 고양이였습니다. YouTube 공식 Culture & Trends의 데스크 셋업 흐름에서 착안한 창작 AI 영상입니다.\n\nBGM: You Know Me — Jeremy Black / YouTube Audio Library",
+      "youtubePinnedComment": "선 정리, 모니터 높이, 키보드, 따뜻한 조명까지. 작업 환경을 정리했는데 정작 의자는 고양이가 차지해버린다는 창작 코미디입니다. 실제 제보나 실화로 소개하는 이야기는 아닙니다.\n\n기획에는 YouTube가 2026년 9월 2일 소개한 데스크 셋업 영상 트렌드를 참고했습니다. 공식 수치는 2026년 상반기 관련 제목·해시태그 영상의 누적 조회 지표이지, 오늘의 실시간 급상승 순위나 이 영상의 성공을 보장하는 수치는 아닙니다.",
+      "youtubeTitle": "책상은 내가 샀는데 출근은 고양이가 함ㅋㅋ",
+      "claims": [],
+      "commentPrompt": "",
+      "deployment_id": "774fe50934591fa6169c",
+      "video_bytes": 27555312,
+      "video_sha256": "f24d25e45e9d7fa2a3b4fa9d6cb34e1e13229d0b3fc0091306f4c2f10a3661d5"
     }
   ]
 }
