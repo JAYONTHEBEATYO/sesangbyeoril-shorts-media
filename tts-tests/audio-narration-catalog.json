@@ -1,6 +1,19 @@
 {
-  "updatedAt": "2026-09-09T08:30:30.527698Z",
+  "updatedAt": "2026-09-09T09:06:57.046528Z",
   "items": [
+    {
+      "storyCode": "STORY-771",
+      "version": "experiment10-group-pause-v2",
+      "title": "우주를 듣다가 전자레인지 잡음 ㄷㄷ",
+      "youtubeTitle": "우주를 듣다가 전자레인지 잡음 ㄷㄷ",
+      "durationSeconds": 41.863,
+      "audioUrl": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/tts-tests/STORY-771_narration_approval_experiment10-group-pause-v2.mp3?v=9e5712f548",
+      "downloadUrl": "https://raw.githubusercontent.com/JAYONTHEBEATYO/sesangbyeoril-shorts-media/gh-pages/tts-tests/STORY-771_narration_approval_experiment10-group-pause-v2.mp3?v=9e5712f548",
+      "playerUrl": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/tts-tests/STORY-771_audio_review_experiment10-group-pause-v2.html?v=9e5712f548",
+      "status": "승인 대기",
+      "updatedAt": "2026-09-09T09:06:57.046528Z",
+      "note": "이번 10편 실험의 위임 자동 ASR·자연 무음 경계 검수"
+    },
     {
       "storyCode": "STORY-775",
       "version": "experiment10-group-pause-v2",
