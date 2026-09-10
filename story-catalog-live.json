@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T07:39:03+0900",
+  "updated_at": "2026-09-10T13:17:43+0900",
   "stories": [
     {
       "id": "STORY-227",
@@ -1662,6 +1662,49 @@
       "deployment_id": "55e53ca145ea7244224b",
       "video_bytes": 63131444,
       "video_sha256": "3ffe8a8b75a1f50a219cd25b6e9d2c0943ac8143d4f4f13f1587445fc74bf0bf"
+    },
+    {
+      "batch": "new",
+      "classification": "과학 참고 기반 가상 시나리오 / AI 생성 영상",
+      "id": "STORY-773",
+      "number": 773,
+      "photo": null,
+      "poster": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/STORY-773.jpg?v=98ef7e7aa364252d36b1",
+      "production_batch": "fullauto_experiment10_20260909",
+      "production_slot": 7,
+      "ready": true,
+      "sources": [
+        {
+          "name": "NHM Dinosaur Directory: Tyrannosaurus",
+          "primary": true,
+          "url": "https://www.nhm.ac.uk/discover/dino-directory/tyrannosaurus.html"
+        },
+        {
+          "name": "AMNH: 7 Questions About Tyrannosaurus rex",
+          "primary": true,
+          "url": "https://www.amnh.org/dinosaurs/tyrannosaurus-rex"
+        },
+        {
+          "name": "Apple Support: iPhone 15 Tech Specs",
+          "primary": true,
+          "url": "https://support.apple.com/en-sg/111831"
+        }
+      ],
+      "synopsis": "12미터 티라노가 서울 뚝섬에서 냄새를 맡고 먹이를 찾는 가상 일상.",
+      "title": "티라노가 서울에 온다면?｜뚝섬 혼밥 난이도",
+      "titleBottom": "일단 밥부터",
+      "titleTop": "서울에 온 티라노",
+      "type": "adapted",
+      "uploadFilename": "티라노가 서울에 온다면｜뚝섬 혼밥 난이도_STORY-773_1080x1920.mp4",
+      "video": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/STORY-773.mp4?v=98ef7e7aa364252d36b1",
+      "youtubeDescription": "티라노가 2026년 9월 서울에 타임워프한다면? 건물을 부수는 괴수가 아니라, 마실 물과 먹이를 찾는 동물로 상상했습니다. AI 가상 시뮬레이션이며 실제 촬영이 아닙니다.\n\nBGM: You Know Me — Jeremy Black / YouTube Audio Library",
+      "youtubePinnedComment": "영상의 티라노는 코부터 꼬리까지 약 12미터인 개체입니다. 비교용 승용차를 4.8미터로 놓으면 두 대 반의 길이죠. 12미터는 키가 아닙니다. 사냥뿐 아니라 죽은 동물을 먹기도 했다는 연구 해석을 바탕으로 냄새와 먹이 탐색을 중심에 뒀습니다.\n\n한강에서의 행동, 관리 구역과 먹이 배치는 현대 서울에 나타났다는 설정 속 창작입니다. 실제 관찰 기록이나 검증된 야생동물 통제 방법이 아닙니다. 공룡 선정에는 18속의 영어 위키백과 최근 12개월 조회수를 대체 지표로 썼으며, 전 세계 검색량 TOP3라고 주장하지 않습니다.",
+      "youtubeTitle": "티라노가 서울에 온다면?｜뚝섬 혼밥 난이도",
+      "claims": [],
+      "commentPrompt": "",
+      "deployment_id": "98ef7e7aa364252d36b1",
+      "video_bytes": 44529113,
+      "video_sha256": "27296e339bf6ad0070cd5de02a1e4d896ce8f9c26200b48579cd2ce13398ba96"
     }
   ]
 }
