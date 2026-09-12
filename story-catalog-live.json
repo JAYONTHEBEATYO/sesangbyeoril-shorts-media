@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T20:54:10+0900",
+  "updated_at": "2026-09-12T21:35:52+0900",
   "stories": [
     {
       "id": "STORY-227",
@@ -1854,6 +1854,44 @@
       "deployment_id": "ac90a8e88543e38ed753",
       "video_bytes": 43449448,
       "video_sha256": "c31d84e9cfbc4076053150f20b6ffcebda60877ac9f97b69d1a8282884309df4"
+    },
+    {
+      "batch": "new",
+      "classification": "검증 실화",
+      "id": "STORY-771",
+      "number": 771,
+      "photo": null,
+      "poster": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/STORY-771.jpg?v=cb121fa9f2a3ce7d497c",
+      "production_batch": "fullauto_experiment10_20260909",
+      "production_slot": 5,
+      "ready": true,
+      "sources": [
+        {
+          "name": "PERYTON_PAPER",
+          "primary": true,
+          "url": "https://arxiv.org/html/1504.02165"
+        },
+        {
+          "name": "PARKES_PHOTO",
+          "primary": true,
+          "url": "https://commons.wikimedia.org/wiki/File:CSIRO_ScienceImage_7250_The_Radio_Telescope_at_Parkes.jpg"
+        }
+      ],
+      "synopsis": "전파망원경의 수상한 신호를 추적하다 전자레인지를 찾아낸 이야기.",
+      "title": "우주를 듣다가 전자레인지 잡음 ㄷㄷ",
+      "titleBottom": "범인은 바로 옆에 있었다",
+      "titleTop": "전파 망원경의 괴신호",
+      "type": "verified-adapted",
+      "uploadFilename": "우주를 듣다가 전자레인지 잡음 ㄷㄷ_STORY-771_1080x1920.mp4",
+      "video": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/STORY-771.mp4?v=cb121fa9f2a3ce7d497c",
+      "youtubeDescription": "우주를 듣던 망원경에 잡힌 신호. 그런데 범인은 가까운 전자레인지였습니다. 파크스 전파망원경의 페리톤 조사 사례를 바탕으로 한 AI 재연입니다.\n\nBGM: Jammin Bread — Casa Rosa's Tulum Vibes / YouTube Audio Library",
+      "youtubePinnedComment": "'페리톤'은 천문 신호처럼 보일 수 있는 특이한 전파 간섭이었습니다. 연구자들은 이미 지구 근처 원인일 가능성을 의심하고 있었고, 2015년에는 추가 감시 자료와 실험을 통해 전자레인지 동작과의 연관성을 확인했습니다.\n\n특정 상황에서 가열 도중 문을 열 때의 짧은 전파 방출이 관측과 연결됐습니다. 문을 연 채 계속 작동했다거나 안전장치를 일부러 해제했다는 뜻은 아닙니다. 수신 방향과 상황도 중요했습니다. 과학자들이 외계인이라고 확신했다가 망신당했다는 이야기가 아니라, 낯선 신호의 원인을 실험으로 좁혀간 사례죠.",
+      "youtubeTitle": "우주를 듣다가 전자레인지 잡음 ㄷㄷ",
+      "claims": [],
+      "commentPrompt": "",
+      "deployment_id": "cb121fa9f2a3ce7d497c",
+      "video_bytes": 29898965,
+      "video_sha256": "b1f4c6d4118daa92d1a2a2e44f2be4a96d93b2e5c19ec1131cf2c652ee010a31"
     }
   ]
 }
