@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T19:28:30+0900",
+  "updated_at": "2026-09-12T20:54:10+0900",
   "stories": [
     {
       "id": "STORY-227",
@@ -1801,6 +1801,59 @@
       "deployment_id": "f1b12c1b661e3ef41ea8",
       "video_bytes": 71960844,
       "video_sha256": "f4e4c270ea0fc95f29daa165b1c0c255dd84536affd8ab3490d8e8f8b210a6b2"
+    },
+    {
+      "batch": "new",
+      "classification": "과학 참고 기반 가상 시나리오 / AI 생성 영상",
+      "id": "STORY-774",
+      "number": 774,
+      "photo": null,
+      "poster": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/STORY-774.jpg?v=ac90a8e88543e38ed753",
+      "production_batch": "fullauto_experiment10_20260909",
+      "production_slot": 8,
+      "ready": true,
+      "sources": [
+        {
+          "name": "NHM Dinosaur Directory: Spinosaurus",
+          "primary": true,
+          "url": "https://www.nhm.ac.uk/discover/dino-directory/spinosaurus.html"
+        },
+        {
+          "name": "Ibrahim et al. 2020, Tail-propelled aquatic locomotion in a theropod dinosaur",
+          "primary": true,
+          "url": "https://www.nature.com/articles/s41586-020-2190-3"
+        },
+        {
+          "name": "Sereno et al. 2022, Spinosaurus is not an aquatic dinosaur",
+          "primary": true,
+          "url": "https://elifesciences.org/articles/80092"
+        },
+        {
+          "name": "UChicago: Hell-heron dinosaur discovered in the central Sahara",
+          "primary": true,
+          "url": "https://news.uchicago.edu/story/hell-heron-dinosaur-discovered-central-sahara"
+        },
+        {
+          "name": "Apple Support: iPhone 15 Tech Specs",
+          "primary": true,
+          "url": "https://support.apple.com/en-sg/111831"
+        }
+      ],
+      "synopsis": "14미터 스피노사우루스가 한강 얕은 물가에서 물고기를 찾는 가상 일상.",
+      "title": "스피노사우루스가 한강에 온다면?｜장비는 몸에 있음",
+      "titleBottom": "낚싯대는 필요 없음",
+      "titleTop": "한강 최대 낚시꾼",
+      "type": "adapted",
+      "uploadFilename": "스피노사우루스가 한강에 온다면｜장비는 몸에 있음_STORY-774_1080x1920.mp4",
+      "video": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/STORY-774.mp4?v=ac90a8e88543e38ed753",
+      "youtubeDescription": "한강에 스피노사우루스가 나타난다면, 빌딩보다 물고기에 관심이 많지 않을까요? 실제 추정 크기와 해부학을 참고한 AI 가상 시뮬레이션입니다.\n\nBGM: You Know Me — Jeremy Black / YouTube Audio Library",
+      "youtubePinnedComment": "스피노사우루스의 길쭉한 턱과 원뿔형 이빨은 물고기를 붙잡는 생활을 설명할 때 중요한 특징입니다. 영상 속 개체는 약 14미터로 설계했고, 몸길이는 코부터 꼬리까지입니다. 완전한 골격 하나에서 모든 치수가 확정된 것은 아니므로 복원에는 불확실성이 있습니다.\n\n특히 얼마나 능숙하게 헤엄치거나 잠수했는지는 연구자들 사이에서도 논쟁이 있습니다. 그래서 깊은 물에서 고속 추격하는 장면 대신 얕은 강가의 행동을 상상했습니다. 실제 한강에서 이런 공룡이 물고기를 잡았다는 기록은 없으며, 영상은 실사풍 AI 창작입니다.",
+      "youtubeTitle": "스피노사우루스가 한강에 온다면?｜장비는 몸에 있음",
+      "claims": [],
+      "commentPrompt": "",
+      "deployment_id": "ac90a8e88543e38ed753",
+      "video_bytes": 43449448,
+      "video_sha256": "c31d84e9cfbc4076053150f20b6ffcebda60877ac9f97b69d1a8282884309df4"
     }
   ]
 }
