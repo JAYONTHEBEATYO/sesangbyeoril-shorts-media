@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T13:17:43+0900",
+  "updated_at": "2026-09-12T18:19:47+0900",
   "stories": [
     {
       "id": "STORY-227",
@@ -1705,6 +1705,64 @@
       "deployment_id": "98ef7e7aa364252d36b1",
       "video_bytes": 44529113,
       "video_sha256": "27296e339bf6ad0070cd5de02a1e4d896ce8f9c26200b48579cd2ce13398ba96"
+    },
+    {
+      "batch": "new",
+      "classification": "검증 실화",
+      "id": "STORY-772",
+      "number": 772,
+      "photo": null,
+      "poster": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/STORY-772.jpg?v=524cac6c90945bc0840f",
+      "production_batch": "fullauto_experiment10_20260909",
+      "production_slot": 6,
+      "ready": true,
+      "sources": [
+        {
+          "name": "DART_MISSION",
+          "primary": true,
+          "url": "https://science.nasa.gov/mission/dart/"
+        },
+        {
+          "name": "DART_SPACECRAFT",
+          "primary": true,
+          "url": "https://science.nasa.gov/blogs/dart/2021/11/24/the-dart-spacecraft/"
+        },
+        {
+          "name": "DART_EARLY",
+          "primary": true,
+          "url": "https://www.nasa.gov/solar-system/early-results-from-nasas-dart-mission/"
+        },
+        {
+          "name": "DART_CURRENT",
+          "primary": true,
+          "url": "https://www.nasa.gov/missions/dart/nasas-dart-mission-changed-orbit-of-asteroid-didymos-around-sun/"
+        },
+        {
+          "name": "DART_IMPACT_ANALYSIS",
+          "primary": true,
+          "url": "https://www.nasa.gov/science-research/planetary-science/nasas-dart-data-validates-kinetic-impact-as-planetary-defense-method/"
+        },
+        {
+          "name": "DART_FINAL_PHOTO",
+          "primary": true,
+          "url": "https://commons.wikimedia.org/wiki/File:Dart_0401930049_43695_Final_image.png"
+        }
+      ],
+      "synopsis": "DART가 소행성의 작은 위성에 충돌해 궤도 주기를 바꾼 행성방어 실험.",
+      "title": "NASA가 소행성을 진짜 밀어버림 ㄷㄷ",
+      "titleBottom": "도는 시간이 바뀌었다",
+      "titleTop": "소행성에 우주선 박았더니",
+      "type": "verified-adapted",
+      "uploadFilename": "NASA가 소행성을 진짜 밀어버림 ㄷㄷ_STORY-772_1080x1920.mp4",
+      "video": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/STORY-772.mp4?v=524cac6c90945bc0840f",
+      "youtubeDescription": "소행성에 우주선을 직접 충돌시켜 길을 조금 바꿨습니다. NASA DART의 2022년 실험을 바탕으로 한 AI 시각화입니다. 지구로 돌진하던 소행성을 긴급히 막은 사건은 아닙니다.\n\nAudionautix의 Thump에는 크리에이티브 커먼즈 저작자 표시 4.0 라이선스가 적용됩니다. https://creativecommons.org/licenses/by/4.0/\n아티스트: http://audionautix.com/\n원곡을 주인장이 편집했고, 영상 길이에 맞춘 절단·음량조절·끝 페이드아웃을 적용했습니다.\n\n실제 DART/DRACO 기록 사진: NASA/Johns Hopkins APL. 2022-09-26 충돌 약 2초 전, 약 12 km 거리에서 촬영한 마지막 완전 수신 이미지. 공식 출처: https://www.nasa.gov/solar-system/early-results-from-nasas-dart-mission/ 이용 지침: https://www.nasa.gov/nasa-brand-center/images-and-media/ 생성 장면은 설명용 재구성이며 NASA가 제작·검토·승인한 영상이 아닙니다. 이 NASA 크레딧은 실제 기록 사진에만 적용됩니다. 다운로드 게시본은 변경하지 않았습니다. 영상에는 전체 사진의 비율을 유지한 축소본을, 흐린 확대 배경 위에 배치했습니다.",
+      "youtubePinnedComment": "디모르포스는 더 큰 소행성 디디모스 주위를 도는 작은 동반 천체입니다. DART는 여기에 충돌했고, 충돌 뒤 공전 주기는 약 33분 짧아졌습니다. 궤도 자체를 관측해 변화량을 확인한 실제 실험입니다.\n\n우주선이 전달한 운동량뿐 아니라 밖으로 튀어나간 물질의 반작용도 중요했습니다. 영상의 비유는 이 원리를 쉽게 설명한 것이며, 소행성을 통째로 폭파했다는 뜻은 아닙니다. 충분히 일찍 작은 궤도 변화를 주면 먼 미래의 위치를 바꿀 수 있는지 확인하는 행성방어 연구였습니다.",
+      "youtubeTitle": "NASA가 소행성을 진짜 밀어버림 ㄷㄷ",
+      "claims": [],
+      "commentPrompt": "",
+      "deployment_id": "524cac6c90945bc0840f",
+      "video_bytes": 43175243,
+      "video_sha256": "bf2b3d2f13c77688a8b62a34007aa6732aadf8d27bd095bd13c5f0e153466ced"
     }
   ]
 }
