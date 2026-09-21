@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-14T09:00:00+09:00",
+  "updatedAt": "2026-09-21T09:00:00+09:00",
   "policy": {
     "approvedOnly": true,
     "weeklyRecommendationsAreProductionEligible": false,
@@ -149,7 +149,55 @@
   ],
   "weeklyRecommendations": [
     {
-      "id": "weekly-2026-w38-1",
+      "id": "weekly-2026-w39-1",
+      "poolId": "sk8tboard",
+      "title": "Sk8tboard",
+      "artist": "Audionautix",
+      "genre": "댄스/일렉트로닉",
+      "mood": "어두움",
+      "reason": "수색과 기묘한 실화",
+      "status": "candidate_only",
+      "audioUrl": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/tts-tests/bgm-weekly/2026-W39/sk8tboard.mp3",
+      "sourceUrl": "https://audionautix.com/"
+    },
+    {
+      "id": "weekly-2026-w39-2",
+      "poolId": "berliner",
+      "title": "Berliner",
+      "artist": "Jeremy Black",
+      "genre": "댄스/일렉트로닉",
+      "mood": "펑키",
+      "reason": "빠른 컷과 황당 사건 폭주",
+      "status": "candidate_only",
+      "audioUrl": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/tts-tests/bgm-weekly/2026-W39/berliner.mp3",
+      "sourceUrl": "https://www.youtube.com/audiolibrary/music"
+    },
+    {
+      "id": "weekly-2026-w39-3",
+      "poolId": "bongo_rave",
+      "title": "Bongo Rave",
+      "artist": "Jeremy Black",
+      "genre": "댄스/일렉트로닉",
+      "mood": "활기참",
+      "reason": "추격과 장면 전환이 많은 사건",
+      "status": "candidate_only",
+      "audioUrl": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/tts-tests/bgm-weekly/2026-W39/bongo_rave.mp3",
+      "sourceUrl": "https://www.youtube.com/audiolibrary/music"
+    },
+    {
+      "id": "weekly-2026-w39-4",
+      "poolId": "window_shopping",
+      "title": "Window Shopping",
+      "artist": "Jeremy Black",
+      "genre": "댄스/일렉트로닉",
+      "mood": "행복",
+      "reason": "생활 문화와 가벼운 커뮤니티 사연",
+      "status": "candidate_only",
+      "audioUrl": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/tts-tests/bgm-weekly/2026-W39/window_shopping.mp3",
+      "sourceUrl": "https://www.youtube.com/audiolibrary/music"
+    },
+    {
+      "id": "weekly-2026-w39-5",
       "poolId": "y2k_heist",
       "title": "Y2K Heist",
       "artist": "Rod Kim",
@@ -157,61 +205,13 @@
       "mood": "장난기",
       "reason": "허술한 범죄와 게임형 밈",
       "status": "candidate_only",
-      "audioUrl": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/tts-tests/bgm-weekly/2026-W38/y2k_heist.mp3",
+      "audioUrl": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/tts-tests/bgm-weekly/2026-W39/y2k_heist.mp3",
       "sourceUrl": "https://www.youtube.com/audiolibrary/music"
-    },
-    {
-      "id": "weekly-2026-w38-2",
-      "poolId": "conspiracy_theory",
-      "title": "Conspiracy Theory",
-      "artist": "Rod Kim",
-      "genre": "댄스/일렉트로닉",
-      "mood": "기묘함",
-      "reason": "과학 미스터리와 의심스러운 초반",
-      "status": "candidate_only",
-      "audioUrl": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/tts-tests/bgm-weekly/2026-W38/conspiracy_theory.mp3",
-      "sourceUrl": "https://www.youtube.com/audiolibrary/music"
-    },
-    {
-      "id": "weekly-2026-w38-3",
-      "poolId": "hot_drop_bus",
-      "title": "Hot Drop Bus",
-      "artist": "Rod Kim",
-      "genre": "댄스/일렉트로닉",
-      "mood": "강렬함",
-      "reason": "첫 3초부터 뛰어드는 강한 사건",
-      "status": "candidate_only",
-      "audioUrl": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/tts-tests/bgm-weekly/2026-W38/hot_drop_bus.mp3",
-      "sourceUrl": "https://www.youtube.com/audiolibrary/music"
-    },
-    {
-      "id": "weekly-2026-w38-4",
-      "poolId": "revive_the_light",
-      "title": "Revive The Light",
-      "artist": "Ryan Stasik · Kanika Moore",
-      "genre": "댄스/일렉트로닉",
-      "mood": "희망적",
-      "reason": "구조와 생환 후반 상승감",
-      "status": "candidate_only",
-      "audioUrl": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/tts-tests/bgm-weekly/2026-W38/revive_the_light.mp3",
-      "sourceUrl": "https://www.youtube.com/audiolibrary/music"
-    },
-    {
-      "id": "weekly-2026-w38-5",
-      "poolId": "the_big_house",
-      "title": "The Big House",
-      "artist": "Audionautix",
-      "genre": "댄스/일렉트로닉",
-      "mood": "펑키",
-      "reason": "황당 사건이 연쇄적으로 커지는 코미디",
-      "status": "candidate_only",
-      "audioUrl": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/tts-tests/bgm-weekly/2026-W38/the_big_house.mp3",
-      "sourceUrl": "https://audionautix.com/"
     }
   ],
   "weekly": {
-    "week": "2026-W38",
-    "nextRefresh": "2026-09-21T09:00:00+09:00",
+    "week": "2026-W39",
+    "nextRefresh": "2026-09-28T09:00:00+09:00",
     "source": "YouTube Studio Audio Library candidate pool",
     "selection": "deterministic-fallback"
   }
