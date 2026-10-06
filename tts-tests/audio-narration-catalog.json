@@ -1,6 +1,19 @@
 {
-  "updatedAt": "2026-10-06T18:05:36.920169Z",
+  "updatedAt": "2026-10-06T18:52:37.032864Z",
   "items": [
+    {
+      "storyCode": "STORY-774",
+      "version": "experiment10-revision-20261006-v3",
+      "title": "스피노사우루스가 한강에 온다면?｜장비는 몸에 있음",
+      "youtubeTitle": "스피노사우루스가 한강에 온다면?｜장비는 몸에 있음",
+      "durationSeconds": 72.107,
+      "audioUrl": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/tts-tests/STORY-774_narration_approval_experiment10-revision-20261006-v3.mp3?v=021852ded8",
+      "downloadUrl": "https://raw.githubusercontent.com/JAYONTHEBEATYO/sesangbyeoril-shorts-media/gh-pages/tts-tests/STORY-774_narration_approval_experiment10-revision-20261006-v3.mp3?v=021852ded8",
+      "playerUrl": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/tts-tests/STORY-774_audio_review_experiment10-revision-20261006-v3.html?v=021852ded8",
+      "status": "승인 대기",
+      "updatedAt": "2026-10-06T18:52:37.032864Z",
+      "note": "이번 10편 실험의 위임 자동 ASR·자연 무음 경계 검수"
+    },
     {
       "storyCode": "STORY-775",
       "version": "experiment10-revision-20261006-v3",
@@ -77,19 +90,6 @@
       "playerUrl": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/tts-tests/STORY-771_audio_review_experiment10-revision-20261006-v3.html?v=59bca455de",
       "status": "승인 대기",
       "updatedAt": "2026-10-06T10:05:26.039854Z",
-      "note": "이번 10편 실험의 위임 자동 ASR·자연 무음 경계 검수"
-    },
-    {
-      "storyCode": "STORY-774",
-      "version": "experiment10-group-pause-v5-body-spacing-terminal",
-      "title": "스피노사우루스가 한강에 온다면?｜장비는 몸에 있음",
-      "youtubeTitle": "스피노사우루스가 한강에 온다면?｜장비는 몸에 있음",
-      "durationSeconds": 29.99,
-      "audioUrl": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/tts-tests/STORY-774_narration_approval_experiment10-group-pause-v5-body-spacing-terminal.mp3?v=0c5e2e2ef9",
-      "downloadUrl": "https://raw.githubusercontent.com/JAYONTHEBEATYO/sesangbyeoril-shorts-media/gh-pages/tts-tests/STORY-774_narration_approval_experiment10-group-pause-v5-body-spacing-terminal.mp3?v=0c5e2e2ef9",
-      "playerUrl": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/tts-tests/STORY-774_audio_review_experiment10-group-pause-v5-body-spacing-terminal.html?v=0c5e2e2ef9",
-      "status": "승인 대기",
-      "updatedAt": "2026-09-09T18:19:58.658989Z",
       "note": "이번 10편 실험의 위임 자동 ASR·자연 무음 경계 검수"
     },
     {
