@@ -1,6 +1,19 @@
 {
-  "updatedAt": "2026-09-09T18:19:58.658989Z",
+  "updatedAt": "2026-10-06T10:05:26.039854Z",
   "items": [
+    {
+      "storyCode": "STORY-771",
+      "version": "experiment10-revision-20261006-v3",
+      "title": "우주를 듣다가 전자레인지 잡음 ㄷㄷ",
+      "youtubeTitle": "우주를 듣다가 전자레인지 잡음 ㄷㄷ",
+      "durationSeconds": 69.488,
+      "audioUrl": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/tts-tests/STORY-771_narration_approval_experiment10-revision-20261006-v3.mp3?v=59bca455de",
+      "downloadUrl": "https://raw.githubusercontent.com/JAYONTHEBEATYO/sesangbyeoril-shorts-media/gh-pages/tts-tests/STORY-771_narration_approval_experiment10-revision-20261006-v3.mp3?v=59bca455de",
+      "playerUrl": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/tts-tests/STORY-771_audio_review_experiment10-revision-20261006-v3.html?v=59bca455de",
+      "status": "승인 대기",
+      "updatedAt": "2026-10-06T10:05:26.039854Z",
+      "note": "이번 10편 실험의 위임 자동 ASR·자연 무음 경계 검수"
+    },
     {
       "storyCode": "STORY-774",
       "version": "experiment10-group-pause-v5-body-spacing-terminal",
@@ -77,19 +90,6 @@
       "playerUrl": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/tts-tests/STORY-769_audio_review_experiment10-group-pause-v2.html?v=a82af27f92",
       "status": "승인 대기",
       "updatedAt": "2026-09-09T09:16:37.554432Z",
-      "note": "이번 10편 실험의 위임 자동 ASR·자연 무음 경계 검수"
-    },
-    {
-      "storyCode": "STORY-771",
-      "version": "experiment10-group-pause-v2",
-      "title": "우주를 듣다가 전자레인지 잡음 ㄷㄷ",
-      "youtubeTitle": "우주를 듣다가 전자레인지 잡음 ㄷㄷ",
-      "durationSeconds": 41.863,
-      "audioUrl": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/tts-tests/STORY-771_narration_approval_experiment10-group-pause-v2.mp3?v=9e5712f548",
-      "downloadUrl": "https://raw.githubusercontent.com/JAYONTHEBEATYO/sesangbyeoril-shorts-media/gh-pages/tts-tests/STORY-771_narration_approval_experiment10-group-pause-v2.mp3?v=9e5712f548",
-      "playerUrl": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/tts-tests/STORY-771_audio_review_experiment10-group-pause-v2.html?v=9e5712f548",
-      "status": "승인 대기",
-      "updatedAt": "2026-09-09T09:06:57.046528Z",
       "note": "이번 10편 실험의 위임 자동 ASR·자연 무음 경계 검수"
     },
     {
