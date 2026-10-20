@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-16T08:22:22.147507Z",
+  "updatedAt": "2026-10-20T13:00:45.223112Z",
   "items": [
     {
       "storyCode": "TA-TERMS-20261016",
-      "version": "v5",
-      "title": "타로 입문 용어 총정리 · 수정 나레이션 v5",
+      "version": "v6",
+      "title": "타로 입문 용어 · 요청 두 곳만 수정 v6",
       "youtubeTitle": "",
-      "durationSeconds": 849.23,
-      "audioUrl": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/tts-tests/TA-TERMS-20261016_narration_approval_v5.mp3?v=99129f4b4f",
-      "downloadUrl": "https://raw.githubusercontent.com/JAYONTHEBEATYO/sesangbyeoril-shorts-media/gh-pages/tts-tests/TA-TERMS-20261016_narration_approval_v5.mp3?v=99129f4b4f",
-      "playerUrl": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/tts-tests/TA-TERMS-20261016_audio_review_v5.html?v=99129f4b4f",
+      "durationSeconds": 849.261,
+      "audioUrl": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/tts-tests/TA-TERMS-20261016_narration_approval_v6.mp3?v=57227af20f",
+      "downloadUrl": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/tts-tests/TA-TERMS-20261016_narration_approval_v6.mp3?v=57227af20f",
+      "playerUrl": "https://jayonthebeatyo.github.io/sesangbyeoril-shorts-media/tts-tests/TA-TERMS-20261016_audio_review_v6.html?v=57227af20f",
       "status": "승인 대기",
-      "updatedAt": "2026-10-16T08:22:22.147507Z",
-      "note": "사용자 표시 오류 및 수정 문구의 국소 교체, 전체 자동 전사 대조 및 음량 검사 통과. 정상 원본 구간은 보존. 최종 사용자 청취 확인 대기."
+      "updatedAt": "2026-10-20T13:00:45.223112Z",
+      "note": "두 요청 구간만 수정. 기술 검증 완료, 제작자 최종 청취 확인용."
     },
     {
       "storyCode": "STORY-774",
