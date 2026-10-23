@@ -1,0 +1,149 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="robots" content="noindex,nofollow,noarchive">
+  <meta name="referrer" content="no-referrer">
+  <meta name="theme-color" content="#193d32">
+  <title>타로 입문 용어 — 편집 검토본</title>
+  <style>
+    :root{color-scheme:light;--paper:#f5f1e8;--ink:#193d32;--muted:#5c685d;--line:#d9dfd3;--white:#fffdf8;font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans KR","Malgun Gothic",sans-serif}
+    *{box-sizing:border-box}
+    body{margin:0;background:var(--paper);color:var(--ink);-webkit-text-size-adjust:100%}
+    main{max-width:1040px;margin:auto;padding:32px max(18px,env(safe-area-inset-right)) max(36px,env(safe-area-inset-bottom)) max(18px,env(safe-area-inset-left))}
+    .eyebrow{margin:0 0 12px;font-size:12px;font-weight:750;letter-spacing:.13em}
+    h1{margin:0;font-size:clamp(25px,5.8vw,42px);line-height:1.25;letter-spacing:-.04em;font-weight:760;text-wrap:balance}
+    .subtitle{margin:12px 0 22px;color:var(--muted);font-size:14px;line-height:1.65}
+    .player{overflow:hidden;border:1px solid var(--line);border-radius:16px;background:#0e1713;box-shadow:0 10px 32px #193d3210}
+    video{display:block;width:100%;aspect-ratio:16/9;object-fit:contain;background:#0e1713}
+    .player-meta{display:flex;align-items:center;justify-content:space-between;gap:12px;min-height:49px;padding:12px 16px;background:var(--white);font-size:13px;font-variant-numeric:tabular-nums}
+    #status{margin:0;color:var(--muted);line-height:1.4}
+    #clock{flex-shrink:0;color:var(--ink);font-weight:650}
+    .tools{display:flex;flex-wrap:wrap;gap:10px;margin:14px 0 28px}
+    .tool{display:inline-flex;justify-content:center;align-items:center;min-height:44px;padding:10px 15px;border:1px solid var(--line);border-radius:10px;background:var(--white);color:var(--ink);font:inherit;font-size:14px;font-weight:650;text-decoration:none;cursor:pointer}
+    .tool.primary{background:var(--ink);border-color:var(--ink);color:var(--white)}
+    h2{font-size:18px;letter-spacing:-.03em;margin:0 0 13px}
+    .chapters{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:9px}
+    .chapter{display:flex;gap:13px;align-items:center;width:100%;min-height:68px;text-align:left;border:1px solid var(--line);border-radius:11px;padding:13px;background:var(--white);color:var(--ink);font:inherit;cursor:pointer;transition:background .16s,border-color .16s}
+    .chapter .time{font-variant-numeric:tabular-nums;font-size:12px;font-weight:700;flex-shrink:0;color:var(--muted)}
+    .chapter .name{font-size:14px;line-height:1.45;word-break:keep-all}
+    .chapter:hover{border-color:#95aa99;background:#edf2e9}
+    .chapter[aria-current="true"]{background:#e4ecdf;border-color:#71907a}
+    .chapter[aria-current="true"] .time{color:var(--ink)}
+    :focus-visible{outline:3px solid #a17c32;outline-offset:4px}
+    .note{color:var(--muted);font-size:12px;line-height:1.65;margin:12px 0 0}
+    footer{margin-top:30px;padding-top:18px;border-top:1px solid var(--line);color:var(--muted);font-size:12px;line-height:1.7}
+    footer strong{color:var(--ink);font-weight:650}
+    @media(max-width:750px){.chapters{grid-template-columns:repeat(2,minmax(0,1fr))}}
+    @media(max-width:450px){main{padding-top:24px}.player{border-radius:12px}.player-meta{padding:11px 12px;align-items:flex-start}.chapters{grid-template-columns:1fr}.chapter{min-height:58px}.tools{margin-bottom:25px}.tool{flex:1}.subtitle{font-size:13px}}
+    @media(prefers-reduced-motion:reduce){*{scroll-behavior:auto!important;transition:none!important}}
+  </style>
+</head>
+<body>
+  <main>
+    <header>
+      <p class="eyebrow">타로아저씨 · EDIT REVIEW</p>
+      <h1>타로 입문 용어<br>편집 검토본</h1>
+      <p class="subtitle">전체 영상을 보거나, 아래 챕터를 눌러 원하는 부분부터 확인하세요.</p>
+    </header>
+    <section class="player" aria-label="편집본 재생">
+      <video id="video" controls playsinline webkit-playsinline preload="metadata" poster="https://shorts-media.bgmfree.com/reviews/TA-TERMS-20261023/2f85cf94e07f0d9d144b_poster.jpg?v=a2a5a36324bfdf8553f3" src="https://shorts-media.bgmfree.com/reviews/TA-TERMS-20261023/2f85cf94e07f0d9d144b.mp4?v=2f85cf94e07f0d9d144b" aria-label="타로 입문 용어 편집 검토 영상">
+        이 브라우저에서 영상 재생을 지원하지 않습니다. 아래 ‘영상 직접 열기’를 이용해 주세요.
+      </video>
+      <div class="player-meta">
+        <p id="status" role="status" aria-live="polite">재생 버튼을 눌러 주세요.</p>
+        <span id="clock" aria-label="현재 재생 시간과 전체 길이">0:00 / —</span>
+      </div>
+    </section>
+    <div class="tools">
+      <button id="resume" class="tool primary" type="button">처음부터 재생</button>
+      <a class="tool" href="https://shorts-media.bgmfree.com/reviews/TA-TERMS-20261023/2f85cf94e07f0d9d144b.mp4?v=2f85cf94e07f0d9d144b" target="_blank" rel="noopener noreferrer">영상 직접 열기 ↗</a>
+    </div>
+    <section aria-labelledby="chapter-heading">
+      <h2 id="chapter-heading">챕터 바로 보기</h2>
+      <!-- Times are the preserved v7 narration chapter starts; not a new edit decision list. -->
+      <div class="chapters">
+        <button class="chapter" type="button" data-start="0" aria-current="true"><span class="time">00:00</span><span class="name">낯선 용어, 오늘 한 번에</span></button>
+        <button class="chapter" type="button" data-start="38.14"><span class="time">00:38</span><span class="name">덱과 카드 체계</span></button>
+        <button class="chapter" type="button" data-start="129.1"><span class="time">02:09</span><span class="name">78장의 구성</span></button>
+        <button class="chapter" type="button" data-start="274.82"><span class="time">04:34</span><span class="name">섞고 펼치고 뽑기</span></button>
+        <button class="chapter" type="button" data-start="451.52"><span class="time">07:31</span><span class="name">정방향과 역방향</span></button>
+        <button class="chapter" type="button" data-start="536.2"><span class="time">08:56</span><span class="name">배열법과 셔플 전 원칙</span></button>
+        <button class="chapter" type="button" data-start="605.94"><span class="time">10:05</span><span class="name">리딩과 읽는 사람</span></button>
+        <button class="chapter" type="button" data-start="706.32"><span class="time">11:46</span><span class="name">커뮤니티 줄임말</span></button>
+        <button class="chapter" type="button" data-start="829"><span class="time">13:49</span><span class="name">함께 공부하는 마무리</span></button>
+      </div>
+      <p class="note">챕터 시간은 기존 내레이션 기준입니다. 내용의 시작과 약간 차이 날 수 있습니다.</p>
+    </section>
+    <footer>
+      <strong>비목록 검토 링크 · 로그인 보호 없음</strong><br>
+      공개 목록에는 등록하지 않은 검토용 페이지입니다. 링크를 가진 사람은 열 수 있습니다.
+    </footer>
+    <noscript><p class="note">자바스크립트가 꺼져 있어 챕터 이동 버튼은 작동하지 않습니다. 영상의 기본 재생 바를 이용해 주세요.</p></noscript>
+  </main>
+  <script>
+    (() => {
+      'use strict';
+      const video = document.getElementById('video');
+      const status = document.getElementById('status');
+      const clock = document.getElementById('clock');
+      const chapters = Array.from(document.querySelectorAll('.chapter'));
+      let pendingSeek = null;
+      const formatTime = value => {
+        if (!Number.isFinite(value)) return '—';
+        const seconds = Math.max(0, Math.floor(value));
+        return `${Math.floor(seconds / 60)}:${String(seconds % 60).padStart(2, '0')}`;
+      };
+      const refresh = () => {
+        clock.textContent = `${formatTime(video.currentTime)} / ${formatTime(video.duration)}`;
+        let current = 0;
+        chapters.forEach((button, index) => {
+          if (Number(button.dataset.start) <= video.currentTime + 0.05) current = index;
+        });
+        chapters.forEach((button, index) => {
+          if (index === current) button.setAttribute('aria-current', 'true');
+          else button.removeAttribute('aria-current');
+        });
+      };
+      const requestPlayback = () => {
+        const result = video.play();
+        if (result && typeof result.catch === 'function') {
+          result.catch(() => { status.textContent = '영상의 재생 버튼을 눌러 주세요.'; });
+        }
+      };
+      const seekTo = seconds => {
+        if (video.readyState >= 1) {
+          video.currentTime = Number.isFinite(video.duration) ? Math.min(seconds, Math.max(0, video.duration - 0.05)) : seconds;
+          requestPlayback();
+          refresh();
+        } else {
+          pendingSeek = seconds;
+          status.textContent = '영상 정보를 불러오는 중입니다…';
+          video.load();
+        }
+      };
+      chapters.forEach(button => button.addEventListener('click', () => {
+        seekTo(Number(button.dataset.start));
+        video.scrollIntoView({block:'center',behavior:window.matchMedia('(prefers-reduced-motion: reduce)').matches?'auto':'smooth'});
+      }));
+      document.getElementById('resume').addEventListener('click', () => seekTo(0));
+      video.addEventListener('loadedmetadata', () => {
+        if (pendingSeek !== null) {
+          const requested = pendingSeek;
+          pendingSeek = null;
+          seekTo(requested);
+        }
+        refresh();
+      });
+      video.addEventListener('timeupdate', refresh);
+      video.addEventListener('durationchange', refresh);
+      video.addEventListener('playing', () => { status.textContent = '재생 중'; });
+      video.addEventListener('waiting', () => { status.textContent = '영상을 불러오는 중입니다…'; });
+      video.addEventListener('pause', () => { if (!video.ended) status.textContent = '일시 정지'; });
+      video.addEventListener('ended', () => { status.textContent = '영상이 끝났습니다.'; });
+      video.addEventListener('error', () => { status.textContent = '재생할 수 없습니다. ‘영상 직접 열기’를 눌러 확인해 주세요.'; });
+    })();
+  </script>
+</body>
+</html>
